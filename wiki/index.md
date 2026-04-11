@@ -24,6 +24,7 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 ### Stub source pages
 
 - [[index-stubs]] — **298 auto-generated stubs** for the rest of the Lenny's Podcast library, sorted by publish date. Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
+- [[index-by-theme]] — the same 298 stubs **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). This is the batch plan for deep ingesting the backlog one theme at a time.
 
 ## Entities
 

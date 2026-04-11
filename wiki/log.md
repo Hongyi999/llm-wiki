@@ -44,3 +44,7 @@ Moved all 303 Lenny's Podcast transcripts from `raw/*.md` to `raw/lenny-podcast/
 ## [2026-04-10] ingest-bulk | 298 stub source pages auto-generated
 
 Generated stub source pages for every Lenny's Podcast transcript not yet deeply ingested (298 of 303 total). Each stub is auto-extracted from the transcript's YAML frontmatter (title, guest, publish_date, duration, description, keywords) and tagged with `status: stub` for easy filtering. Stubs live at `wiki/source-<stem>.md`. Created [[index-stubs]] as an auto-generated index grouped by publish year. Deep analysis (entity / concept / synthesis pages) is done on-demand per topic or per guest — see [[index-stubs]] for the full catalog.
+
+## [2026-04-11] plan | 11-batch thematic deep-ingest plan
+
+Clustered all 298 stub sources by theme via regex over `title + description`, producing a batch plan for on-demand deep ingest. Final distribution: AI products (65), product discovery & PM craft (61), hiring & management (52), growth (31), positioning & narrative (22), sales+GTM+pricing (22), design+founder (24), data+career+misc (21). AI products and product discovery and hiring are split into two parts each to keep batch sizes 20–35 sources. See [[index-by-theme]] for the full ordered batch plan. No source pages changed in this step — only the plan doc and index update. Deep ingest begins with B1 on user confirmation.
