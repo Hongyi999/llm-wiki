@@ -8,7 +8,7 @@ tags: [index, batch-plan, lenny-podcast]
 
 # Wiki Index — By Theme
 
-This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast transcripts. Sources are clustered by theme (via regex over `title` + `description`), sorted by publish date within each theme, and split into 11 batches sized for coherent cross-source synthesis per batch.
+This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast transcripts. Sources are clustered by theme (via regex over `title` + `description`), sorted by publish date within each theme, and split into 11 batches sized for coherent cross-source synthesis per batch.
 
 **Legend**:
 - Each batch becomes one ingest session that produces: updated source pages (replacing stubs with deep ingests), entity/concept pages, 1 comparison page, and 1 synthesis page for the theme.
@@ -18,24 +18,24 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 
 | Batch | Theme | Source count |
 |---|---|---:|
-| **B1** | AI products & LLMs — Part 1 (newer: 2025+) | 33 |
+| **B1** | AI products & LLMs — Part 1 (newer: 2025+) | 29 |
 | **B2** | AI products & LLMs — Part 2 (2024 and earlier) | 32 |
-| **B3** | Product strategy & PM craft — Part 1 (newer) | 31 |
-| **B4** | Product strategy & PM craft — Part 2 (older) | 30 |
-| **B5** | Hiring, management & leadership — Part 1 (newer) | 26 |
-| **B6** | Hiring, management & leadership — Part 2 (older) | 26 |
+| **B3** | Product strategy & PM craft — Part 1 (newer) | 30 |
+| **B4** | Product strategy & PM craft — Part 2 (older) | 29 |
+| **B5** | Hiring, management & leadership — Part 1 (newer) | 25 |
+| **B6** | Hiring, management & leadership — Part 2 (older) | 24 |
 | **B7** | Growth loops, acquisition, retention & activation | 31 |
-| **B8** | Positioning, narrative & messaging | 22 |
-| **B9** | Sales, GTM & pricing | 22 |
+| **B8** | Positioning, narrative & messaging | 21 |
+| **B9** | Sales, GTM & pricing | 21 |
 | **B10** | Design, craft & founder-led 0→1 | 24 |
 | **B11** | Data & metrics + Career/ICs + misc | 21 |
-| | **Total** | **298** |
+| | **Total** | **287** |
 
 ## Batches
 
 ### B1 — AI products & LLMs — Part 1 (newer: 2025+)
 
-**Count**: 33  
+**Count**: 29  
 **Themes**: ai-products  
 **Status**: ⏳ pending deep ingest
 
@@ -44,20 +44,16 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-sander-schulhoff-20|Why securing AI is harder than anyone expected and guardrails are failing \| HackAPrompt C]] — *Sander Schulhoff 2.0* (2025-12-21)
 - [[source-elena-verna-40|The new AI growth playbook for 2026 \| How Lovable hit $200M ARR in one year]] — *Elena Verna 4.0* (2025-12-18)
 - [[source-edwin-chen|The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI \| Edw]] — *Edwin Chen* (2025-12-07)
-- [[source-tomer-cohen-20|Why AI is disrupting traditional product management \| Tomer Cohen (LinkedIn CPO)]] — *Tomer Cohen 2.0* (2025-12-04)
 - [[source-tomer-cohen|Why AI is disrupting traditional product management \| Tomer Cohen (LinkedIn CPO)]] — *Tomer Cohen* (2025-12-04)
 - [[source-dr-fei-fei-li|The Godmother of AI on jobs, robots & why world models are next \| Dr. Fei-Fei Li]] — *Dr. Fei Fei Li* (2025-11-16)
-- [[source-fei-fei|The Godmother of AI on jobs, robots & why world models are next \| Dr. Fei-Fei Li]] — *Fei Fei* (2025-11-16)
 - [[source-grant-lee|“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma \| Grant Lee (co-founder)]] — *Grant Lee* (2025-11-13)
 - [[source-dhanji-r-prasanna|How Block is becoming the most AI-native enterprise in the world \| Dhanji R. Prasanna]] — *Dhanji R. Prasanna* (2025-10-26)
 - [[source-chip-huyen|Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)]] — *Chip Huyen* (2025-10-23)
-- [[source-nicole-forsgren-20|How to measure AI developer productivity in 2025 \| Nicole Forsgren]] — *Nicole Forsgren 2.0* (2025-10-19)
 - [[source-nicole-forsgren|How to measure AI developer productivity in 2025 \| Nicole Forsgren]] — *Nicole Forsgren* (2025-10-19)
 - [[source-dylan-field|Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups \| Dylan Fi]] — *Dylan Field* (2025-10-16)
 - [[source-robby-stein|Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search \| ]] — *Robby Stein* (2025-10-10)
 - [[source-jason-droege|Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are buil]] — *Jason Droege* (2025-10-09)
 - [[source-hamel-husain-shreya-shankar|Why AI evals are the hottest new skill for product builders \| Hamel Husain & Shreya Shank]] — *Hamel Husain & Shreya Shankar* (2025-09-25)
-- [[source-hamelshreya|Why AI evals are the hottest new skill for product builders \| Hamel Husain & Shreya Shank]] — *Hamel+Shreya* (2025-09-25)
 - [[source-julian-shapiro|From managing people to managing AI: The leadership skills everyone needs now \| Julie Zhu]] — *Julian Shapiro* (2025-09-21)
 - [[source-julie-zhuo|From managing people to managing AI: The leadership skills everyone needs now \| Julie Zhu]] — *Julie Zhuo* (2025-09-21)
 - [[source-brendan-foody|Why experts writing AI evals is creating the fastest-growing companies in history \| Brend]] — *Brendan Foody* (2025-09-18)
@@ -114,7 +110,7 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 
 ### B3 — Product strategy & PM craft — Part 1 (newer)
 
-**Count**: 31  
+**Count**: 30  
 **Themes**: product-discovery  
 **Status**: ⏳ pending deep ingest
 
@@ -123,7 +119,6 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-matt-lemay|The one question that saves product careers \| Matt LeMay]] — *Matt LeMay* (2025-08-14)
 - [[source-matt-mullenweg|The one question that saves product careers \| Matt LeMay]] — *Matt Mullenweg* (2025-08-14)
 - [[source-mayur-kamat|Unconventional product lessons from Binance, N26, Google, more \| Mayur Kamat (CPO at N26)]] — *Mayur Kamat* (2025-05-22)
-- [[source-ryan-hoover|A better way to plan, build, and ship products \| Ryan Singer (creator of “Shape Up")]] — *Ryan Hoover* (2025-03-30)
 - [[source-ryan-singer|A better way to plan, build, and ship products \| Ryan Singer (creator of “Shape Up")]] — *Ryan Singer* (2025-03-30)
 - [[source-keith-coleman-jay-baxter|An inside look at X’s Community Notes \| Keith Coleman & Jay Baxter]] — *Keith Coleman & Jay Baxter* (2025-02-27)
 - [[source-bob-moesta|How to find work you love \| Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”]] — *Bob Moesta* (2025-02-23)
@@ -152,7 +147,7 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 
 ### B4 — Product strategy & PM craft — Part 2 (older)
 
-**Count**: 30  
+**Count**: 29  
 **Themes**: product-discovery  
 **Status**: ⏳ pending deep ingest
 
@@ -171,7 +166,6 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-zoelle-egner|Lessons from Airtable’s unconventional growth strategy \| Zoelle Egner]] — *Zoelle Egner* (2023-01-29)
 - [[source-ravi-mehta|How to build your product strategy stack \| Ravi Mehta (Tinder, Facebook, Tripadvisor, Out]] — *Ravi Mehta* (2023-01-19)
 - [[source-john-cutler|What differentiates the highest-performing product teams \| John Cutler (The Beautiful Mes]] — *John Cutler* (2023-01-15)
-- [[source-yamashata|An inside look at how Figma builds product \| Yuhki Yamashita (CPO of Figma)]] — *Yamashata* (2023-01-08)
 - [[source-yuhki-yamashata|An inside look at how Figma builds product \| Yuhki Yamashita (CPO of Figma)]] — *Yuhki Yamashata* (2023-01-08)
 - [[source-chris-hutchins|Launching and growing a podcast \| Chris Hutchins (All the Hacks, Wealthfront, Google)]] — *Chris Hutchins* (2022-12-18)
 - [[source-petra-wille|How to be the best coach to product people \| Petra Wille (Strong Product People)]] — *Petra Wille* (2022-11-27)
@@ -189,7 +183,7 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 
 ### B5 — Hiring, management & leadership — Part 1 (newer)
 
-**Count**: 26  
+**Count**: 25  
 **Themes**: hiring-management  
 **Status**: ⏳ pending deep ingest
 
@@ -199,7 +193,6 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-ben-horowitz|$46B of hard truths: Why founders fail and why you need to run toward fear \| Ben Horowitz]] — *Ben Horowitz* (2025-09-11)
 - [[source-sanchan-saxena|Why Uber’s CPO delivers food on weekends \| Sachin Kansal]] — *Sanchan Saxena* (2025-06-01)
 - [[source-jerry-colonna|How have I been complicit in creating the conditions I say I don’t want? \| Jerry Colonna]] — *Jerry Colonna* (2025-05-08)
-- [[source-uri-levine-20|A founder’s guide to crisis management \| Uri Levine (Waze co-founder, serial entrepreneur]] — *Uri Levine 2.0* (2025-02-16)
 - [[source-uri-levine|A founder’s guide to crisis management \| Uri Levine (Waze co-founder, serial entrepreneur]] — *Uri Levine* (2025-02-16)
 - [[source-tobi-lutke|Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human p]] — *Tobi Lutke* (2025-02-02)
 - [[source-alisa-cohn|Scripts for navigating difficult conversations \| Alisa Cohn (executive coach)]] — *Alisa Cohn* (2025-01-05)
@@ -222,11 +215,10 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 
 ### B6 — Hiring, management & leadership — Part 2 (older)
 
-**Count**: 26  
+**Count**: 24  
 **Themes**: hiring-management  
 **Status**: ⏳ pending deep ingest
 
-- [[source-ethan-evans-20|Taking control of your career \| Ethan Evans (Amazon)]] — *Ethan Evans 2.0* (2024-01-14)
 - [[source-ethan-evans|Taking control of your career \| Ethan Evans (Amazon)]] — *Ethan Evans* (2024-01-14)
 - [[source-sam-schillace|How to be more innovative \| Sam Schillace (Microsoft deputy CTO, creator of Google Docs)]] — *Sam Schillace* (2024-01-11)
 - [[source-will-larson|The engineering mindset \| Will Larson (Carta, Stripe, Uber, Calm, Digg)]] — *Will Larson* (2024-01-07)
@@ -235,7 +227,6 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-itamar-gilad|Becoming evidence-guided \| Itamar Gilad (Gmail, YouTube, Microsoft)]] — *Itamar Gilad* (2023-09-21)
 - [[source-paige-costello|How to ask the right questions, project confidence, and win over skeptics \| Paige Costell]] — *Paige Costello* (2023-07-09)
 - [[source-melissa-tan|Building high-performing teams \| Melissa Tan (Webflow, Dropbox, Canva)]] — *Melissa Tan* (2023-06-18)
-- [[source-melissa|Building high-performing teams \| Melissa Tan (Webflow, Dropbox, Canva)]] — *Melissa* (2023-06-18)
 - [[source-varun-parmar|An inside look at how Miro builds product \| Varun Parmar (CPO of Miro)]] — *Varun Parmar* (2023-04-20)
 - [[source-josh-miller|Competing with giants: An inside look at how The Browser Company builds product \| Josh Mi]] — *Josh Miller* (2023-03-19)
 - [[source-sriram-and-aarthi|Hot takes and techno-optimism from tech’s top power couple \| Sriram and Aarthi]] — *Sriram and Aarthi* (2023-03-12)
@@ -293,7 +284,7 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 
 ### B8 — Positioning, narrative & messaging
 
-**Count**: 22  
+**Count**: 21  
 **Themes**: positioning-narrative  
 **Status**: ⏳ pending deep ingest
 
@@ -316,13 +307,12 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-lulu-cheng-meservey|Gain attention as an underdog with this framework \| Lulu Cheng Meservey]] — *Lulu Cheng Meservey* (2023-03-27)
 - [[source-kevin-aluwi|Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup \| Kevin Al]] — *Kevin Aluwi* (2023-03-26)
 - [[source-barbra-gago|Category creation and brand building \| Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)]] — *Barbra Gago* (2022-10-27)
-- [[source-wes-kao-20|Persuasive communication and managing up \| Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao 2.0* (2022-08-28)
 - [[source-wes-kao|Persuasive communication and managing up \| Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao* (2022-08-28)
 - [[source-arielle-jackson|The art of building legendary brands \| Arielle Jackson (Google, Square, First Round Capit]] — *Arielle Jackson* (2022-08-18)
 
 ### B9 — Sales, GTM & pricing
 
-**Count**: 22  
+**Count**: 21  
 **Themes**: sales-gtm, pricing-monetization  
 **Status**: ⏳ pending deep ingest
 
@@ -339,7 +329,6 @@ This page is the **deep-ingest batch plan** for the 298 stub Lenny's Podcast tra
 - [[source-claire-butler|An inside look at Figma’s unique GTM motion \| Claire Butler (first GTM hire)]] — *Claire Butler* (2023-09-07)
 - [[source-julia-schottenstein|M&A, competition, pricing, and investing \| Julia Schottenstein (dbt Labs)]] — *Julia Schottenstein* (2023-07-13)
 - [[source-andy-raskin|The power of strategic narrative \| Andy Raskin]] — *Andy Raskin* (2023-05-28)
-- [[source-andy-raskin_|The power of strategic narrative \| Andy Raskin]] — *Andy Raskin* (2023-05-28)
 - [[source-jonathan-becker|The crazy story of landing Uber as a client \| Jonathan Becker (Thrive Digital)]] — *Jonathan Becker* (2023-05-12)
 - [[source-carilu-dietrich|How to achieve hypergrowth in your business and career \| Carilu Dietrich (Atlassian)]] — *Carilu Dietrich* (2023-04-30)
 - [[source-elena-verna-20|The ultimate guide to product-led sales \| Elena Verna]] — *Elena Verna 2.0* (2023-04-23)
