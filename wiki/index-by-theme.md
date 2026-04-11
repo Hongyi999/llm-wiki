@@ -37,7 +37,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 29  
 **Themes**: ai-products  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ **Deep-ingested 2026-04-11** — see [[comparison-b1-ai-product-approaches]] and [[synthesis-b1-ai-product-patterns]].
 
 - [[source-aishwarya-naresh-reganti-kiriti-badam|Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon]] — *Aishwarya Naresh Reganti + Kiriti Badam* (2026-01-11)
 - [[source-jason-m-lemkin|We replaced our sales team with 20 AI agents—here’s what happened next \| Jason Lemkin (Sa]] — *Jason M Lemkin* (2026-01-01)

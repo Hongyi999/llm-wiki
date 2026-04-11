@@ -2,15 +2,21 @@
 title: "Index: Lenny Podcast Stub Source Pages"
 type: index
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-11
 tags: [index, stubs, lenny-podcast]
 ---
 
 # Lenny Podcast Stub Source Index
 
-Auto-generated catalog of 298 Lenny's Podcast transcripts that have been ingested as **stubs** (YAML metadata only — no deep analysis yet). Sorted by publish date, newest first.
+Auto-generated catalog of remaining Lenny's Podcast transcripts ingested as **stubs** (YAML metadata only — no deep analysis yet). Sorted by publish date, newest first.
 
-For the 5 transcripts that have full source + concept + entity treatment, see the main [[index]].
+**Current count**: **258** stubs remaining.
+
+**Ingested to date**:
+- **PMF batch** (5 sources, 2026-04-10) — Sean Ellis, Rahul Vohra, Todd Jackson, Benjamin Lauzier, Jen Abel.
+- **B1 batch: AI products 2025+** (29 sources, 2026-04-11) — see [[comparison-b1-ai-product-approaches]] and [[synthesis-b1-ai-product-patterns]].
+
+For the full deep source catalog, see the main [[index]]. For the batch plan, see [[index-by-theme]].
 
 To promote a stub into a full deep ingest, ask for it by topic or by guest name.
 
@@ -19,51 +25,22 @@ To promote a stub into a full deep ingest, ask for it by topic or by guest name.
 
 ### 2026
 
-- [[source-aishwarya-naresh-reganti-kiriti-badam|Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon]] — Aishwarya Naresh Reganti + Kiriti Badam (2026-01-11)
 - [[source-molly-graham|“I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham]] — Molly Graham (2026-01-04)
-- [[source-jason-m-lemkin|We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)]] — Jason M Lemkin (2026-01-01)
 
 ### 2025
 
 - [[source-matt-macinnis|"I deliberately understaff every project" | Leadership lessons from Rippling's $16B journey]] — Matt MacInnis (2025-12-28)
-- [[source-sander-schulhoff-20|Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO]] — Sander Schulhoff 2.0 (2025-12-21)
-- [[source-elena-verna-40|The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year]] — Elena Verna 4.0 (2025-12-18)
-- [[source-edwin-chen|The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen]] — Edwin Chen (2025-12-07)
-- [[source-tomer-cohen|Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)]] — Tomer Cohen (2025-12-04)
 - [[source-jeanne-grosser|What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)]] — Jeanne Grosser (2025-11-30)
 - [[source-rachel-lockett|A guide to difficult conversations, building high-trust teams, and designing a life you love]] — Rachel Lockett (2025-11-23)
 - [[source-stewart-butterfield|Mental models for building products people love ft. Stewart Butterfield]] — Stewart Butterfield (2025-11-20)
-- [[source-dr-fei-fei-li|The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li]] — Dr. Fei Fei Li (2025-11-16)
-- [[source-grant-lee|“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)]] — Grant Lee (2025-11-13)
 - [[source-jen-abel-20|$1M to $10M: The enterprise sales playbook with Jen Abel]] — Jen Abel 2.0 (2025-11-09)
 - [[source-melanie-perkins|She turned 100+ rejections into a $42B company | Melanie Perkins]] — Melanie Perkins (2025-11-02)
-- [[source-dhanji-r-prasanna|How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna]] — Dhanji R. Prasanna (2025-10-26)
-- [[source-chip-huyen|Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)]] — Chip Huyen (2025-10-23)
-- [[source-nicole-forsgren|How to measure AI developer productivity in 2025 | Nicole Forsgren]] — Nicole Forsgren (2025-10-19)
-- [[source-dylan-field|Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field]] — Dylan Field (2025-10-16)
-- [[source-robby-stein|Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein]] — Robby Stein (2025-10-10)
-- [[source-jason-droege|Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next]] — Jason Droege (2025-10-09)
 - [[source-albert-cheng|Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)]] — Albert Cheng (2025-10-05)
-- [[source-hamel-husain-shreya-shankar|Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar]] — Hamel Husain & Shreya Shankar (2025-09-25)
-- [[source-julian-shapiro|From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo]] — Julian Shapiro (2025-09-21)
-- [[source-julie-zhuo|From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo]] — Julie Zhuo (2025-09-21)
-- [[source-brendan-foody|Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody]] — Brendan Foody (2025-09-18)
-- [[source-ethan-smith|The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)]] — Ethan Smith (2025-09-14)
 - [[source-ben-horowitz|$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)]] — Ben Horowitz (2025-09-11)
-- [[source-howie-liu|How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)]] — Howie Liu (2025-08-31)
-- [[source-asha-sharma|How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma]] — Asha Sharma (2025-08-28)
-- [[source-garrett-lord|Inside the expert network training every frontier AI model | Garrett Lord]] — Garrett Lord (2025-08-24)
-- [[source-eoghan-mccabe|How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)]] — Eoghan McCabe (2025-08-21)
-- [[source-brian-balfour|Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour]] — Brian Balfour (2025-08-17)
 - [[source-matt-lemay|The one question that saves product careers | Matt LeMay]] — Matt LeMay (2025-08-14)
 - [[source-matt-mullenweg|The one question that saves product careers | Matt LeMay]] — Matt Mullenweg (2025-08-14)
-- [[source-nick-turley|Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)]] — Nick Turley (2025-08-09)
-- [[source-bret-taylor|He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)]] — Bret Taylor (2025-07-31)
-- [[source-madhavan-ramanujam|Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam]] — Madhavan Ramanujam (2025-07-27)
-- [[source-dan-shipper|The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)]] — Dan Shipper (2025-07-17)
 - [[source-andrew-wilkinson|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson]] — Andrew Wilkinson (2025-07-03)
 - [[source-interview-q-compilation|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson]] — Interview Q Compilation (2025-07-03)
-- [[source-brandon-chu|AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff]] — Brandon Chu (2025-06-19)
 - [[source-sander-schulhoff|AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff]] — Sander Schulhoff (2025-06-19)
 - [[source-hilary-gridley|How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)]] — Hilary Gridley (2025-06-15)
 - [[source-bob-baxley|35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley]] — Bob Baxley (2025-06-12)

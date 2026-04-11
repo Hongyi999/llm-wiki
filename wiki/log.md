@@ -52,3 +52,23 @@ Clustered all 298 stub sources by theme via regex over `title + description`, pr
 ## [2026-04-11] lint | Pre-B1 dedup — 11 duplicate raw transcripts removed
 
 Ran SHA-256-based content dedup on 303 raw transcripts. Found 11 duplicate pairs across 4 categories: 6 exact-byte duplicates (e.g. `andy-raskin_` vs `andy-raskin`, `fei-fei` vs `dr-fei-fei-li`, `wes-kao-20` vs `wes-kao`), 2 same-episode transcription variants (kept longer body: `tomer-cohen`, `uri-levine`), 2 mislabeled filename cases (`melissa.md` had Melissa Perri content under Melissa Tan frontmatter; `ryan-hoover.md` was misnamed Shape Up transcript — kept `melissa-tan.md` and `ryan-singer.md`), and 1 near-duplicate with 97% similarity (`hamelshreya` vs `hamel-husain-shreya-shankar`, kept full-name file). Removed 22 files total (11 raw + 11 stub wiki pages). Updated [[index-stubs]], [[index-by-theme]], and [[index]] to reflect 287 unique stubs (down from 298). Batch-size impact: B1 dropped from 33 → 29. Full report at [[lint-dedup]].
+
+## [2026-04-11] ingest-batch | B1 — AI products & LLMs 2025+ (29 sources)
+
+Deep-ingested the full **B1** batch: 29 Lenny's Podcast transcripts on AI products from 2025 onward. Tier-B depth (executive summary + 3-5 key ideas + entities + concepts + quote + B1-angle, with wikilinks to shared cross-source pages rather than creating a standalone page for every single-source mention).
+
+**Pipeline**: 6 parallel subagents read 4-5 transcripts each and wrote structured JSON summaries to `/tmp/b1/*.json`. One agent (group 3) refused the first pass; re-dispatched as two smaller groups (2+3). All 29 JSON files validated against a strict schema (exec_summary, key_ideas, entities, concepts, quote, tags, b1_angle). A Python generator then batch-produced the 29 source pages with consistent structure and canonicalized wikilinks.
+
+**Pages created (55 total)**:
+- **29 source pages** replacing the B1 stubs: [[source-aishwarya-naresh-reganti-kiriti-badam]], [[source-jason-m-lemkin]], [[source-sander-schulhoff-20]], [[source-elena-verna-40]], [[source-edwin-chen]], [[source-tomer-cohen]], [[source-dr-fei-fei-li]], [[source-grant-lee]], [[source-dhanji-r-prasanna]], [[source-chip-huyen]], [[source-nicole-forsgren]], [[source-dylan-field]], [[source-robby-stein]], [[source-jason-droege]], [[source-hamel-husain-shreya-shankar]], [[source-julian-shapiro]], [[source-julie-zhuo]], [[source-brendan-foody]], [[source-ethan-smith]], [[source-howie-liu]], [[source-asha-sharma]], [[source-garrett-lord]], [[source-eoghan-mccabe]], [[source-brian-balfour]], [[source-nick-turley]], [[source-bret-taylor]], [[source-madhavan-ramanujam]], [[source-dan-shipper]], [[source-brandon-chu]].
+- **15 entity pages**:
+  - Cross-source (≥2 sources, 10): [[openai]], [[anthropic]], [[chatgpt]], [[scale-ai]], [[figma]], [[sierra-ai]], [[salesforce]], [[meta]], [[google]], [[webflow]].
+  - Single-source B1 hubs (5): [[linkedin]], [[gamma]], [[block]], [[mercor]], [[world-labs]].
+- **9 concept pages**:
+  - Cross-source clusters (6): [[ai-evals]], [[ai-agents]], [[outcomes-based-pricing]], [[ai-native-organization]], [[post-training-data-moat]], [[product-velocity-ai-era]].
+  - Named single-source (3): [[answer-engine-optimization]], [[spatial-intelligence]], [[developer-experience]].
+- **1 comparison + 1 synthesis**: [[comparison-b1-ai-product-approaches]] (groups the 29 guests into 10 schools of thought with explicit disagreements) and [[synthesis-b1-ai-product-patterns]] (9 convergent cross-source patterns + anti-signals).
+
+**Cross-source stats**: OpenAI is the most-referenced entity (10/29 sources). The evals-first, post-training-data, and AI-native-org patterns each span 6-7 sources. The deepest disagreement is between Hamel Husain (evals-first) and Chip Huyen (users-first).
+
+**Index updates**: [[index]] now lists 34 deep source pages (5 PMF + 29 B1). [[index-stubs]] drops from 287 → 258. [[index-by-theme]] marks B1 as ✅ done. B2 (32 older AI transcripts) is next, pending user review.
