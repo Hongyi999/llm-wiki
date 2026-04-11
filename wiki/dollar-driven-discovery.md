@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, discovery, first-round-capital]
-sources: [todd-jackson.md, jen-abel.md]
+sources: [lenny-podcast/todd-jackson.md, lenny-podcast/jen-abel.md]
 ---
 
 # Dollar-driven Customer Discovery

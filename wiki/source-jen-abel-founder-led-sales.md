@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 tags: [founder-led-sales, sales, product-market-fit, enterprise]
-sources: [jen-abel.md]
+sources: [lenny-podcast/jen-abel.md]
 ---
 
 # Source: Jen Abel — The Ultimate Guide to Founder-Led Sales

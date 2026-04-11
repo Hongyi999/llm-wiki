@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [vc, investor, pmf-method]
-sources: [todd-jackson.md]
+sources: [lenny-podcast/todd-jackson.md]
 ---
 
 # First Round Capital

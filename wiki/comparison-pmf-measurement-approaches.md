@@ -4,7 +4,7 @@ type: comparison
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, measurement, comparison]
-sources: [sean-ellis.md, rahul-vohra.md, todd-jackson.md, benjamin-lauzier.md]
+sources: [lenny-podcast/sean-ellis.md, lenny-podcast/rahul-vohra.md, lenny-podcast/todd-jackson.md, lenny-podcast/benjamin-lauzier.md]
 ---
 
 # Comparison: PMF Measurement Approaches

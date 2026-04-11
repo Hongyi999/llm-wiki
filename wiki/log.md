@@ -36,3 +36,11 @@ Ingested `raw/jen-abel.md`. Created source page [[source-jen-abel-founder-led-sa
 ## [2026-04-10] synthesis | PMF batch synthesis across 5 sources
 
 After ingesting all 5 PMF-focused transcripts, created comparison page [[comparison-pmf-measurement-approaches]] (Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity) and synthesis page [[synthesis-pmf-signals]] (cross-source signals and anti-signals of real PMF).
+
+## [2026-04-10] restructure | raw/ reorganized into per-source subdirectories
+
+Moved all 303 Lenny's Podcast transcripts from `raw/*.md` to `raw/lenny-podcast/*.md` via `git mv` (preserves history). Updated CLAUDE.md schema to clarify that raw file **contents** are immutable but **directory structure** may be reorganized on explicit user request. Updated `raw/README.md` to document the new convention. Updated `sources:` frontmatter in all 32 existing wiki pages to use the new `lenny-podcast/` path prefix.
+
+## [2026-04-10] ingest-bulk | 298 stub source pages auto-generated
+
+Generated stub source pages for every Lenny's Podcast transcript not yet deeply ingested (298 of 303 total). Each stub is auto-extracted from the transcript's YAML frontmatter (title, guest, publish_date, duration, description, keywords) and tagged with `status: stub` for easy filtering. Stubs live at `wiki/source-<stem>.md`. Created [[index-stubs]] as an auto-generated index grouped by publish year. Deep analysis (entity / concept / synthesis pages) is done on-demand per topic or per guest — see [[index-stubs]] for the full catalog.

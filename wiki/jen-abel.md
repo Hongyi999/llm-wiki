@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [person, sales, founder-led-sales, jjellyfish]
-sources: [jen-abel.md]
+sources: [lenny-podcast/jen-abel.md]
 ---
 
 # Jen Abel

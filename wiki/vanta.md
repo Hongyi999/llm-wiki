@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [company, compliance, pmf-case-study]
-sources: [todd-jackson.md, jen-abel.md]
+sources: [lenny-podcast/todd-jackson.md, lenny-podcast/jen-abel.md]
 ---
 
 # Vanta

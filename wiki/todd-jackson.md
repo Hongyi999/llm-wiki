@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [person, first-round-capital, investor, pmf]
-sources: [todd-jackson.md]
+sources: [lenny-podcast/todd-jackson.md]
 ---
 
 # Todd Jackson

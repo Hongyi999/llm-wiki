@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, survey, measurement]
-sources: [sean-ellis.md, rahul-vohra.md]
+sources: [lenny-podcast/sean-ellis.md, lenny-podcast/rahul-vohra.md]
 ---
 
 # Sean Ellis Test

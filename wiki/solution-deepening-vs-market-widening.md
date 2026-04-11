@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, roadmap, superhuman]
-sources: [rahul-vohra.md]
+sources: [lenny-podcast/rahul-vohra.md]
 ---
 
 # Solution Deepening vs. Market Widening

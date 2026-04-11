@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [person, marketplaces, lyft, thumbtack]
-sources: [benjamin-lauzier.md]
+sources: [lenny-podcast/benjamin-lauzier.md]
 ---
 
 # Benjamin Lauzier

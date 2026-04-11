@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [company, product, growth-case-study]
-sources: [sean-ellis.md]
+sources: [lenny-podcast/sean-ellis.md]
 ---
 
 # Dropbox

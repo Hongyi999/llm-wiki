@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, superhuman, pmf-engine, roadmap]
-sources: [rahul-vohra.md]
+sources: [lenny-podcast/rahul-vohra.md]
 ---
 
 # Superhuman PMF Engine

@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, superhuman, pmf-engine, positioning, pricing]
-sources: [rahul-vohra.md]
+sources: [lenny-podcast/rahul-vohra.md]
 ---
 
 # Source: Rahul Vohra — Superhuman's Secret to Success

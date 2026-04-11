@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [person, superhuman, founder, pmf]
-sources: [rahul-vohra.md]
+sources: [lenny-podcast/rahul-vohra.md]
 ---
 
 # Rahul Vohra

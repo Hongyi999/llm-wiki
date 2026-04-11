@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, growth, sean-ellis-test, activation, retention]
-sources: [sean-ellis.md]
+sources: [lenny-podcast/sean-ellis.md]
 ---
 
 # Source: Sean Ellis — The Original Growth Hacker Reveals His Secrets

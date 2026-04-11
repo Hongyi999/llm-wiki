@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [marketplaces, liquidity, product-market-fit]
-sources: [benjamin-lauzier.md]
+sources: [lenny-podcast/benjamin-lauzier.md]
 ---
 
 # Marketplace Liquidity

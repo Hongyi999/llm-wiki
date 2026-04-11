@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, first-round-capital, framework]
-sources: [todd-jackson.md]
+sources: [lenny-podcast/todd-jackson.md]
 ---
 
 # Four Levels of PMF

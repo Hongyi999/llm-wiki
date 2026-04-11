@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, signals, synthesis]
-sources: [sean-ellis.md, rahul-vohra.md, todd-jackson.md, benjamin-lauzier.md, jen-abel.md]
+sources: [lenny-podcast/sean-ellis.md, lenny-podcast/rahul-vohra.md, lenny-podcast/todd-jackson.md, lenny-podcast/benjamin-lauzier.md, lenny-podcast/jen-abel.md]
 ---
 
 # Synthesis: Cross-source PMF Signals and Anti-signals

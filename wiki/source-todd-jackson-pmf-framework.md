@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, pmf-levels, four-ps, first-round-capital]
-sources: [todd-jackson.md]
+sources: [lenny-podcast/todd-jackson.md]
 ---
 
 # Source: Todd Jackson — A Framework for Finding Product-Market Fit

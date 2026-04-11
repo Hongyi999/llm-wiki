@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 tags: [company, product, email, pmf-case-study]
-sources: [rahul-vohra.md, sean-ellis.md]
+sources: [lenny-podcast/rahul-vohra.md, lenny-podcast/sean-ellis.md]
 ---
 
 # Superhuman

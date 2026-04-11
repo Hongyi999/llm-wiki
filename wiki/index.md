@@ -11,11 +11,19 @@ A catalog of all pages in this wiki. Updated on every ingest.
 
 ## Sources
 
+### Deep source pages
+
+Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
+
 - [[source-sean-ellis-growth-hacker]] — Sean Ellis on the origin of the Sean Ellis Test, growth hacking, and case studies at Dropbox, LogMeIn, Lookout.
 - [[source-rahul-vohra-superhuman]] — Rahul Vohra on Superhuman's PMF Engine, positioning-first pricing, and manual concierge onboarding.
 - [[source-todd-jackson-pmf-framework]] — Todd Jackson (First Round) on the Four Levels of PMF, three dimensions, and the Four Ps.
 - [[source-benjamin-lauzier-marketplaces]] — Benjamin Lauzier on marketplace liquidity, picking the hard side, and PMF per side.
 - [[source-jen-abel-founder-led-sales]] — Jen Abel on founder-led sales as PMF research, the manual 30, and the enterprise sales cycle.
+
+### Stub source pages
+
+- [[index-stubs]] — **298 auto-generated stubs** for the rest of the Lenny's Podcast library, sorted by publish date. Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
 
 ## Entities
 

@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [sales, founder-led-sales, product-market-fit]
-sources: [jen-abel.md]
+sources: [lenny-podcast/jen-abel.md]
 ---
 
 # Founder-led Sales

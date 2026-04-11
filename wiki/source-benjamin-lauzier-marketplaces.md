@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 tags: [marketplaces, liquidity, product-market-fit, lyft, thumbtack]
-sources: [benjamin-lauzier.md]
+sources: [lenny-podcast/benjamin-lauzier.md]
 ---
 
 # Source: Benjamin Lauzier — How Marketplaces Win: Liquidity, Growth Levers, Quality

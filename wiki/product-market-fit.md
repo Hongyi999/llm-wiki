@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [product-market-fit, pmf, framework]
-sources: [sean-ellis.md, rahul-vohra.md, todd-jackson.md, benjamin-lauzier.md, jen-abel.md]
+sources: [lenny-podcast/sean-ellis.md, lenny-podcast/rahul-vohra.md, lenny-podcast/todd-jackson.md, lenny-podcast/benjamin-lauzier.md, lenny-podcast/jen-abel.md]
 ---
 
 # Product-Market Fit

@@ -5,13 +5,20 @@ This is a personal knowledge base maintained by an LLM agent. Obsidian is the vi
 ## Directory Structure
 
 ```
-raw/            ← Immutable source documents. NEVER modify files here.
-raw/assets/     ← Downloaded images referenced by raw sources.
-wiki/           ← LLM-maintained wiki pages. You own this directory entirely.
-wiki/index.md   ← Content catalog of all wiki pages.
-wiki/log.md     ← Chronological append-only operation log.
-CLAUDE.md       ← This file. The schema and operating instructions.
+raw/                  ← Source documents. Content is immutable — NEVER modify file contents.
+raw/<source>/         ← Sources are organized into subdirectories by origin
+                        (e.g., raw/lenny-podcast/, raw/paul-graham-essays/).
+                        Directory structure MAY be reorganized on explicit user request;
+                        individual file contents never change.
+raw/assets/           ← (Reserved) Downloaded images referenced by raw sources.
+                        Not created until an image-bearing source is ingested.
+wiki/                 ← LLM-maintained wiki pages. You own this directory entirely.
+wiki/index.md         ← Content catalog of all wiki pages.
+wiki/log.md           ← Chronological append-only operation log.
+CLAUDE.md             ← This file. The schema and operating instructions.
 ```
+
+When referencing a raw source in a wiki page's `sources:` frontmatter, use the **path relative to `raw/`** — e.g., `sources: [lenny-podcast/sean-ellis.md]`.
 
 ## Page Conventions
 
@@ -26,9 +33,11 @@ type: source | entity | concept | comparison | synthesis
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags: [tag1, tag2]
-sources: [source-filename.md]
+sources: [<subdir>/source-filename.md]
 ---
 ```
+
+Source pages may additionally carry a `status: stub` field when they are auto-generated catalog entries that have not yet been deeply ingested.
 
 - Page types:
   - **source**: Summary of a single raw source document.

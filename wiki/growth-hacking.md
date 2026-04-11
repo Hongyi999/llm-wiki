@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 tags: [growth, marketing, sean-ellis]
-sources: [sean-ellis.md]
+sources: [lenny-podcast/sean-ellis.md]
 ---
 
 # Growth Hacking
