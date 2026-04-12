@@ -2,14 +2,14 @@
 title: Google
 type: entity
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 tags: [search, foundation-models, ai-products]
-sources: [lenny-podcast/aishwarya-naresh-reganti-kiriti-badam.md, lenny-podcast/bret-taylor.md, lenny-podcast/edwin-chen.md, lenny-podcast/robby-stein.md]
+sources: [lenny-podcast/aishwarya-naresh-reganti-kiriti-badam.md, lenny-podcast/bret-taylor.md, lenny-podcast/edwin-chen.md, lenny-podcast/robby-stein.md, lenny-podcast/aparna-chennapragada.md, lenny-podcast/eli-schwartz.md, lenny-podcast/jackie-bavaro.md, lenny-podcast/kim-scott.md, lenny-podcast/marily-nika.md, lenny-podcast/paul-adams.md]
 ---
 
 # Google
 
-Parent company of Search, Cloud, Gemini, and other businesses. In B1 Google appears in four sources, most prominently as the subject of Robby Stein's episode on how Search is evolving under generative AI.
+Parent company of Search, Cloud, Gemini, and other businesses — cited in 4 B1 and 6 B2 sources (10 total). In B2, Google appears primarily as a **formative employer**: four guests (Aparna, Kim Scott, Marily, Jackie) describe their Google years as where they learned product leadership.
 
 ## B1 appearances
 
@@ -23,6 +23,15 @@ Parent company of Search, Cloud, Gemini, and other businesses. In B1 Google appe
 - **AI search is expansionary.** Robby's data: AI Mode users increase their total search volume, they don't replace web search with chatbot search.
 - **Post-training values.** Google's model training choices encode Google-specific values that are different from OpenAI's and Anthropic's (Edwin Chen).
 - **Query fan-out architecture.** AI Overviews internally decompose one user query into dozens of parallel sub-queries against the index.
+
+## B2 appearances
+
+- [[source-aparna-chennapragada|Aparna Chennapragada]] — Spent years at Google building **Google Lens, Search, Google Now, and Google Assistant**. Learned zero-to-one product development; now **Microsoft CPO**.
+- [[source-eli-schwartz|Eli Schwartz]] — Google's dominant search engine rolling out **AI Overviews** reshaping the SEO landscape while maintaining 98% mobile search market share.
+- [[source-kim-scott|Kim Scott]] — Led **AdSense, YouTube, and DoubleClick** teams at Google. Had formative feedback experiences that shaped the Radical Candor framework.
+- [[source-marily-nika|Marily Nika]] — Spent 8+ years at Google working on **Google Glass, computer vision, and speech recognition ML**. Provides practitioner perspective on AI PM skills.
+- [[source-jackie-bavaro|Jackie Bavaro]] — Part of Google's **APM program**. Encountered the challenge of being told to be "more strategic" without anyone defining what that meant.
+- [[source-paul-adams|Paul Adams]] — Worked at Google on failed social products (**Buzz, Google+**). Learned how fear-driven product building fails; now [[intercom|Intercom]] CPO.
 
 ## See also
 

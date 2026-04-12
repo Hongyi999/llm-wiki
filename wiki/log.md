@@ -72,3 +72,24 @@ Deep-ingested the full **B1** batch: 29 Lenny's Podcast transcripts on AI produc
 **Cross-source stats**: OpenAI is the most-referenced entity (10/29 sources). The evals-first, post-training-data, and AI-native-org patterns each span 6-7 sources. The deepest disagreement is between Hamel Husain (evals-first) and Chip Huyen (users-first).
 
 **Index updates**: [[index]] now lists 34 deep source pages (5 PMF + 29 B1). [[index-stubs]] drops from 287 → 258. [[index-by-theme]] marks B1 as ✅ done. B2 (32 older AI transcripts) is next, pending user review.
+
+## [2026-04-12] ingest-batch | B2 — AI products & LLMs 2024 & earlier (32 sources)
+
+Deep-ingested the full **B2** batch: 32 Lenny's Podcast transcripts on AI products spanning 2022–2025. Tier-B depth (same pipeline as B1).
+
+**Pipeline**: 6 parallel subagents read 5-6 transcripts each and wrote structured JSON summaries to `/tmp/b2/*.json`. All 32 validated against schema. Python generator batch-produced source pages with canonicalized wikilinks. Entity, concept, comparison, and synthesis pages written in parallel.
+
+**Pages created/updated (57 total)**:
+- **32 source pages** replacing B2 stubs.
+- **16 new entity pages**:
+  - Cross-source (6): [[cursor]] (7 sources, most-referenced), [[github-copilot]], [[microsoft]], [[github]], [[slack]], [[glean]].
+  - Single-source hubs (10): [[bolt]], [[lovable]], [[devin]], [[windsurf]], [[replit]], [[v0]], [[intercom]], [[canva]], [[palantir]], [[spotify]].
+- **4 existing entity pages updated**: [[openai]] (+11 B2 sources), [[anthropic]] (+5), [[chatgpt]] (+6), [[google]] (+6).
+- **5 concept pages**: [[ai-coding-tools]] (12 sources, the defining B2 theme), [[taste-as-differentiator]] (6 sources), [[prompt-engineering-techniques]] (Sander Schulhoff's definitive treatment), [[jevons-paradox-software]] (2 sources), [[minimum-lovable-product]] (2 sources).
+- **1 comparison + 1 synthesis**: [[comparison-b2-ai-product-approaches]] (10 schools of thought, 6 key disagreements) and [[synthesis-b2-ai-product-patterns]] (9 convergent patterns + anti-signals).
+
+**Cross-source stats**: OpenAI again most-referenced (11/32). Cursor is the most-referenced new entity (7/32). Claude Sonnet identified as a step-function moment by 5 independent founders. The deepest disagreement: human-in-loop (Cursor/Windsurf) vs. fully autonomous (Devin).
+
+**Data issues found**: `kim-scott.md` had Scott Wu's YAML frontmatter (transcript content is Kim Scott); `jackie-bavaro.md` had Claire Vo's YAML frontmatter. Both handled at generation time — correct guest names used, titles overridden.
+
+**Index updates**: [[index]] now lists 66 deep source pages (5 PMF + 29 B1 + 32 B2). [[index-stubs]] drops from 258 → 226. [[index-by-theme]] marks B2 as ✅ done. B3 (product strategy & PM craft, newer) is next.

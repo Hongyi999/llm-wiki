@@ -73,7 +73,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 32  
 **Themes**: ai-products  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-12 — see [[comparison-b2-ai-product-approaches]] and [[synthesis-b2-ai-product-patterns]]
 
 - [[source-sander-schulhoff|AI prompt engineering in 2025: What works and what doesn’t \| Sander Schulhoff]] — *Sander Schulhoff* (2025-06-19)
 - [[source-hilary-gridley|How to build a team that can “take a punch” \| Hilary Gridley (Head of Core Product, Whoop]] — *Hilary Gridley* (2025-06-15)
