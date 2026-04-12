@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-13
 ---
 
 # Wiki Index
@@ -87,10 +87,42 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-marily-nika]] — Every PM becomes an AI PM; shiny object trap; AI product lifecycle.
 - [[source-ryan-j-salva]] — GitHub VP Product; Copilot origin story; R&D-to-product transfer.
 
+**B3: Product strategy & PM craft, Part 1 (2026-04-12)** — 30 sources, tier-B depth:
+- [[source-hamilton-helmer]] — 7 Powers: power = benefit + barrier; four powers for startups; network effects ≠ network economies.
+- [[source-roger-martin]] — Strategy Choice Cascade; playing to win vs. playing to play; differentiation vs. low cost.
+- [[source-richard-rumelt]] — Good Strategy / Bad Strategy; strategy kernel; the crux; bad strategy diagnosis.
+- [[source-marty-cagan]] — Product management theater; feature teams vs. empowered teams; product operating model.
+- [[source-melissa-perri]] — The Build Trap; product owner ≠ product manager; Scrum's PO origins; transformation playbook.
+- [[source-melissa-perri-denise-tilles]] — Product strategy as living system; three pillars of product ops.
+- [[source-christian-idiodi]] — SVPG in practice; reference customers; value risk; promote to practice not to learn.
+- [[source-bob-moesta]] — Jobs-to-be-Done masterclass; four forces of progress; interview switchers not wishers.
+- [[source-ryan-singer]] — Shape Up methodology; appetites not estimates; shaping; circuit breakers.
+- [[source-brian-tolkin]] — Opendoor's twin turbine model; product operations; JTBD for home sellers.
+- [[source-kevin-yien]] — PM tactical playbook; decision logs; unsell email; automated research pipelines.
+- [[source-annie-duke]] — Thinking in Bets; Discover-Discuss-Decide; kill criteria; feedback loop shortening.
+- [[source-dylan-field-20]] — Figma post-Adobe; multi-product via workflow-tracing; design as differentiator.
+- [[source-ebi-atawodi]] — Uber payments PM; product vision storytelling; three vision templates.
+- [[source-matt-macinnis]] — Rippling CPO; deliberate understaffing; alpha/beta teams; PMF as drug-receptor binding.
+- [[source-albert-cheng]] — Duolingo/Grammarly/Chess.com growth; explore-and-exploit; 1,000 experiments/year.
+- [[source-noam-lovinsky]] — YouTube/Thumbtack/Facebook NPE/Grammarly; growth masks all problems; channel diversification.
+- [[source-dalton-caldwell]] — Y Combinator lessons from 1,000+ startups; tarpit ideas; warm pivots; Collison Install.
+- [[source-tanguy-crusson]] — Atlassian 0-to-1; HipChat failure; JPD success; Lighthouse Users; Safety Funnel.
+- [[source-megan-cook]] — Atlassian/Jira innovation; psychological safety; Fight Club triads; executive buy-in.
+- [[source-john-mark-nickels]] — Uber/Waymo/DoorDash; conscious leadership; mindfulness; first-principles vision.
+- [[source-evan-lapointe]] — Applied neuroscience for teams; brain's three systems; Big Five and strategy tolerance.
+- [[source-matt-mullenweg]] — WordPress/Automattic; open source philosophy; WP Engine dispute; platform moats.
+- [[source-ray-cao]] — TikTok inside look; "context, no control"; content graph; reading-format meetings.
+- [[source-mayur-kamat]] — N26/Binance/Google; strategy is overrated; learning compounding; daily meetings.
+- [[source-chandra-janakiraman]] — Five-phase strategy sprint; strategic pillars; small-S vs. big-S strategy.
+- [[source-vikrama-dhiman]] — Gojek PM; Three W's career framework; output-outcome-direction ladder.
+- [[source-paul-millerd]] — The Pathless Path; default path critique; energy audit; coming alive over getting ahead.
+- [[source-matt-lemay]] — Impact First; low-impact PM death spiral; "would you fund your own team?".
+- [[source-keith-coleman-jay-baxter]] — Community Notes origin; bridging-based algorithm; Thermal team model.
+
 ### Stub source pages
 
-- [[index-stubs]] — **226 auto-generated stubs** remaining (29 B1 + 32 B2 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1 and B2 are now marked **done**; B3–B11 pending.
+- [[index-stubs]] — **196 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1, B2, and B3 are now marked **done**; B4–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -155,6 +187,22 @@ Single-source hubs (guest founded or runs the company):
 - [[palantir]] — Nabeel Qureshi's forward-deployed engineering model.
 - [[spotify]] — Gustav Söderström's curation→recommendation→generation evolution.
 
+### Companies and products (B3 batch)
+Cross-source entities (appear in ≥2 B3 sources):
+- [[atlassian]] — Enterprise collaboration; Tanguy Crusson (JPD) + Megan Cook (Jira) provide inside 0-to-1 + innovation perspectives.
+- [[uber]] — Ride-hailing; referenced across 4 B3 sources (JM Nickels, Ebi Atawodi, Brian Tolkin, Hamilton Helmer).
+
+Single-source hubs (guest's primary company, central to narrative):
+- [[y-combinator]] — Dalton Caldwell's lessons from 1,000+ startups.
+- [[tiktok]] — Ray Cao's inside look at "context, no control" culture and content-graph advertising.
+- [[opendoor]] — Brian Tolkin's twin turbine product-ops model.
+- [[rippling]] — Matt MacInnis's deliberate understaffing and alpha/beta framework.
+- [[gojek]] — Vikrama Dhiman's Three W's PM career framework.
+- [[basecamp]] — Ryan Singer's Shape Up methodology (37signals).
+
+Existing entity pages updated:
+- [[figma]] — added B3 appearances (Dylan Field's second episode on post-Adobe pivot).
+
 ## Concepts
 
 ### PMF batch
@@ -191,14 +239,27 @@ Single-source hubs (guest founded or runs the company):
 - [[jevons-paradox-software]] — More AI → more software → more demand for developers (Amjad Masad, Scott Wu).
 - [[minimum-lovable-product]] — Ship the minimum that users love, not just tolerate; evolution beyond MVP (Anton Osika, Jiaona Zhang).
 
+### B3 batch (Product strategy & PM craft)
+**Cross-source clusters**:
+- [[jobs-to-be-done]] — JTBD framework: context-and-outcome, four forces of progress, interview the switchers. Bob Moesta + Brian Tolkin.
+- [[product-operating-model]] — Empowered teams vs. feature teams; product management theater; Build Trap; product operations. 5 sources (Cagan, Perri, Perri & Tilles, Idiodi, Tolkin).
+- [[counter-positioning]] — New entrant adopts a model incumbents can't copy; the startup's strategic refuge. Hamilton Helmer + Roger Martin.
+
+**Named single-source frameworks** (canonical strategy/methodology books):
+- [[seven-powers]] — Hamilton Helmer's 7 Powers: sustainable competitive advantage = benefit + barrier.
+- [[strategy-choice-cascade]] — Roger Martin's Playing to Win: where to play, how to win. Also covers Rumelt's Good Strategy / Bad Strategy.
+- [[shape-up]] — Ryan Singer's Basecamp methodology: appetites not estimates, shaping, circuit breakers.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
 - [[comparison-b1-ai-product-approaches]] — 29 B1 guests grouped into 10 schools: evals-first, agents-as-new-app, AI-native orgs, post-training data, velocity, pricing, security, research, growth, design.
 - [[comparison-b2-ai-product-approaches]] — 32 B2 guests grouped by AI product approach: code editors, app builders, autonomous agents, big tech, enterprise, growth, craft.
+- [[comparison-b3-product-strategy-approaches]] — 30 B3 guests grouped into 8 schools: strategy theory, PM reform, customer research, growth/scaling, design/craft, decision-making, career paths, platform culture.
 
 ## Syntheses
 
 - [[synthesis-pmf-signals]] — Cross-source signals and anti-signals of real PMF.
 - [[synthesis-b1-ai-product-patterns]] — 9 convergent patterns across the B1 batch (evals-as-PRD, outcomes-replace-seats, agents-with-oversight, post-training-moat, top-down org change, daily shipping, non-engineers benefit most, craft-as-moat, violent disruption).
 - [[synthesis-b2-ai-product-patterns]] — 9 convergent patterns across the B2 batch (AI coding explosion, Claude Sonnet step-function, bottleneck→taste, Jevons Paradox, rip-up-strategy, non-determinism, custom models, AI marketing, human management).
+- [[synthesis-b3-product-strategy-patterns]] — 9 convergent patterns across the B3 batch (strategy-is-choice, PM-theater-reckoning, talk-to-customers, appetite-not-estimate, product-ops-emergence, career-from-discomfort, counter-positioning, psychological-safety, AI-changes-what-not-whether).

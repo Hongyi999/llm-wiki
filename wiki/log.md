@@ -93,3 +93,24 @@ Deep-ingested the full **B2** batch: 32 Lenny's Podcast transcripts on AI produc
 **Data issues found**: `kim-scott.md` had Scott Wu's YAML frontmatter (transcript content is Kim Scott); `jackie-bavaro.md` had Claire Vo's YAML frontmatter. Both handled at generation time — correct guest names used, titles overridden.
 
 **Index updates**: [[index]] now lists 66 deep source pages (5 PMF + 29 B1 + 32 B2). [[index-stubs]] drops from 258 → 226. [[index-by-theme]] marks B2 as ✅ done. B3 (product strategy & PM craft, newer) is next.
+
+## [2026-04-12] ingest-batch | B3 — Product strategy & PM craft, Part 1 (30 sources)
+
+Deep-ingested the full **B3** batch: 30 Lenny's Podcast transcripts on product strategy and PM craft (newer episodes). Tier-B depth (same pipeline as B1/B2).
+
+**Pipeline**: 6 parallel subagents read 5 transcripts each and wrote structured JSON summaries to `/tmp/b3/*.json`. All 30 validated against schema. Python generator batch-produced source pages with canonicalized wikilinks. Entity, concept, comparison, and synthesis pages written in parallel.
+
+**Pages created/updated (48 total)**:
+- **30 source pages** replacing B3 stubs.
+- **8 new entity pages**:
+  - Cross-source (2): [[atlassian]] (2 guests: Tanguy Crusson + Megan Cook), [[uber]] (4 sources).
+  - Single-source hubs (6): [[y-combinator]], [[tiktok]], [[opendoor]], [[rippling]], [[gojek]], [[basecamp]].
+- **1 existing entity page updated**: [[figma]] (+1 B3 source: Dylan Field's second episode).
+- **6 concept pages**: [[jobs-to-be-done]] (2 sources), [[product-operating-model]] (5 sources, the defining B3 concept), [[counter-positioning]] (2 sources), [[seven-powers]] (Hamilton Helmer), [[strategy-choice-cascade]] (Roger Martin + Rumelt + Janakiraman), [[shape-up]] (Ryan Singer).
+- **1 comparison + 1 synthesis**: [[comparison-b3-product-strategy-approaches]] (8 schools of thought, 6 key disagreements) and [[synthesis-b3-product-strategy-patterns]] (9 convergent patterns + anti-signals).
+
+**Cross-source stats**: Uber is the most-referenced entity (4/30 sources). The product-operating-model / PM-reform cluster spans 5 sources (the batch's strongest theme). Three canonical strategy thinkers (Helmer, Martin, Rumelt) provide complementary frameworks. The deepest disagreement: whether strategy matters early (Helmer yes, Kamat/Caldwell no).
+
+**Data issues found**: `matt-mullenweg.md` had YAML duplicated from `matt-lemay.md`; `ray-cao.md` had Marty Cagan's YAML frontmatter. Both handled at generation time with title overrides.
+
+**Index updates**: [[index]] now lists 96 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3). [[index-stubs]] drops from 226 → 196. [[index-by-theme]] marks B3 as ✅ done. B4 (product strategy & PM craft, older) is next.

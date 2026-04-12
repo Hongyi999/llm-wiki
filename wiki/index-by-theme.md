@@ -20,7 +20,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 |---|---|---:|
 | **B1** | AI products & LLMs — Part 1 (newer: 2025+) | 29 |
 | **B2** | AI products & LLMs — Part 2 (2024 and earlier) | 32 |
-| **B3** | Product strategy & PM craft — Part 1 (newer) | 30 |
+| **B3** ✅ | Product strategy & PM craft — Part 1 (newer) | 30 |
 | **B4** | Product strategy & PM craft — Part 2 (older) | 29 |
 | **B5** | Hiring, management & leadership — Part 1 (newer) | 25 |
 | **B6** | Hiring, management & leadership — Part 2 (older) | 24 |
@@ -112,7 +112,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 30  
 **Themes**: product-discovery  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ done (2026-04-12)
 
 - [[source-matt-macinnis|"I deliberately understaff every project" \| Leadership lessons from Rippling's $16B journ]] — *Matt MacInnis* (2025-12-28)
 - [[source-albert-cheng|Finding hidden growth opportunities in your product \| Albert Cheng (Duolingo, Grammarly, ]] — *Albert Cheng* (2025-10-05)

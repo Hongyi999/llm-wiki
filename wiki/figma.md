@@ -2,9 +2,9 @@
 title: Figma
 type: entity
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 tags: [design-tool, product-company]
-sources: [lenny-podcast/dylan-field.md, lenny-podcast/howie-liu.md]
+sources: [lenny-podcast/dylan-field.md, lenny-podcast/howie-liu.md, lenny-podcast/dylan-field-20.md]
 ---
 
 # Figma
@@ -21,6 +21,10 @@ Collaborative design and prototyping platform founded by Dylan Field in 2012. In
 - **Taste is the moat.** When AI generates usable UIs in seconds, the differentiator is no longer execution speed but **irreducible judgment** about what's worth making. See [[source-dylan-field|Dylan's episode]].
 - **Craft is orthogonal to AI.** Figma's design philosophy treats AI as a generator of candidates; the designer's job shifts to [[developer-experience|hypothesis generation]] and selection.
 - **Composability over canvas.** Tools should be composable building blocks rather than monolithic canvases — a design philosophy Figma is extending into its AI tooling layer.
+
+## B3 appearances
+
+- [[source-dylan-field-20|Dylan Field]] — Dylan's second Lenny's Podcast appearance (B3 batch), covering Figma's post-Adobe-acquisition pivot, multi-product expansion via workflow-tracing, time-to-value obsession, and Figma Make's AI prototyping capabilities.
 
 ## See also
 
