@@ -2,9 +2,9 @@
 title: LinkedIn
 type: entity
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 tags: [professional-network, ai-native-org, recommendations]
-sources: [lenny-podcast/tomer-cohen.md]
+sources: [lenny-podcast/tomer-cohen.md, lenny-podcast/hari-srinivasan.md]
 ---
 
 # LinkedIn
@@ -23,6 +23,10 @@ He also created the **Full Stack Builder** program — an internal curriculum th
 - **Infrastructure as product lever** — changing infrastructure often produces bigger outcome gains than new features.
 - **Clarity over correctness culture** — "we might be wrong, but we are not confused."
 - **Becoming is better than being** — continuous evolution of craft over mastery claims.
+
+## B4 appearances
+
+- [[source-hari-srinivasan|Hari Srinivasan]] — LinkedIn VP Product. Describes LinkedIn's interconnected marketplace ecosystem (jobs, content, learning, sales), skills-first hiring vision, the RAPID decision framework, five-day escalation rule, and the open-to-work feature evolution.
 
 ## See also
 

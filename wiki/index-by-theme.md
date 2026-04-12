@@ -21,7 +21,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B1** | AI products & LLMs — Part 1 (newer: 2025+) | 29 |
 | **B2** | AI products & LLMs — Part 2 (2024 and earlier) | 32 |
 | **B3** ✅ | Product strategy & PM craft — Part 1 (newer) | 30 |
-| **B4** | Product strategy & PM craft — Part 2 (older) | 29 |
+| **B4** ✅ | Product strategy & PM craft — Part 2 (older) | 29 |
 | **B5** | Hiring, management & leadership — Part 1 (newer) | 25 |
 | **B6** | Hiring, management & leadership — Part 2 (older) | 24 |
 | **B7** | Growth loops, acquisition, retention & activation | 31 |
@@ -149,7 +149,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 29  
 **Themes**: product-discovery  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ done (2026-04-12)
 
 - [[source-chip-conley|Mastering product strategy and growing as a PM \| Maggie Crowley (Toast, Drift, TripAdviso]] — *Chip Conley* (2023-11-05)
 - [[source-maggie-crowley|Mastering product strategy and growing as a PM \| Maggie Crowley (Toast, Drift, TripAdviso]] — *Maggie Crowley* (2023-11-05)

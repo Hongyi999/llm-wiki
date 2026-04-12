@@ -119,10 +119,41 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-matt-lemay]] — Impact First; low-impact PM death spiral; "would you fund your own team?".
 - [[source-keith-coleman-jay-baxter]] — Community Notes origin; bridging-based algorithm; Thermal team model.
 
+**B4: Product strategy & PM craft, Part 2 — older (2026-04-12)** — 29 sources, tier-B depth:
+- [[source-shreyas-doshi]] — Pre-mortem (tigers/paper tigers/elephants); LNO framework; three levels of product work; opportunity cost > ROI.
+- [[source-shreyas-doshi-live]] — Four career-reflection questions: busy, taste, frustration, listening.
+- [[source-teresa-torres]] — Continuous Discovery Habits; Opportunity Solution Tree; story-based interviewing; weekly touchpoints.
+- [[source-claire-hughes-johnson]] — Scaling Stripe; company operating system; founding documents; self-awareness as leadership.
+- [[source-marty-cagan-20]] — Disease of process; feature teams vs. empowered teams; TRANSFORMED book.
+- [[source-ian-mcallister]] — Amazon Working Backwards; PR/FAQ; six-pagers; top 1% PM traits.
+- [[source-shishir-mehrotra]] — Eigenquestions; Black/Blue Loops; rituals of great teams; PSHE talent model.
+- [[source-ravi-mehta]] — Product strategy stack; PM competency model (12 × 4); Tinder vs. Hinge case study.
+- [[source-casey-winters]] — CPO role; kindle vs. fire growth; perceived simplicity; product-led sales.
+- [[source-maggie-crowley]] — Three PM traits: simplify, follow up, carry the water; strategy document template.
+- [[source-bob-moesta-20]] — JTBD for careers; four career quests; energy drivers/drains; jobcation.
+- [[source-hari-srinivasan]] — LinkedIn marketplace ecosystem; RAPID framework; five-day escalation; skills-first hiring.
+- [[source-nikita-bier]] — Consumer social virality; tbh and Gas; latent demand; sell fast.
+- [[source-nikita-miller]] — Team alignment; roles/responsibilities framework; work-life optimization.
+- [[source-annie-pearl]] — Calendly PLG-to-SLG transition; Playing to Win for product strategy.
+- [[source-chip-conley]] — Airbnb at 52; intergenerational collaboration; Modern Elder Academy.
+- [[source-shweta-shriva]] — Waymo PM; safety-critical MVP; Working Backwards for autonomous vehicles.
+- [[source-upasna-gautam]] — CNN product management; breaking news chaos; mindfulness.
+- [[source-zoelle-egner]] — Airtable growth; champion-first enterprise adoption; VaccinateCA.
+- [[source-john-cutler]] — High-performing teams; reverse Anna Karenina; context > frameworks.
+- [[source-yuhki-yamashata]] — Figma CPO; storytelling as PM superpower; OKR experimentation; dogfooding.
+- [[source-chris-hutchins]] — Podcasting as product; Self-Driving Money at Wealthfront; content as PMF.
+- [[source-petra-wille]] — PM coaching; PMwheel assessment; 5-ingredient framework; communities of practice.
+- [[source-fareed-mosavat]] — PM career development loop; manager death spiral; four types of product work.
+- [[source-adriel-frederick]] — Human-in-the-loop design; marginal user growth; diversity as advantage.
+- [[source-janna-bastow]] — Now/Next/Later roadmapping; roadmaps as strategy prototypes.
+- [[source-nickey-skarstad]] — Quality metrics; vision-mission-strategy-objectives pyramid; product reviews.
+- [[source-jason-shah]] — Leadership traits: humility, craft, adaptability; pushback as alignment.
+- [[source-lauren-ipsen]] — Executive product hiring; recruiter's perspective; breadth > depth.
+
 ### Stub source pages
 
-- [[index-stubs]] — **196 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1, B2, and B3 are now marked **done**; B4–B11 pending.
+- [[index-stubs]] — **167 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B4 are now marked **done**; B5–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -203,6 +234,18 @@ Single-source hubs (guest's primary company, central to narrative):
 Existing entity pages updated:
 - [[figma]] — added B3 appearances (Dylan Field's second episode on post-Adobe pivot).
 
+### Companies and products (B4 batch)
+Cross-source entities (appear in ≥2 B4 sources):
+- [[airbnb]] — Home-sharing platform; 3 B4 sources (Chip Conley, Jason Shah, Nickey Skarstad).
+- [[stripe]] — Payments infrastructure; 3 B4 sources (Claire Hughes Johnson, Shreyas Doshi ×2).
+
+Single-source hubs:
+- [[coda]] — Shishir Mehrotra's all-in-one doc platform; eigenquestions, rituals, Black/Blue Loops.
+
+Existing entity pages updated:
+- [[figma]] — added B4 appearances (Yuhki Yamashita, CPO).
+- [[linkedin]] — added B4 appearances (Hari Srinivasan, VP Product).
+
 ## Concepts
 
 ### PMF batch
@@ -250,12 +293,18 @@ Existing entity pages updated:
 - [[strategy-choice-cascade]] — Roger Martin's Playing to Win: where to play, how to win. Also covers Rumelt's Good Strategy / Bad Strategy.
 - [[shape-up]] — Ryan Singer's Basecamp methodology: appetites not estimates, shaping, circuit breakers.
 
+### B4 batch (Product craft — older)
+**Cross-source clusters**:
+- [[continuous-discovery]] — Teresa Torres's Continuous Discovery Habits; Opportunity Solution Tree; weekly customer touchpoints. Referenced by Cagan, Cutler, Wille.
+- [[working-backwards]] — Amazon's PR/FAQ methodology; narrative six-pagers. Ian McAllister + Shweta Shrivastava.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
 - [[comparison-b1-ai-product-approaches]] — 29 B1 guests grouped into 10 schools: evals-first, agents-as-new-app, AI-native orgs, post-training data, velocity, pricing, security, research, growth, design.
 - [[comparison-b2-ai-product-approaches]] — 32 B2 guests grouped by AI product approach: code editors, app builders, autonomous agents, big tech, enterprise, growth, craft.
 - [[comparison-b3-product-strategy-approaches]] — 30 B3 guests grouped into 8 schools: strategy theory, PM reform, customer research, growth/scaling, design/craft, decision-making, career paths, platform culture.
+- [[comparison-b4-product-craft-approaches]] — 29 B4 guests grouped into 7 schools: PM frameworks, discovery, leadership, practitioner skills, growth, coaching/career, unique contexts.
 
 ## Syntheses
 
@@ -263,3 +312,4 @@ Existing entity pages updated:
 - [[synthesis-b1-ai-product-patterns]] — 9 convergent patterns across the B1 batch (evals-as-PRD, outcomes-replace-seats, agents-with-oversight, post-training-moat, top-down org change, daily shipping, non-engineers benefit most, craft-as-moat, violent disruption).
 - [[synthesis-b2-ai-product-patterns]] — 9 convergent patterns across the B2 batch (AI coding explosion, Claude Sonnet step-function, bottleneck→taste, Jevons Paradox, rip-up-strategy, non-determinism, custom models, AI marketing, human management).
 - [[synthesis-b3-product-strategy-patterns]] — 9 convergent patterns across the B3 batch (strategy-is-choice, PM-theater-reckoning, talk-to-customers, appetite-not-estimate, product-ops-emergence, career-from-discomfort, counter-positioning, psychological-safety, AI-changes-what-not-whether).
+- [[synthesis-b4-product-craft-patterns]] — 8 convergent patterns across the B4 batch (writing>talking, framework-explosion, empowered-leaders, career-as-product, customer-proximity, growth-context-dependent, Amazon-Stripe-bar, diverse-contexts).

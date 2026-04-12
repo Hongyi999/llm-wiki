@@ -114,3 +114,24 @@ Deep-ingested the full **B3** batch: 30 Lenny's Podcast transcripts on product s
 **Data issues found**: `matt-mullenweg.md` had YAML duplicated from `matt-lemay.md`; `ray-cao.md` had Marty Cagan's YAML frontmatter. Both handled at generation time with title overrides.
 
 **Index updates**: [[index]] now lists 96 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3). [[index-stubs]] drops from 226 → 196. [[index-by-theme]] marks B3 as ✅ done. B4 (product strategy & PM craft, older) is next.
+
+## [2026-04-12] ingest-batch | B4 — Product strategy & PM craft, Part 2 (29 sources)
+
+Deep-ingested the full **B4** batch: 29 Lenny's Podcast transcripts on product strategy and PM craft (older episodes, 2022–2023). Tier-B depth (same pipeline as B1–B3).
+
+**Pipeline**: 6 parallel subagents read 4–5 transcripts each and wrote structured JSON summaries to `/tmp/b4/*.json`. All 29 validated against schema. Python generator batch-produced source pages with canonicalized wikilinks. Entity, concept, comparison, and synthesis pages written directly.
+
+**Pages created/updated (39 total)**:
+- **29 source pages** replacing B4 stubs.
+- **3 new entity pages**:
+  - Cross-source (2): [[airbnb]] (Chip Conley + multiple references), [[stripe]] (Claire Hughes Johnson + Shreyas Doshi).
+  - Single-source hub (1): [[coda]] (Shishir Mehrotra).
+- **2 existing entity pages updated**: [[figma]] (+1 B4 source: Yuhki Yamashita), [[linkedin]] (+1 B4 source: Hari Srinivasan).
+- **2 concept pages**: [[continuous-discovery]] (Teresa Torres's framework — OST, weekly touchpoints, assumption testing), [[working-backwards]] (Amazon's PR/FAQ methodology — Ian McAllister).
+- **1 comparison + 1 synthesis**: [[comparison-b4-product-craft-approaches]] (7 schools of thought, 5 key disagreements) and [[synthesis-b4-product-craft-patterns]] (8 convergent patterns + anti-signals).
+
+**Cross-source stats**: Amazon and Stripe recur as the two operational gold standards. The framework explosion (LNO, pre-mortem, eigenquestion, OST, Working Backwards, PMwheel, PSHE, Black/Blue Loops) is B4's defining theme. The deepest disagreement: frameworks as liberating (Shreyas, Ravi, Shishir) vs. context-dependent (Cutler).
+
+**Data issues found**: `chip-conley.md` had Maggie Crowley's YAML frontmatter. Handled at generation time with title override. `nikita-bier.md` and `nikita-miller.md` share identical YAML metadata but are different episodes/guests — handled by subagents with correct content extraction.
+
+**Index updates**: [[index]] now lists 125 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4). [[index-stubs]] drops from 196 → 167. [[index-by-theme]] marks B4 as ✅ done. B5 (hiring, management & leadership, newer) is next.

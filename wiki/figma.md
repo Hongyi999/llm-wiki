@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-11
 updated: 2026-04-12
 tags: [design-tool, product-company]
-sources: [lenny-podcast/dylan-field.md, lenny-podcast/howie-liu.md, lenny-podcast/dylan-field-20.md]
+sources: [lenny-podcast/dylan-field.md, lenny-podcast/howie-liu.md, lenny-podcast/dylan-field-20.md, lenny-podcast/yuhki-yamashata.md]
 ---
 
 # Figma
@@ -25,6 +25,10 @@ Collaborative design and prototyping platform founded by Dylan Field in 2012. In
 ## B3 appearances
 
 - [[source-dylan-field-20|Dylan Field]] — Dylan's second Lenny's Podcast appearance (B3 batch), covering Figma's post-Adobe-acquisition pivot, multi-product expansion via workflow-tracing, time-to-value obsession, and Figma Make's AI prototyping capabilities.
+
+## B4 appearances
+
+- [[source-yuhki-yamashata|Yuhki Yamashita]] — Figma's CPO describes how Figma builds product internally: storytelling as a PM superpower, OKR experimentation, community-led growth (Config conference), and dogfooding as cultural practice.
 
 ## See also
 
