@@ -2,9 +2,9 @@
 title: ChatGPT
 type: entity
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 tags: [ai-product, consumer-ai, openai]
-sources: [lenny-podcast/brian-balfour.md, lenny-podcast/nick-turley.md]
+sources: [lenny-podcast/brian-balfour.md, lenny-podcast/nick-turley.md, lenny-podcast/hilary-gridley.md, lenny-podcast/kevin-weil.md, lenny-podcast/krithika-shankarraman.md, lenny-podcast/logan-kilpatrick.md, lenny-podcast/marily-nika.md, lenny-podcast/sander-schulhoff.md]
 ---
 
 # ChatGPT
@@ -23,9 +23,19 @@ sources: [lenny-podcast/brian-balfour.md, lenny-podcast/nick-turley.md]
 - **Memory is the moat.** Brian Balfour argues that ChatGPT's accumulating user context (history, preferences, custom instructions) is a compounding switching cost that trumps raw model capability.
 - **Agentic roadmap with human oversight.** Turley's vision is toward agents that take actions on the user's behalf, always with a human-in-the-loop checkpoint.
 
+## B2 appearances
+
+- [[source-kevin-weil|Kevin Weil]] — **OpenAI CPO** discusses ChatGPT at 400M+ weekly active users as a platform for AI interaction and the GPT ecosystem.
+- [[source-krithika-shankarraman|Krithika Shankarraman]] — **OpenAI's first marketer**. ChatGPT was the fastest-growing product in history that still needed marketing — the challenge shifted from awareness to "use-case epiphany."
+- [[source-logan-kilpatrick|Logan Kilpatrick]] — **OpenAI Head of DevRel** discusses ChatGPT as both a general-purpose tool and a platform for custom GPTs.
+- [[source-hilary-gridley|Hilary Gridley]] — Uses ChatGPT custom GPTs as a leadership tool: simulating feedback, practicing difficult conversations, and accelerating learning loops.
+- [[source-marily-nika|Marily Nika]] — Uses ChatGPT extensively as a day-to-day PM tool for rewriting mission statements, generating user segments, and brainstorming product ideas.
+- [[source-sander-schulhoff|Sander Schulhoff]] — Primary example of a consumer chatbot vulnerable to [[prompt-engineering-techniques|prompt injection]] attacks.
+
 ## See also
 
 - [[openai]] — parent lab.
 - [[product-velocity-ai-era]] — the shipping culture that built ChatGPT.
 - [[ai-agents]] — where ChatGPT is going next.
 - [[ai-native-organization]] — ChatGPT as an org-design case study.
+- [[prompt-engineering-techniques]] — how to use ChatGPT effectively.
