@@ -22,7 +22,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B2** | AI products & LLMs — Part 2 (2024 and earlier) | 32 |
 | **B3** ✅ | Product strategy & PM craft — Part 1 (newer) | 30 |
 | **B4** ✅ | Product strategy & PM craft — Part 2 (older) | 29 |
-| **B5** | Hiring, management & leadership — Part 1 (newer) | 25 |
+| **B5** ✅ | Hiring, management & leadership — Part 1 (newer) | 25 |
 | **B6** | Hiring, management & leadership — Part 2 (older) | 24 |
 | **B7** | Growth loops, acquisition, retention & activation | 31 |
 | **B8** | Positioning, narrative & messaging | 21 |
@@ -185,7 +185,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 25  
 **Themes**: hiring-management  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-13 — see [[comparison-b5-leadership-schools]] and [[synthesis-b5-scaling-people-patterns]]
 
 - [[source-molly-graham|“I like being scared”: Molly Graham’s frameworks for rapid career growth \| Molly Graham]] — *Molly Graham* (2026-01-04)
 - [[source-rachel-lockett|A guide to difficult conversations, building high-trust teams, and designing a life you lo]] — *Rachel Lockett* (2025-11-23)

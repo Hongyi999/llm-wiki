@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Wiki Index
@@ -119,6 +119,33 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-matt-lemay]] — Impact First; low-impact PM death spiral; "would you fund your own team?".
 - [[source-keith-coleman-jay-baxter]] — Community Notes origin; bridging-based algorithm; Thermal team model.
 
+**B5: Hiring, management & leadership, Part 1 (2026-04-13)** — 25 sources, tier-B depth:
+- [[source-ben-horowitz]] — a16z; run-toward-fear; hesitation as the worst sin; managerial leverage; invest-in-strength.
+- [[source-sanchan-saxena]] — Coinbase/ex-Airbnb/Instagram; intentionality over A/B; 15-out-of-10 design; rapid recovery.
+- [[source-jerry-colonna]] — Reboot; complicity question; leadership equation; family-of-origin patterns; unsorted baggage.
+- [[source-uri-levine]] — Waze; fall in love with the problem; 30-day hire-or-fire test; PMF = retention; 100 nos.
+- [[source-tobi-lutke]] — Shopify CEO; Tobi tornado; human potential throughline; anti-OKR; infinite games; exothermic leadership.
+- [[source-alisa-cohn]] — Executive coach; scripted difficult conversations; "hope for the future" framing; [[founder-prenup]].
+- [[source-marc-benioff]] — Salesforce; beginner's mind (Shoshin); Kaizen; orchestra-leader CEO model; no-linear-success.
+- [[source-farhan-thawar]] — Shopify VP Eng; hard path vs. easy path; Meetingageddon; pair programming default; [[source-tobi-lutke|trust battery]].
+- [[source-julie-zhuo-20]] — Sundial; managing AI = managing people; builder archetype; diagnose-data/treat-design; feedback-as-gift.
+- [[source-jonathan-lowenhar]] — Enjoy the Work; founder-to-CEO transition; nine CEO failure archetypes; three CEO jobs; Who-method.
+- [[source-alex-komoroske]] — Ex-Google/Stripe; LLMs as magical duct tape; taste as moat; gardener vs. builder; slime mold orgs.
+- [[source-camille-fournier]] — Author "The Manager's Path"; four PM anti-patterns; management-as-service; 10-year IC mastery rule.
+- [[source-joe-hudson]] — Executive coach; critical voice is always wrong; emotional fluidity; what-you-resist-persists; VIEW + 7-min gratitude.
+- [[source-kenneth-berger]] — Executive coach; ask-for-what-you-want 3-step loop; dream-behind-complaint; hell-yes-or-no; archetypes.
+- [[source-kayvon-beykpour]] — Ex-Twitter Head of Product; sacred cows as roadmap; acquihire-to-drive-culture; refine-the-core + portfolio.
+- [[source-dharmesh-shah]] — HubSpot co-founder/CTO; lean-into-strengths; [[culture-code|Culture Code]]; LPM; SoloWare; entropy as enemy.
+- [[source-kunal-shah]] — CRED founder; [[delta-4|Delta 4]]; founder dharma / Krishna-Rama 2x2; DAU-vs-ARPU mismatch; long-term-societies.
+- [[source-emilie-gerber]] — Six Eastern; press as recruiting/sales collateral; pattern-match not category-create; cold outreach > Rolodex.
+- [[source-boz]] — Meta CTO; leverage your leaders more; communication-is-the-job; transparency tax; Eye of Sauron career strategy.
+- [[source-elizabeth-stone]] — Netflix CTO; three-layer stack (talent density → candor → freedom); [[keeper-test|keeper test]]; 3-step manager loop.
+- [[source-jonny-miller]] — Nervous System Mastery; [[state-over-story|state over story]]; if-this-then-breathe toolkit; APE; emotional debt.
+- [[source-heidi-helfand]] — Author "Dynamic Reteaming"; [[dynamic-reteaming|five patterns of reteaming]]; whiteboard reteaming; RIDE framework.
+- [[source-molly-graham]] — Ex-Facebook/Quip/Oculus; [[give-away-your-legos|give away your Legos]]; J-curve vs. stairs; Waterline Model.
+- [[source-rachel-lockett]] — Executive coach; [[grow-model|GROW]] + 3 levels of listening; gifts; enthusiastic-rehire filter.
+- [[source-melanie-perkins]] — Canva co-founder/CEO; mission pillars + Crazy Big Goals; staged celebrations; don't import playbooks.
+
 **B4: Product strategy & PM craft, Part 2 (2026-04-13)** — 29 sources, tier-B depth:
 - [[source-chip-conley]] — Peak Model; Modern Elder Academy; intergenerational mentorship at scale.
 - [[source-maggie-crowley]] — Strategy doc template; simplification as strategy; Toast/Drift/TripAdvisor.
@@ -152,8 +179,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **167 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B4 are now marked **done**; B5–B11 pending.
+- [[index-stubs]] — **142 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B5 are now marked **done**; B6–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -244,6 +271,18 @@ Existing entity pages updated through B4 cross-references:
 - [[uber]] — Ian McAllister's Vehicles product role adds one more B4 reference.
 - [[slack]] — Fareed Mosavat's growth-lead tenure referenced.
 
+### Companies and products (B5 batch)
+Cross-source entities (central to multiple B5 sources):
+- [[netflix]] — Three-layer culture stack (talent density → candor → freedom/responsibility); [[keeper-test|keeper test]]; context-not-control. Canonical voice: Elizabeth Stone.
+- [[shopify]] — First-principles re-derivation; anti-OKR; trust battery; Meetingageddon; pair programming default. Tobi Lütke + Farhan Thawar.
+- [[a16z]] — Confidence-restoration machine thesis; Ben Horowitz's five leadership principles; hard-thing-about-hard-things.
+- [[hubspot]] — [[culture-code|Culture Code]] as living product; radical transparency; zig vs. zag; no direct reports; LPM (laughs per minute). Dharmesh Shah.
+
+Existing entity pages updated through B5 cross-references:
+- [[canva]] — Melanie Perkins's mission pillars + Crazy Big Goals + staged celebrations.
+- [[meta]] — Boz's communication-is-the-job + Molly Graham's give-away-your-Legos (Facebook tenure).
+- [[salesforce]] — Marc Benioff's beginner's mind / Kaizen / orchestra-leader CEO.
+
 ## Concepts
 
 ### PMF batch
@@ -305,6 +344,26 @@ Existing entity pages updated through B4 cross-references:
 - [[lno-framework]] — Shreyas Doshi's Leverage / Neutral / Overhead task taxonomy.
 - [[pre-mortem]] — Shreyas Doshi's decision-hygiene ritual.
 
+### B5 batch (Hiring, management & leadership, Part 1)
+**Retention & hiring filters**:
+- [[keeper-test]] — Netflix's continuous "would I fight to keep them?" retention filter; comparison with Levine 30-day, Lockett enthusiastic-rehire, Horowitz invest-in-strength.
+
+**Coaching & difficult-conversation frameworks**:
+- [[grow-model]] — Goal / Reality / Options / Way-forward; Rachel Lockett's canonical coaching structure.
+- [[coaching]] — Landscape page cataloging seven coach voices + shared toolkit + when-to-bring-in + script-work vs. inner-work split.
+
+**Team & org mechanics**:
+- [[dynamic-reteaming]] — Heidi Helfand's five patterns (one-by-one / grow-split / merging / isolation / switching) + RIDE + whiteboard practice.
+- [[founder-prenup]] — Alisa Cohn's five alignment questions for co-founders; 65% co-founder conflict stat.
+- [[give-away-your-legos]] — Molly Graham's scaling-career mechanic; J-curve companion.
+
+**Culture as product**:
+- [[culture-code]] — HubSpot's versioned 128-page artifact; culture-as-product thesis; Dharmesh Shah.
+- [[delta-4]] — Kunal Shah's 4-point efficiency-jump threshold; irreversibility + high failure tolerance + UBP.
+
+**Body, breath, inner work**:
+- [[state-over-story]] — Jonny Miller's bottom-up regulation; physiology toolkit; APE check; emotional debt.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -312,6 +371,7 @@ Existing entity pages updated through B4 cross-references:
 - [[comparison-b2-ai-product-approaches]] — 32 B2 guests grouped by AI product approach: code editors, app builders, autonomous agents, big tech, enterprise, growth, craft.
 - [[comparison-b3-product-strategy-approaches]] — 30 B3 guests grouped into 8 schools: strategy theory, PM reform, customer research, growth/scaling, design/craft, decision-making, career paths, platform culture.
 - [[comparison-b4-product-strategy-approaches]] — 29 B4 guests grouped into 7 schools: career mechanics, roadmap/strategy/operating system, discovery, coaching, product culture, 0→1, feature craft.
+- [[comparison-b5-leadership-schools]] — 25 B5 guests grouped into 7 schools: heat-injection, run-toward-fear, inner-work, script-work, talent-density, give-away-Legos, mission-architecture; plus 6 key disagreements (is-leader-nice, team-problem-root-cause, when-to-fire, is-management-founder-job, culture-origin, inner-work-necessary).
 
 ## Syntheses
 
@@ -320,3 +380,4 @@ Existing entity pages updated through B4 cross-references:
 - [[synthesis-b2-ai-product-patterns]] — 9 convergent patterns across the B2 batch (AI coding explosion, Claude Sonnet step-function, bottleneck→taste, Jevons Paradox, rip-up-strategy, non-determinism, custom models, AI marketing, human management).
 - [[synthesis-b3-product-strategy-patterns]] — 9 convergent patterns across the B3 batch (strategy-is-choice, PM-theater-reckoning, talk-to-customers, appetite-not-estimate, product-ops-emergence, career-from-discomfort, counter-positioning, psychological-safety, AI-changes-what-not-whether).
 - [[synthesis-b4-product-strategy-patterns]] — 8 convergent patterns across the B4 batch (PM career as skill reset, rituals produce culture, PMs own the why, modern-operating-system artifact trio, back-channel references, story-based methods, structured coaching, taste as meta-skill).
+- [[synthesis-b5-scaling-people-patterns]] — 9 convergent patterns across the B5 batch (continuous retention decisions, rehearsable difficult conversations, culture-maintained-not-proclaimed, leader's-job-is-communication, teams-reenact-leader-patterns, structural-design-around-weaknesses, cliff-jumps-not-ladder-climbs, body-and-breath-as-tools, real-work-beats-interviews) + meta-pattern table mapping layers to tools to voices.

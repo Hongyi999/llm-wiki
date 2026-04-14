@@ -132,3 +132,21 @@ Deep-ingested the full **B4** batch: 29 Lenny's Podcast transcripts on product s
 **Data issues found**: `chip-conley.md` raw file YAML carried Maggie Crowley's title/description; `nikita-bier.md` raw file YAML carried Nikita Miller's title. Both corrected in the source pages with explanatory notes. `shreyas-doshi-live.md` and `shreyas-doshi.md` share an (incorrect) YouTube URL but have distinct transcript content — treated as two episodes.
 
 **Index updates**: [[index]] now lists 125 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4). [[index-stubs]] drops from 196 → 167. [[index-by-theme]] marks B4 as ✅ done. B5 (hiring, management & leadership, Part 1) is next.
+
+## [2026-04-13] ingest-batch | B5 — Hiring, management & leadership, Part 1 (25 sources)
+
+Deep-ingested the full **B5** batch: 25 Lenny's Podcast transcripts on founder psychology, scaling people, leadership, and coaching (2024-01 through 2026-01). Tier-B depth, per-page serial writes (same pipeline as B4 to avoid API stream-idle timeouts).
+
+**Pipeline**: 5 parallel subagents each researched 5 transcripts and returned structured markdown. One subagent (group 4: Joe Hudson, Kenneth Berger, Kayvon Beykpour, Dharmesh Shah, Kunal Shah) hit 429 rate limits on first pass; re-dispatched successfully on a second attempt. All 25 research analyses completed. Source pages written serially, one Read→Write cycle each.
+
+**Pages created/updated (38 total)**:
+- **25 source pages** replacing B5 stubs: [[source-molly-graham]], [[source-rachel-lockett]], [[source-melanie-perkins]], [[source-ben-horowitz]], [[source-sanchan-saxena]], [[source-jerry-colonna]], [[source-uri-levine]], [[source-tobi-lutke]], [[source-alisa-cohn]], [[source-marc-benioff]], [[source-farhan-thawar]], [[source-julie-zhuo-20]], [[source-jonathan-lowenhar]], [[source-alex-komoroske]], [[source-camille-fournier]], [[source-joe-hudson]], [[source-kenneth-berger]], [[source-kayvon-beykpour]], [[source-dharmesh-shah]], [[source-kunal-shah]], [[source-emilie-gerber]], [[source-boz]], [[source-elizabeth-stone]], [[source-jonny-miller]], [[source-heidi-helfand]].
+- **4 new entity pages**: [[netflix]] (talent density + keeper test; Elizabeth Stone), [[shopify]] (Tobi Lütke + Farhan Thawar; trust battery, Meetingageddon), [[a16z]] (Ben Horowitz; confidence-restoration machine), [[hubspot]] (Dharmesh Shah; Culture Code, radical transparency).
+- **8 new concept pages**: [[keeper-test]], [[grow-model]], [[dynamic-reteaming]], [[founder-prenup]], [[state-over-story]], [[culture-code]], [[delta-4]], [[give-away-your-legos]], plus a landscape page [[coaching]] that catalogs the batch's coach voices (Cohn, Lockett, Colonna, Hudson, Berger, Robin, Miller).
+- **1 comparison + 1 synthesis**: [[comparison-b5-leadership-schools]] (seven schools of leadership thought + six key disagreements) and [[synthesis-b5-scaling-people-patterns]] (nine convergent patterns + meta-pattern on people-as-bottleneck-at-scale).
+
+**Cross-source stats**: The single most convergent pattern in the batch is **continuous retention filtering** — five operators (Stone's keeper test, Levine's 30-day test, Lockett's enthusiastic-rehire, Cohn's 30-day deal-breaker, Horowitz's invest-in-strength) independently articulate variants of the same discipline. The second-most-convergent is **culture-is-maintained-not-proclaimed**, converging across HubSpot (Culture Code), Canva (mission pillars + celebrations), Coda (rituals; from B4), Netflix (hiring bar), and Twitter (repetitive storytelling). Coaching subcluster includes 5 distinct coach voices (Lockett, Cohn, Colonna, Hudson, Berger) plus somatic specialist (Miller); tacit Stanford T-group lineage (Carole Robin) links them.
+
+**Data issues found**: `sanchan-saxena.md` raw YAML was labelled "Sachin Kansal (Uber CPO)" but transcript content is Sanchan Saxena (Coinbase VP Product, ex-Airbnb/Instagram). Handled with an explanatory note on the source page; transcript content is canonical per ingest policy.
+
+**Index updates**: [[index]] now lists 150 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5). [[index-stubs]] drops from 167 → 142. [[index-by-theme]] marks B5 as ✅ done. B6 (hiring, management & leadership, Part 2; older episodes) is next.
