@@ -114,3 +114,21 @@ Deep-ingested the full **B3** batch: 30 Lenny's Podcast transcripts on product s
 **Data issues found**: `matt-mullenweg.md` had YAML duplicated from `matt-lemay.md`; `ray-cao.md` had Marty Cagan's YAML frontmatter. Both handled at generation time with title overrides.
 
 **Index updates**: [[index]] now lists 96 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3). [[index-stubs]] drops from 226 → 196. [[index-by-theme]] marks B3 as ✅ done. B4 (product strategy & PM craft, older) is next.
+
+## [2026-04-13] ingest-batch | B4 — Product strategy & PM craft, Part 2 (29 sources)
+
+Deep-ingested the full **B4** batch: 29 Lenny's Podcast transcripts on product strategy and PM craft (older 2022–2023 episodes). Tier-B depth, but written incrementally one page at a time to avoid API stream-idle timeouts that hit on large parallel batches.
+
+**Pipeline change**: Switched away from the Python-generator batch approach used for B1/B2/B3. After two successive `API Error: Stream idle timeout` events on large parallel writes, split the work into per-page Read → Write cycles with no parallelism on page writing. 6 parallel subagents did the initial transcript-reading pass. Subsequent page generation was serial: 29 source pages plus supporting entity/concept/comparison/synthesis pages, each written as its own `Write` tool call.
+
+**Pages created/updated (40 total)**:
+- **29 source pages** replacing B4 stubs: [[source-chip-conley]], [[source-maggie-crowley]], [[source-bob-moesta-20]], [[source-hari-srinivasan]], [[source-casey-winters]], [[source-shweta-shriva]], [[source-nikita-bier]], [[source-nikita-miller]], [[source-claire-hughes-johnson]], [[source-annie-pearl]], [[source-upasna-gautam]], [[source-marty-cagan-20]], [[source-zoelle-egner]], [[source-ravi-mehta]], [[source-john-cutler]], [[source-yuhki-yamashata]], [[source-chris-hutchins]], [[source-petra-wille]], [[source-ian-mcallister]], [[source-lauren-ipsen]], [[source-fareed-mosavat]], [[source-adriel-frederick]], [[source-janna-bastow]], [[source-teresa-torres]], [[source-jason-shah]], [[source-shreyas-doshi]], [[source-shreyas-doshi-live]], [[source-shishir-mehrotra]], [[source-nickey-skarstad]].
+- **2 new entity pages**: [[amazon]] (cross-source; 3+ guests), [[reforge]] (Fareed Mosavat + Casey Winters + others).
+- **7 new concept pages**: [[working-backwards]] (Amazon PR/FAQ), [[lno-framework]] (Shreyas Doshi's L/N/O task taxonomy), [[opportunity-solution-tree]] (Teresa Torres), [[now-next-later-roadmap]] (Janna Bastow), [[continuous-discovery]] (Teresa Torres), [[product-strategy-stack]] (Ravi Mehta), [[rituals-of-great-teams]] (Shishir Mehrotra), [[product-leader-canyon]] (Fareed Mosavat), [[pre-mortem]] (Shreyas Doshi).
+- **1 comparison + 1 synthesis**: [[comparison-b4-product-strategy-approaches]] (7 schools of thought, 6 key disagreements) and [[synthesis-b4-product-strategy-patterns]] (8 convergent patterns).
+
+**Cross-source stats**: The strongest B4 theme is the **PM career as skill reset, not extension** — spanning Mosavat, McAllister, Doshi, Shah, and Ipsen. The modern-product-operating-system artifact trio (Product Strategy Stack + Now/Next/Later + Opportunity Solution Tree) converges cleanly across three independent guests (Mehta, Bastow, Torres). Shishir Mehrotra's rituals concept is the operating-rhythm anchor.
+
+**Data issues found**: `chip-conley.md` raw file YAML carried Maggie Crowley's title/description; `nikita-bier.md` raw file YAML carried Nikita Miller's title. Both corrected in the source pages with explanatory notes. `shreyas-doshi-live.md` and `shreyas-doshi.md` share an (incorrect) YouTube URL but have distinct transcript content — treated as two episodes.
+
+**Index updates**: [[index]] now lists 125 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4). [[index-stubs]] drops from 196 → 167. [[index-by-theme]] marks B4 as ✅ done. B5 (hiring, management & leadership, Part 1) is next.

@@ -119,10 +119,41 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-matt-lemay]] — Impact First; low-impact PM death spiral; "would you fund your own team?".
 - [[source-keith-coleman-jay-baxter]] — Community Notes origin; bridging-based algorithm; Thermal team model.
 
+**B4: Product strategy & PM craft, Part 2 (2026-04-13)** — 29 sources, tier-B depth:
+- [[source-chip-conley]] — Peak Model; Modern Elder Academy; intergenerational mentorship at scale.
+- [[source-maggie-crowley]] — Strategy doc template; simplification as strategy; Toast/Drift/TripAdvisor.
+- [[source-bob-moesta-20]] — JTBD for careers: Four Quests (win, freedom, calm, purpose).
+- [[source-hari-srinivasan]] — LinkedIn RAPID; PM skills triangle: product sense, execution, leadership.
+- [[source-casey-winters]] — Perceived simplicity; Kindle/Fire framing; Pinterest/Grubhub growth.
+- [[source-shweta-shriva]] — Waymo safety-first MVP; autonomy maturity gates.
+- [[source-nikita-bier]] — Gas/tbh; latent demand; sequential validation.
+- [[source-nikita-miller]] — Roles & Responsibilities Contract; the Quad for cross-functional teams.
+- [[source-claire-hughes-johnson]] — Scaling Stripe; house metaphor; SPADE decision framework.
+- [[source-annie-pearl]] — Calendly PLG→SLG transition; Playing to Win applied.
+- [[source-upasna-gautam]] — CNN; equanimity under deadline pressure; live-event product work.
+- [[source-marty-cagan-20]] — "The disease of process people"; angrier precursor to the B3 episode.
+- [[source-zoelle-egner]] — Airtable; champions-led growth; profession elevation.
+- [[source-ravi-mehta]] — [[product-strategy-stack|Product Strategy Stack]]; velocity vs latency.
+- [[source-john-cutler]] — Reverse Anna Karenina; dysfunctional teams differ, healthy teams rhyme.
+- [[source-yuhki-yamashata]] — Figma's CPO: PMs own the why; memification; community-led growth.
+- [[source-chris-hutchins]] — All the Hacks + Wealthfront; vision repetition; slugging average; podcast PMF.
+- [[source-petra-wille]] — PMwheel + 5 ingredients of PM coaching; Strong Product People.
+- [[source-ian-mcallister]] — Top 1% PM; Amazon's [[working-backwards|PR/FAQ]]; Bezos's three investment tests; WBR.
+- [[source-lauren-ipsen]] — Executive recruiter; three product-leader archetypes; back-channel references.
+- [[source-fareed-mosavat]] — Reforge's Fareed; [[product-leader-canyon|Product Leader Canyon]]; sponsorship vs mentorship.
+- [[source-adriel-frederick]] — Humanize product; marginal user; cannonballs vs lead bullets.
+- [[source-janna-bastow]] — Mind the Product/ProdPad; [[now-next-later-roadmap|Now/Next/Later]] roadmap.
+- [[source-teresa-torres]] — [[continuous-discovery|Continuous discovery]]; [[opportunity-solution-tree|Opportunity Solution Tree]]; story-based interviewing.
+- [[source-jason-shah]] — Airbnb/Amazon/Alchemy; ladder vs map careers; taste is trainable.
+- [[source-shreyas-doshi]] — Five big ideas: [[lno-framework|LNO]]; [[pre-mortem]]; high agency; operate up-level.
+- [[source-shreyas-doshi-live]] — Live reflection; questions Shreyas wishes he'd asked himself sooner.
+- [[source-shishir-mehrotra]] — Coda CEO; [[rituals-of-great-teams|Rituals of great teams]]; DRI; math-spotters.
+- [[source-nickey-skarstad]] — Airbnb/Etsy/Shopify/Duolingo; vision→goals cascade; second-order decisions.
+
 ### Stub source pages
 
-- [[index-stubs]] — **196 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1, B2, and B3 are now marked **done**; B4–B11 pending.
+- [[index-stubs]] — **167 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B4 are now marked **done**; B5–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -203,6 +234,16 @@ Single-source hubs (guest's primary company, central to narrative):
 Existing entity pages updated:
 - [[figma]] — added B3 appearances (Dylan Field's second episode on post-Adobe pivot).
 
+### Companies and products (B4 batch)
+Cross-source entities (appear in ≥2 B4 sources):
+- [[amazon]] — Writing culture, Leadership Principles, Working Backwards. Referenced across Ian McAllister, Jason Shah, and indirectly via many B4 alumni.
+- [[reforge]] — Growth education platform. Fareed Mosavat + Casey Winters + Elena Verna as faculty.
+
+Existing entity pages updated through B4 cross-references:
+- [[figma]] — Yuhki Yamashita CPO episode adds operating-rituals and community-led-growth context.
+- [[uber]] — Ian McAllister's Vehicles product role adds one more B4 reference.
+- [[slack]] — Fareed Mosavat's growth-lead tenure referenced.
+
 ## Concepts
 
 ### PMF batch
@@ -250,12 +291,27 @@ Existing entity pages updated:
 - [[strategy-choice-cascade]] — Roger Martin's Playing to Win: where to play, how to win. Also covers Rumelt's Good Strategy / Bad Strategy.
 - [[shape-up]] — Ryan Singer's Basecamp methodology: appetites not estimates, shaping, circuit breakers.
 
+### B4 batch (Product strategy & PM craft, Part 2)
+**Cross-source / operating-system artifacts**:
+- [[working-backwards]] — Amazon's PR/FAQ as mechanism for problem-first thinking (Ian McAllister + Jason Shah).
+- [[product-strategy-stack]] — Ravi Mehta's mission → vision → strategy → themes → initiatives cascade.
+- [[now-next-later-roadmap]] — Janna Bastow's alternative to timeline roadmaps.
+- [[opportunity-solution-tree]] — Teresa Torres's discovery artifact.
+- [[continuous-discovery]] — Weekly interview cadence; story-based interviewing (Teresa Torres).
+- [[rituals-of-great-teams]] — Shishir Mehrotra's intentional ritual design (DRIs, math-spotters, grid company).
+
+**Career & PM craft**:
+- [[product-leader-canyon]] — Fareed Mosavat's mid-career transition gap.
+- [[lno-framework]] — Shreyas Doshi's Leverage / Neutral / Overhead task taxonomy.
+- [[pre-mortem]] — Shreyas Doshi's decision-hygiene ritual.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
 - [[comparison-b1-ai-product-approaches]] — 29 B1 guests grouped into 10 schools: evals-first, agents-as-new-app, AI-native orgs, post-training data, velocity, pricing, security, research, growth, design.
 - [[comparison-b2-ai-product-approaches]] — 32 B2 guests grouped by AI product approach: code editors, app builders, autonomous agents, big tech, enterprise, growth, craft.
 - [[comparison-b3-product-strategy-approaches]] — 30 B3 guests grouped into 8 schools: strategy theory, PM reform, customer research, growth/scaling, design/craft, decision-making, career paths, platform culture.
+- [[comparison-b4-product-strategy-approaches]] — 29 B4 guests grouped into 7 schools: career mechanics, roadmap/strategy/operating system, discovery, coaching, product culture, 0→1, feature craft.
 
 ## Syntheses
 
@@ -263,3 +319,4 @@ Existing entity pages updated:
 - [[synthesis-b1-ai-product-patterns]] — 9 convergent patterns across the B1 batch (evals-as-PRD, outcomes-replace-seats, agents-with-oversight, post-training-moat, top-down org change, daily shipping, non-engineers benefit most, craft-as-moat, violent disruption).
 - [[synthesis-b2-ai-product-patterns]] — 9 convergent patterns across the B2 batch (AI coding explosion, Claude Sonnet step-function, bottleneck→taste, Jevons Paradox, rip-up-strategy, non-determinism, custom models, AI marketing, human management).
 - [[synthesis-b3-product-strategy-patterns]] — 9 convergent patterns across the B3 batch (strategy-is-choice, PM-theater-reckoning, talk-to-customers, appetite-not-estimate, product-ops-emergence, career-from-discomfort, counter-positioning, psychological-safety, AI-changes-what-not-whether).
+- [[synthesis-b4-product-strategy-patterns]] — 8 convergent patterns across the B4 batch (PM career as skill reset, rituals produce culture, PMs own the why, modern-operating-system artifact trio, back-channel references, story-based methods, structured coaching, taste as meta-skill).

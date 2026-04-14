@@ -1,36 +1,53 @@
 ---
-title: "Source: An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)"
+title: "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)"
 type: source
-created: 2026-04-10
-updated: 2026-04-10
-tags: [stub, lenny-podcast, growth, retention, acquisition, onboarding, metrics, okrs, roadmap, experimentation]
-guest: "Yuhki Yamashata"
-publish_date: 2023-01-08
-duration: "1:08:36"
+created: 2026-04-13
+updated: 2026-04-13
+tags: [figma, cpo, okrs, community-led-growth, storytelling, memification, dogfooding, why]
 sources: [lenny-podcast/yuhki-yamashata.md]
-status: stub
 ---
 
-# Source: An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)
+# An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)
 
-**Guest**: Yuhki Yamashata  
-**Published**: 2023-01-08  
-**Duration**: 1:08:36  
-**YouTube**: https://www.youtube.com/watch?v=NepFo4zXyK4  
+**Guest**: Yuhki Yamashita
+**Published**: 2023-01-08
+**Duration**: 1:08:36
+**YouTube**: [https://www.youtube.com/watch?v=NepFo4zXyK4](https://www.youtube.com/watch?v=NepFo4zXyK4)
 
-## Description
+## Executive summary
 
-Yuhki Yamashita is Chief Product Officer at Figma. Prior to Figma, he was Head of Design of Uber’s New Mobility efforts, and before that a product manager at Google and Microsoft. Adding...
+Yuhki Yamashita, CPO at [[figma|Figma]], describes how one of tech's most admired product companies actually builds product — including the candid admission that even Figma still iterates on OKRs every year. His core claim is that PMs own the "why": not the idea, not the execution, but the reason the work matters, communicated crisply enough that leaders cite it in meetings when the PM isn't in the room. He reframes PLG as *community-led growth* — the sales team's job is to empower internal champions, not to sell.
 
-## Keywords
+## Key ideas
 
-growth, retention, acquisition, onboarding, metrics, okrs, roadmap, experimentation, funnel, conversion, hiring, culture, leadership, management, strategy
+1. **PMs own the "why"**: The PM doesn't need to originate ideas, but must own and articulate the reason. This scales decision-making: once everyone understands the why, local decisions across the org get consistently good.
+2. **Memification**: The highest-impact PMs create insights so crisp they become memes that leaders spontaneously cite in meetings. The test of storytelling is whether the insight travels without you.
+3. **OKR experimentation**: Figma has cycled through OKRs → headlines → "commitments" → back to OKRs. Three qualities of a good OKR: legibility (understood), actionability (inspires action), authenticity (reflects real work).
+4. **Community-led growth**: Figma reframes PLG — sales empowers internal champions (designers who already love Figma) with data and stories to make the case inside their organizations.
+5. **Dogfooding as quality engine**: Figma switched from memo culture to deck culture specifically so PMs would spend more time inside Figma itself. Personal accountability from using your own product beats top-down metrics.
 
-## Status
+## Entities discussed
 
-This is a **stub** — auto-generated from the transcript's YAML frontmatter. The full transcript at `raw/lenny-podcast/yuhki-yamashata.md` has not yet been deeply ingested. To promote this stub to a full source page with entity/concept cross-references and synthesis, ask for a deep ingest by topic or by guest.
+- **Yuhki Yamashita** — CPO, [[figma|Figma]]; former Uber, YouTube, Microsoft.
+- **[[figma]]** — Design and collaboration platform.
+- **Dylan Field** — Figma CEO; famously reads more customer feedback than anyone else.
+- **FigJam** — Figma's whiteboarding product.
+- **Shishir Mehrotra** — Referenced as a product thought-leader. See [[source-shishir-mehrotra]].
+- **Travis Kalanick / Dara Khosrowshahi** — Contrasting Uber CEO styles Yuhki observed.
 
-## See also
+## Concepts covered
 
-- [[index]] — full wiki catalog
-- [[log]] — operation log
+- **PM ownership of the why** — The PM's scarce, scalable responsibility.
+- **Memification** — Crafting insights crisp enough to self-replicate.
+- **OKR legibility/actionability/authenticity** — Three tests of a real OKR.
+- **Community-led growth** — Empowering internal champions over traditional PLG.
+- **Dogfooding culture** — Using your own product as a quality forcing function.
+- **Five Whys in postmortems** — Root-cause analysis as standard practice.
+
+## Notable quote
+
+> Yuhki Yamashita: "I really view some of those tweets more as canaries in the coal mine... Dylan is always reading customer feedback. In fact, he reads the most customer feedback of all of us and has been doing that for a decade."
+
+## B4 angle
+
+A masterclass in how product culture is set from the top. The idea that the PM owns the "why" (not the "what") is a powerful reframe for PMs pressured to be idea generators. The OKR journey shows even elite orgs struggle with goal-setting — iteration beats framework-hunting.
