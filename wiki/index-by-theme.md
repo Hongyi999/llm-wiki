@@ -24,7 +24,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B4** ✅ | Product strategy & PM craft — Part 2 (older) | 29 |
 | **B5** ✅ | Hiring, management & leadership — Part 1 (newer) | 25 |
 | **B6** ✅ | Hiring, management & leadership — Part 2 (older) | 24 |
-| **B7** | Growth loops, acquisition, retention & activation | 31 |
+| **B7** ✅ | Growth loops, acquisition, retention & activation | 31 |
 | **B8** | Positioning, narrative & messaging | 21 |
 | **B9** | Sales, GTM & pricing | 21 |
 | **B10** | Design, craft & founder-led 0→1 | 24 |
@@ -246,9 +246,9 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 ### B7 — Growth loops, acquisition, retention & activation
 
-**Count**: 31  
+**Count**: 31 (30 deep-ingested + 1 skipped as mislabeled duplicate of [[source-benjamin-lauzier-marketplaces]])
 **Themes**: growth  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-15 — see [[comparison-b7-growth-approaches]] and [[synthesis-b7-growth-patterns]]
 
 - [[source-elena-verna|10 growth tactics that never work \| Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)]] — *Elena Verna* (2025-01-19)
 - [[source-drew-houston|Behind the founder \| Drew Houston (Dropbox)]] — *Drew Houston* (2025-01-09)

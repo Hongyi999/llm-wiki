@@ -9,6 +9,34 @@ updated: 2026-04-14
 
 Chronological record of all wiki operations.
 
+## [2026-04-15] ingest-batch | B7 — Growth loops, acquisition, retention & activation (30 sources)
+
+Deep-ingested the **B7** batch: 30 Lenny's Podcast transcripts on growth loops, acquisition, retention, activation (2022-09 through 2025-01). Tier-B depth, per-page serial writes (same pipeline as B4/B5/B6). 31 nominal sources minus 1 mislabeled duplicate (`benjamin-mann.md` is shorter transcription of already-ingested Benjamin Lauzier episode; stub redirects to [[source-benjamin-lauzier-marketplaces]]).
+
+Pipeline: 6 parallel research subagents (5/5/5/5/5/5); all six completed successfully; per-page serial writes.
+
+**Source pages written** (30): elena-verna, drew-houston, jackson-shuttleworth, naomi-gleit, deb-liu, timothy-davis, bangaly-kaba, sarah-tavel, ramesh-johari, karri-saarinen, alexander-embiricos, nilan-peiris, oji-udezue, tim-holley, meltem-kuran, camille-hearst, geoff-charles, sri-batchu, luc-levesque, ayo-omojola, hila-qu, gustaf-alstromer, gaurav-misra, lauryn-isford, ben-williams, adam-fishman, dan-hockenmaier, gia-laudi, adam-grenier, yuriy-timen.
+
+**New entity pages (3)**: ramp, wise, linear.
+
+**New concept pages (6)**: adjacent-user-theory, growth-loops, hierarchy-of-engagement, product-led-growth, growth-model, word-of-mouth-engineering.
+
+**Comparison + synthesis (2)**: comparison-b7-growth-approaches (8 schools + 6 disagreements sharpened); synthesis-b7-growth-patterns (10 convergent patterns + four-lever meta-model).
+
+**Data quality notes**:
+- `benjamin-mann.md`: YAML mislabeled guest; transcript body is duplicate of Benjamin Lauzier's canonical marketplace-liquidity episode. Stub converted to redirect.
+- `alexander-embiricos.md`: YAML metadata erroneously copied from nilan-peiris.md (same video_id); transcript body is a distinct interview with Alexander Embiricos about OpenAI Codex. Treated transcript as canonical.
+- `gaurav-misra.md`: YAML metadata erroneously copied from lauryn-isford.md; transcript body is a distinct interview with Gaurav Misra (Captions CEO, ex-Snap). Treated transcript as canonical.
+
+**Cross-source observations**:
+- Growth teams can't manufacture PMF — strongest consensus in the batch (10+ voices).
+- Earned-channel thesis (virality, UGC, sharing) dominant — rented channels make Google/Meta rich.
+- Four-lever taxonomy (acquisition loops / activation / retention / monetization) organizes the entire corpus.
+- Adjacent user theory (Kaba) is the most cited new concept.
+- Word-of-mouth engineering is downstream of 10x product, not referral mechanics (Peiris + Udezue + Omojola converge).
+
+[[index]] now lists 204 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7). [[index-stubs]] drops from 118 → 88. [[index-by-theme]] marks B7 as ✅ done. B8 (positioning, narrative & messaging; 21 sources) is next.
+
 ## [2026-04-14] ingest-batch | B6 — Hiring, management & leadership, Part 2 (24 sources)
 
 Deep-ingested the full **B6** batch: 24 Lenny's Podcast transcripts on hiring, management, and leadership (older episodes, 2022-01 through 2024-01). Tier-B depth, per-page serial writes (same pipeline as B4/B5).

@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 created: 2026-04-10
-updated: 2026-04-14
+updated: 2026-04-15
 ---
 
 # Wiki Index
@@ -146,6 +146,38 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-rachel-lockett]] — Executive coach; [[grow-model|GROW]] + 3 levels of listening; gifts; enthusiastic-rehire filter.
 - [[source-melanie-perkins]] — Canva co-founder/CEO; mission pillars + Crazy Big Goals; staged celebrations; don't import playbooks.
 
+**B7: Growth loops, acquisition, retention & activation (2026-04-15)** — 30 sources, tier-B depth (31 nominal; 1 skipped as duplicate):
+- [[source-elena-verna]] — 10 growth tactics that never work; earned channels; 18-month model rotation; stop experimenting on everything.
+- [[source-drew-houston]] — Dropbox; engineered virality; boa-constrictor platform competition; horizontal product curse.
+- [[source-jackson-shuttleworth]] — Duolingo streaks; 600 experiments; zero-to-seven-day loss aversion; keeper of sanctity.
+- [[source-naomi-gleit]] — Meta's head of product; 7-friends-in-10-days; growth accounting; PM-as-conductor.
+- [[source-deb-liu]] — Ancestry CEO; PM your career like a product; zero-to-one-in-shadows; game of inches.
+- [[source-timothy-davis]] — Shopify paid growth; signs of life tests; lookalike laddering; ops cadence matrix.
+- [[source-bangaly-kaba]] — Instagram/YouTube/Instacart; [[adjacent-user-theory|adjacent user theory]]; understand work; impact = environment × skills.
+- [[source-sarah-tavel]] — Benchmark/Pinterest; [[hierarchy-of-engagement|Hierarchy of Engagement]]; happy GMV; currents not bodies of water.
+- [[source-ramesh-johari]] — Stanford; marketplaces sell transaction-cost removal; prediction vs. decision; rating inflation; learning is costly.
+- [[source-karri-saarinen]] — [[linear|Linear]]; craft + taste; no A/B tests; main quest; paid work trials; pricing slider.
+- [[source-alexander-embiricos]] — OpenAI Codex; coding agent as universal primitive; compressing talent stack; IDE pivot.
+- [[source-nilan-peiris]] — [[wise|Wise]]; [[word-of-mouth-engineering|WOM engineering]]; invites double per NPS bucket; 10x product threshold.
+- [[source-oji-udezue]] — Typeform/Calendly/Twitter; sharp problems; Zone of Benefit (3x rule); forest time.
+- [[source-tim-holley]] — Etsy; GMS as drumbeat KPI; COVID face-mask pivot; marketplace graduation problem.
+- [[source-meltem-kuran]] — Deel; skeleton-before-makeup; Reddit/Quora answering; revenue-KPI growth hiring; little hands.
+- [[source-camille-hearst]] — Spotify/Patreon; supply-side marketplace primacy; hamster wheel of creators; curator-as-creator.
+- [[source-geoff-charles]] — [[ramp|Ramp]] VP Product; velocity as cultural OS; single-threaded teams; support-into-product.
+- [[source-sri-batchu]] — [[ramp|Ramp]] head of growth; cap-table-as-growth; growth engineering; north-star translation factors.
+- [[source-luc-levesque]] — Shopify CGO; growth advisor playbook; signs of excellence; AI-search disruption of SEO.
+- [[source-ayo-omojola]] — Cash App co-creator; "different AND better AND in a way that matters"; 10 things not 1; hire founders.
+- [[source-hila-qu]] — Reforge/GitLab; [[product-led-growth|PLG is fundamentally DLG]]; funnel audit; aha moment derivation.
+- [[source-gustaf-alstromer]] — Y Combinator; 600+ startups; can't growth-team your way to PMF; 10% cold-outreach rule.
+- [[source-gaurav-misra]] — Captions (ex-Snap); marketable feature weekly; public vs. secret roadmap; strategic technical debt.
+- [[source-lauryn-isford]] — Airtable; lower activation rates are better; reverse trial; Join-Evaluate-Upgrade-Expand.
+- [[source-ben-williams]] — Snyk; community-led growth; GitHub PR loop; programmatic SEO; PLG → PLS evolution.
+- [[source-adam-fishman]] — Patreon/Lyft; Growth Competency Model; onboarding as retention; PMF for candidates.
+- [[source-dan-hockenmaier]] — Thumbtack/Faire; [[growth-model|growth model]]; marketplaces are gardens; demand aggregation supremacy.
+- [[source-gia-laudi]] — Forget The Funnel; customer-led growth; JTBD-driven value journey; win-back sequences.
+- [[source-adam-grenier]] — Uber/MasterClass; three-ingredient channel framework; Growth CMO; adaptability as burnout signal.
+- [[source-yuriy-timen]] — Grammarly/Canva/Airtable; three subscription archetypes; conversion benchmarks; MMM revival.
+
 **B6: Hiring, management & leadership, Part 2 (2026-04-14)** — 24 sources, tier-B depth:
 - [[source-ethan-evans]] — Ex-Amazon VP; [[magic-loop|The Magic Loop]]; career ownership; systematic invention; failure recovery (Bezos Appstore).
 - [[source-sam-schillace]] — Microsoft deputy CTO, creator of Google Docs; what-if vs. why-not; virtue from error; AI as platform.
@@ -205,8 +237,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **118 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B6 are now marked **done**; B7–B11 pending.
+- [[index-stubs]] — **88 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 promoted; 1 B7 stub converted to duplicate redirect). Each stub captures title, guest, date, duration, description, and keywords.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B7 are now marked **done**; B8–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -320,6 +352,20 @@ Existing entity pages updated through B6 cross-references:
 - [[slack]] — Merci Grace as first growth PM; canonical 3-people/50-messages activation.
 - [[amazon]] — Ethan Evans's career origin; Bezos Appstore recovery story.
 
+### Companies and products (B7 batch)
+New entities (central to B7 sources):
+- [[ramp]] — Velocity-as-cultural-OS; single-threaded teams; growth engineering; cap-table-as-growth.
+- [[wise]] — 70% word-of-mouth; three pillars (price, speed, ease); NPS as growth leverage; mission-led growth.
+- [[linear]] — Craft + taste; no A/B tests; main quest; paid work trials; pricing slider.
+
+Existing entity pages updated through B7 cross-references:
+- [[dropbox]] — Drew Houston's "behind the founder" adds boa-constrictor platform-competition narrative + engineered virality canonical.
+- [[meta]] — Naomi Gleit's 7-friends-in-10-days + growth accounting + PM-as-conductor toolkit.
+- [[shopify]] — Timothy Davis's paid-growth playbook + Luc Levesque's SEO/advisor framework.
+- [[canva]] — Yuriy Timen references; Luc Levesque advisor relationship.
+- [[y-combinator]] — Gustaf Alströmer's 600-startup pattern-match.
+- [[doordash]] — Marketplace/logistics references across multiple B7 sources.
+
 ## Concepts
 
 ### PMF batch
@@ -420,6 +466,15 @@ Existing entity pages updated through B6 cross-references:
 - [[crazy-ideas-doc]] — Retool's annual innovation ritual; permission to think.
 - [[value-metric-pricing]] — Patrick Campbell's highest-leverage pricing move; 20-25% churn drop.
 
+### B7 batch (Growth loops, acquisition, retention & activation)
+**Core growth concepts**:
+- [[growth-loops]] — Compounding acquisition mechanism; replaces the linear funnel.
+- [[product-led-growth]] — Canonical PLG overview; Hila Qu's DLG reframe + PLS evolution.
+- [[growth-model]] — Spreadsheet-based analytical representation of the business; Hockenmaier's canonical.
+- [[hierarchy-of-engagement]] — Sarah Tavel's three-level framework: core action → accruing benefits → self-perpetuating.
+- [[adjacent-user-theory]] — Bangaly Kaba's user-cohort-evolution framework.
+- [[word-of-mouth-engineering]] — Peiris/Udezue thesis: WOM is downstream of 10x product, not referral mechanics.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -429,6 +484,7 @@ Existing entity pages updated through B6 cross-references:
 - [[comparison-b4-product-strategy-approaches]] — 29 B4 guests grouped into 7 schools: career mechanics, roadmap/strategy/operating system, discovery, coaching, product culture, 0→1, feature craft.
 - [[comparison-b5-leadership-schools]] — 25 B5 guests grouped into 7 schools: heat-injection, run-toward-fear, inner-work, script-work, talent-density, give-away-Legos, mission-architecture; plus 6 key disagreements (is-leader-nice, team-problem-root-cause, when-to-fire, is-management-founder-job, culture-origin, inner-work-necessary).
 - [[comparison-b6-leadership-approaches]] — 24 B6 guests adding 5 distinct poles (founder-mode, calm-company, feelings-first, AMPED, IC-bottom-up) + 6 disagreements sharpened (scale-via-mode-or-small, metrics-vs-feelings, real-work-hiring, first-PM-inside-or-outside, ops-as-growth-or-Band-Aid, career-leverage-source).
+- [[comparison-b7-growth-approaches]] — 30 B7 guests grouped into 8 schools (earned-channels, WOM engineering, paid+SEO education, craft+opinionated, performance marketing ops, data-led PLG, hierarchy of engagement, pre-PMF traction) + 6 disagreements (split-testing, paid-vs-organic, activation-rate, growth-team-before-PMF, marketplace-supply-vs-demand, canonical-activation-metric).
 
 ## Syntheses
 
@@ -439,3 +495,4 @@ Existing entity pages updated through B6 cross-references:
 - [[synthesis-b4-product-strategy-patterns]] — 8 convergent patterns across the B4 batch (PM career as skill reset, rituals produce culture, PMs own the why, modern-operating-system artifact trio, back-channel references, story-based methods, structured coaching, taste as meta-skill).
 - [[synthesis-b5-scaling-people-patterns]] — 9 convergent patterns across the B5 batch (continuous retention decisions, rehearsable difficult conversations, culture-maintained-not-proclaimed, leader's-job-is-communication, teams-reenact-leader-patterns, structural-design-around-weaknesses, cliff-jumps-not-ladder-climbs, body-and-breath-as-tools, real-work-beats-interviews) + meta-pattern table mapping layers to tools to voices.
 - [[synthesis-b6-leadership-patterns]] — 8 convergent patterns across the B6 batch (interviewing-is-different-from-the-job, first-PM-from-inside, founder-mode-as-pattern, product-ops-as-discipline, bottom-up-career-leverage, coaching-as-script, non-traditional-org-structures, metrics-as-input-not-output) + meta-pattern on older-episodes-are-more-contrarian.
+- [[synthesis-b7-growth-patterns]] — 10 convergent patterns across the B7 batch (growth-can't-manufacture-PMF, activation-metric-must-be-derived, earned-channel-thesis, retention-compounds-harder, onboarding-highest-leverage, WOM-downstream-of-10x-product, experimentation-cuts-both-ways, data-led-foundation, non-obvious-channels-are-alpha, adjacent-users-explain-the-long-game) + four-lever meta-model (acquisition / activation / retention / monetization).
