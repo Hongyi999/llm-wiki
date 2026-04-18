@@ -2,12 +2,34 @@
 title: Wiki Log
 type: log
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 # Wiki Log
 
 Chronological record of all wiki operations.
+
+## [2026-04-14] ingest-batch | B6 — Hiring, management & leadership, Part 2 (24 sources)
+
+Deep-ingested the full **B6** batch: 24 Lenny's Podcast transcripts on hiring, management, and leadership (older episodes, 2022-01 through 2024-01). Tier-B depth, per-page serial writes (same pipeline as B4/B5).
+
+Pipeline: 5 parallel research subagents (groups of 5/5/5/5/4); all five completed successfully; per-page serial writes.
+
+**Source pages written** (24): ethan-evans, sam-schillace, will-larson, jason-fried, brian-chesky, itamar-gilad, paige-costello, melissa-tan, varun-parmar, josh-miller, sriram-and-aarthi, patrick-campbell, christine-itwaru, keith-yandell, eeke-de-milliano, matt-mochary, jules-walter, alex-hardimen, merci-grace, kristen-berman, crystal-w, ken-norton, casey-winters_ (Casey's second appearance), gokul-rajaram.
+
+**New entity pages (3)**: doordash, 37signals, the-browser-company.
+
+**New concept pages (8)**: founder-mode, magic-loop, product-operations, mochary-method, creative-vs-reactive-leadership, zero-interest-rate-pm, value-metric-pricing, crazy-ideas-doc.
+
+**Comparison + synthesis (2)**: comparison-b6-leadership-approaches (5 B6-distinctive poles + 6 disagreements sharpened); synthesis-b6-leadership-patterns (8 convergent patterns + meta-pattern on older-episodes-are-more-contrarian).
+
+**Cross-source observations**:
+- Founder-mode is a pattern, not a slogan — Chesky/Lütke/Fried/Miller all articulate it in distinct ways.
+- Interviewing is a different skill from the job — 5 voices independently prescribe real-work filters (Grace, Tan, Winters, Evans, Yandell).
+- First PM hire from inside — Rajaram, de Milliano, Miller, Tan converge.
+- Older episodes are more contrarian than newer ones (Fried rejects scale, Miller rejects metrics, Mochary rejects intuition).
+
+[[index]] now lists 174 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6). [[index-stubs]] drops from 142 → 118. [[index-by-theme]] marks B6 as ✅ done. B7 (growth loops, acquisition, retention & activation; 31 sources) is next.
 
 ## [2026-04-10] init | Wiki initialized
 

@@ -146,6 +146,32 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-rachel-lockett]] — Executive coach; [[grow-model|GROW]] + 3 levels of listening; gifts; enthusiastic-rehire filter.
 - [[source-melanie-perkins]] — Canva co-founder/CEO; mission pillars + Crazy Big Goals; staged celebrations; don't import playbooks.
 
+**B6: Hiring, management & leadership, Part 2 (2026-04-14)** — 24 sources, tier-B depth:
+- [[source-ethan-evans]] — Ex-Amazon VP; [[magic-loop|The Magic Loop]]; career ownership; systematic invention; failure recovery (Bezos Appstore).
+- [[source-sam-schillace]] — Microsoft deputy CTO, creator of Google Docs; what-if vs. why-not; virtue from error; AI as platform.
+- [[source-will-larson]] — Carta CTO; systems thinking; boring strategy; EM/PM shared perf ratings; honest/applicable/reversible values.
+- [[source-jason-fried]] — 37signals; appetites not estimates; stay-up vs. startup; gut-driven culture; work isn't war.
+- [[source-brian-chesky]] — Airbnb; [[founder-mode]]; functional org; one shared roadmap; 2 launches/year; PM-as-product-marketing.
+- [[source-itamar-gilad]] — Ex-Gmail PM; GIST framework; confidence meter; evidence-guided vs. opinion-based development.
+- [[source-paige-costello]] — Asana Head of Core Product; trust equation; Three Es; "answer the question they should have asked"; SBI feedback.
+- [[source-melissa-tan]] — Ex-Dropbox growth; four ingredients of high-performing teams; first growth hire as portfolio manager; flying formation.
+- [[source-varun-parmar]] — Miro CPO; AMPED org; rolling 6-month roadmap (80/50); quality-as-classification; "first to the brick wall."
+- [[source-josh-miller]] — The Browser Company; optimize for feelings; D5/D7; company-as-product; membership/storytelling teams; no PMs.
+- [[source-sriram-and-aarthi]] — a16z + founder; techno-optimism; personal brand for IC/PM; community-as-party; JTBD critique.
+- [[source-patrick-campbell]] — ProfitWell/Paddle; [[value-metric-pricing|value-metric pricing]]; tactical vs. strategic retention; tempo framework; competitive intel.
+- [[source-christine-itwaru]] — Pendo; [[product-operations|product operations]] (role + discipline); voice-of-customer synthesis; launch readiness.
+- [[source-keith-yandell]] — DoorDash generalist; "How to work with Keith" doc; helping reports find their next job; T3/B3; WeDash.
+- [[source-eeke-de-milliano]] — Retool Head of Product; [[crazy-ideas-doc|Crazy Ideas doc]]; trapdoor vs. two-way-door; process as variance-reducer.
+- [[source-matt-mochary]] — CEO coach; [[mochary-method]]; fear gives bad advice; firing-as-agent; humane layoff protocol; top goal.
+- [[source-jules-walter]] — Ex-Slack growth PM; IQ vs. EQ; mentor-ask ladder; strength-shadow pairing; reverse-engineering artifacts.
+- [[source-alex-hardimen]] — NYT CPO; functions × missions org; wartime PM; subscription bundle; Wordle integration; editorial firewall.
+- [[source-merci-grace]] — Ex-Slack head of growth; PLG day-zero value; 3-people/50-messages activation; real-work interview projects; diversity-as-flywheel.
+- [[source-kristen-berman]] — Irrational Labs; [[coaching|three-B framework]] (Behavior/Barriers/Benefits); friction as feature; right for wrong; incentive design.
+- [[source-crystal-w]] — Gojek/Kumu; Wizard-of-Oz at scale; growth physics; retention benchmarks; instrumentation taxonomy.
+- [[source-ken-norton]] — Ex-Google; [[creative-vs-reactive-leadership|creative vs. reactive leadership]]; three reactive postures; advice is cotton candy.
+- [[source-casey-winters_]] — Ex-Eventbrite CPO (2nd episode); [[zero-interest-rate-pm|zero-interest-rate PMs]]; three network-effect types; consumer subscription math.
+- [[source-gokul-rajaram]] — DoorDash/boards/angel; hire first PM from inside; lieutenant-of-lieutenants hiring; title discipline; feature factory.
+
 **B4: Product strategy & PM craft, Part 2 (2026-04-13)** — 29 sources, tier-B depth:
 - [[source-chip-conley]] — Peak Model; Modern Elder Academy; intergenerational mentorship at scale.
 - [[source-maggie-crowley]] — Strategy doc template; simplification as strategy; Toast/Drift/TripAdvisor.
@@ -179,8 +205,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **142 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B5 are now marked **done**; B6–B11 pending.
+- [[index-stubs]] — **118 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B6 are now marked **done**; B7–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -283,6 +309,17 @@ Existing entity pages updated through B5 cross-references:
 - [[meta]] — Boz's communication-is-the-job + Molly Graham's give-away-your-Legos (Facebook tenure).
 - [[salesforce]] — Marc Benioff's beginner's mind / Kaizen / orchestra-leader CEO.
 
+### Companies and products (B6 batch)
+New entities (appear centrally in B6 sources):
+- [[doordash]] — WeDash; no-politics / no-asshole; generalists over specialists; Tony Xu humility at scale.
+- [[37signals]] — Bootstrapped stay-up; appetites not estimates; no OKRs/KPIs; independence as root value.
+- [[the-browser-company]] — Optimize for feelings; D5/D7; company-is-product; membership/storytelling teams.
+
+Existing entity pages updated through B6 cross-references:
+- [[uber]] — Keith Yandell's early role; T3/B3 from Travis Kalanick.
+- [[slack]] — Merci Grace as first growth PM; canonical 3-people/50-messages activation.
+- [[amazon]] — Ethan Evans's career origin; Bezos Appstore recovery story.
+
 ## Concepts
 
 ### PMF batch
@@ -364,6 +401,25 @@ Existing entity pages updated through B5 cross-references:
 **Body, breath, inner work**:
 - [[state-over-story]] — Jonny Miller's bottom-up regulation; physiology toolkit; APE check; emotional debt.
 
+### B6 batch (Hiring, management & leadership, Part 2)
+**Founder-mode & operating models**:
+- [[founder-mode]] — Chesky/Lütke/Fried/Miller variants; CEO-as-CPO operating manual; anti "delegate and empower."
+
+**Career & IC leverage**:
+- [[magic-loop]] — Ethan Evans's five-step career-growth algorithm for ICs and middle managers.
+- [[zero-interest-rate-pm]] — Casey Winters's diagnostic for ZIRP-trained PMs who freeze under uncertainty.
+
+**Coaching (script-work lineage)**:
+- [[mochary-method]] — Scripted CEO coaching; fear-gives-bad-advice; humane layoffs; top goal + accountability.
+- [[creative-vs-reactive-leadership]] — Ken Norton's three reactive postures + creative counterpart.
+
+**Operating infrastructure**:
+- [[product-operations]] — Christine Itwaru's canonical treatment of product ops (role + discipline).
+
+**Innovation rituals & pricing**:
+- [[crazy-ideas-doc]] — Retool's annual innovation ritual; permission to think.
+- [[value-metric-pricing]] — Patrick Campbell's highest-leverage pricing move; 20-25% churn drop.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -372,6 +428,7 @@ Existing entity pages updated through B5 cross-references:
 - [[comparison-b3-product-strategy-approaches]] — 30 B3 guests grouped into 8 schools: strategy theory, PM reform, customer research, growth/scaling, design/craft, decision-making, career paths, platform culture.
 - [[comparison-b4-product-strategy-approaches]] — 29 B4 guests grouped into 7 schools: career mechanics, roadmap/strategy/operating system, discovery, coaching, product culture, 0→1, feature craft.
 - [[comparison-b5-leadership-schools]] — 25 B5 guests grouped into 7 schools: heat-injection, run-toward-fear, inner-work, script-work, talent-density, give-away-Legos, mission-architecture; plus 6 key disagreements (is-leader-nice, team-problem-root-cause, when-to-fire, is-management-founder-job, culture-origin, inner-work-necessary).
+- [[comparison-b6-leadership-approaches]] — 24 B6 guests adding 5 distinct poles (founder-mode, calm-company, feelings-first, AMPED, IC-bottom-up) + 6 disagreements sharpened (scale-via-mode-or-small, metrics-vs-feelings, real-work-hiring, first-PM-inside-or-outside, ops-as-growth-or-Band-Aid, career-leverage-source).
 
 ## Syntheses
 
@@ -381,3 +438,4 @@ Existing entity pages updated through B5 cross-references:
 - [[synthesis-b3-product-strategy-patterns]] — 9 convergent patterns across the B3 batch (strategy-is-choice, PM-theater-reckoning, talk-to-customers, appetite-not-estimate, product-ops-emergence, career-from-discomfort, counter-positioning, psychological-safety, AI-changes-what-not-whether).
 - [[synthesis-b4-product-strategy-patterns]] — 8 convergent patterns across the B4 batch (PM career as skill reset, rituals produce culture, PMs own the why, modern-operating-system artifact trio, back-channel references, story-based methods, structured coaching, taste as meta-skill).
 - [[synthesis-b5-scaling-people-patterns]] — 9 convergent patterns across the B5 batch (continuous retention decisions, rehearsable difficult conversations, culture-maintained-not-proclaimed, leader's-job-is-communication, teams-reenact-leader-patterns, structural-design-around-weaknesses, cliff-jumps-not-ladder-climbs, body-and-breath-as-tools, real-work-beats-interviews) + meta-pattern table mapping layers to tools to voices.
+- [[synthesis-b6-leadership-patterns]] — 8 convergent patterns across the B6 batch (interviewing-is-different-from-the-job, first-PM-from-inside, founder-mode-as-pattern, product-ops-as-discipline, bottom-up-career-leverage, coaching-as-script, non-traditional-org-structures, metrics-as-input-not-output) + meta-pattern on older-episodes-are-more-contrarian.

@@ -23,7 +23,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B3** ✅ | Product strategy & PM craft — Part 1 (newer) | 30 |
 | **B4** ✅ | Product strategy & PM craft — Part 2 (older) | 29 |
 | **B5** ✅ | Hiring, management & leadership — Part 1 (newer) | 25 |
-| **B6** | Hiring, management & leadership — Part 2 (older) | 24 |
+| **B6** ✅ | Hiring, management & leadership — Part 2 (older) | 24 |
 | **B7** | Growth loops, acquisition, retention & activation | 31 |
 | **B8** | Positioning, narrative & messaging | 21 |
 | **B9** | Sales, GTM & pricing | 21 |
@@ -217,7 +217,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 24  
 **Themes**: hiring-management  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-14 — see [[comparison-b6-leadership-approaches]] and [[synthesis-b6-leadership-patterns]]
 
 - [[source-ethan-evans|Taking control of your career \| Ethan Evans (Amazon)]] — *Ethan Evans* (2024-01-14)
 - [[source-sam-schillace|How to be more innovative \| Sam Schillace (Microsoft deputy CTO, creator of Google Docs)]] — *Sam Schillace* (2024-01-11)
