@@ -1,36 +1,19 @@
 ---
-title: "Source: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)"
+title: "Source: [DUPLICATE] Matt Abrahams communication episode — redirect"
 type: source
+status: duplicate
 created: 2026-04-10
-updated: 2026-04-10
-tags: [stub, lenny-podcast, growth, retention, acquisition, activation, onboarding, churn, metrics, okrs]
-guest: "Archie Abrams"
-publish_date: 2024-03-31
-duration: "1:11:58"
+updated: 2026-04-16
+tags: [duplicate, redirect]
 sources: [lenny-podcast/archie-abrams.md]
-status: stub
 ---
 
-# Source: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
+# Source: [DUPLICATE] redirect to [[source-matt-abrahams]]
 
-**Guest**: Archie Abrams  
-**Published**: 2024-03-31  
-**Duration**: 1:11:58  
-**YouTube**: https://www.youtube.com/watch?v=LpbBzmXrzEY  
+The raw file `lenny-podcast/archie-abrams.md` has the **same video_id** (`LpbBzmXrzEY`) and title as `matt-abrahams.md`. The YAML frontmatter lists guest as "Archie Abrams" but the title and transcript body are unambiguously the Matt Abrahams communication episode.
 
-## Description
+**See**: [[source-matt-abrahams]]
 
-Matt Abrahams is a renowned communication expert, with decades of teaching, coaching, and consulting experience. At Stanford University, he teaches a business school class on strategic communicatio...
+## Why this stub exists
 
-## Keywords
-
-growth, retention, acquisition, activation, onboarding, churn, metrics, okrs, kpis, roadmap, experimentation, analytics, funnel, conversion, monetization
-
-## Status
-
-This is a **stub** — auto-generated from the transcript's YAML frontmatter. The full transcript at `raw/lenny-podcast/archie-abrams.md` has not yet been deeply ingested. To promote this stub to a full source page with entity/concept cross-references and synthesis, ask for a deep ingest by topic or by guest.
-
-## See also
-
-- [[index]] — full wiki catalog
-- [[log]] — operation log
+The B8 theme batch surfaced both files. On inspection, this is a duplicate transcript (833 lines vs. 740 — different transcription of the same recording). Treated as duplicate per ingest policy.

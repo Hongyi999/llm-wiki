@@ -25,7 +25,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B5** ✅ | Hiring, management & leadership — Part 1 (newer) | 25 |
 | **B6** ✅ | Hiring, management & leadership — Part 2 (older) | 24 |
 | **B7** ✅ | Growth loops, acquisition, retention & activation | 31 |
-| **B8** | Positioning, narrative & messaging | 21 |
+| **B8** ✅ | Positioning, narrative & messaging | 21 |
 | **B9** | Sales, GTM & pricing | 21 |
 | **B10** | Design, craft & founder-led 0→1 | 24 |
 | **B11** | Data & metrics + Career/ICs + misc | 21 |
@@ -284,9 +284,9 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 ### B8 — Positioning, narrative & messaging
 
-**Count**: 21  
+**Count**: 21 (19 unique deep-ingested + 2 duplicate redirects)
 **Themes**: positioning-narrative  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-16 — see [[comparison-b8-positioning-approaches]] and [[synthesis-b8-positioning-patterns]]
 
 - [[source-andrew-wilkinson|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. \| Andrew Wilk]] — *Andrew Wilkinson* (2025-07-03)
 - [[source-interview-q-compilation|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. \| Andrew Wilk]] — *Interview Q Compilation* (2025-07-03)

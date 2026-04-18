@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 created: 2026-04-10
-updated: 2026-04-15
+updated: 2026-04-16
 ---
 
 # Wiki Index
@@ -146,6 +146,27 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-rachel-lockett]] — Executive coach; [[grow-model|GROW]] + 3 levels of listening; gifts; enthusiastic-rehire filter.
 - [[source-melanie-perkins]] — Canva co-founder/CEO; mission pillars + Crazy Big Goals; staged celebrations; don't import playbooks.
 
+**B8: Positioning, narrative & messaging (2026-04-16)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
+- [[source-andrew-wilkinson]] — Tiny holding company; fish where the fish are; AI-agent personal ops; lazy leadership.
+- [[source-ivan-zhao]] — Notion founder; sugar-coated broccoli; B2C2B horizontal; Lego-brick vs Lego-box; talent density.
+- [[source-seth-godin]] — Brand-as-promise; [[smallest-viable-audience|smallest viable audience]]; four strategic choices; tension ≠ stress; Purple Cow.
+- [[source-tristan-de-montebello]] — Ultraspeaking; Accordion Method; Bow and Arrow; speaking as meta-skill; games-as-practice.
+- [[source-ami-vora]] — Faire CPO; curiosity-as-ego-override; metaphor-as-alignment; execution eats strategy; principles-not-answers reviews.
+- [[source-jag-duggal]] — Nubank; fundamentally different > incrementally better; 50% Sean Ellis threshold; bullseye cohort.
+- [[source-matt-abrahams]] — Stanford; dare to be dull; anxiety-as-excitement; visualization; double-exhale breath.
+- [[source-donna-lichaw]] — Leader as hero of own story; superpowers via peak-moment stories; kryptonite reframe.
+- [[source-geoffrey-moore]] — Crossing the Chasm; beachhead formula; four GTM playbooks; compelling reason to buy.
+- [[source-matthew-dicks]] — Storyworthy; five-second moment; stakes devices; dinner test; start close to the end.
+- [[source-bill-carr]] — Amazon's PR/FAQ; single-threaded leaders; input vs. output metrics; disagree and commit.
+- [[source-jason-feifer]] — Entrepreneur editor; editors serve readers; prep→target→pitch; freelancer targeting.
+- [[source-nikhyl-singhal]] — The Skip; ex-growth companies; product ambiguity types; sidecar management.
+- [[source-nancy-duarte]] — What is / what could be / new bliss; audience-as-hero; star moment; Inconvenient Truth.
+- [[source-lulu-cheng-meservey]] — Cultural erogenous zones; concentric circles; pressure = force/area; go direct.
+- [[source-kevin-aluwi]] — Gojek; super app skepticism; brand-as-moat; scrappy ops; hard-things-as-moat.
+- [[source-barbra-gago]] — [[category-creation|Category creation]] (budget/language/competition); dual-track strategy; rebrand-as-product-dev.
+- [[source-wes-kao]] — Sales then logistics; MOO; signposting; CEDAF delegation; strategy-not-self-expression feedback.
+- [[source-arielle-jackson]] — 3-P brand framework; seven naming criteria; classic positioning template; bar test.
+
 **B7: Growth loops, acquisition, retention & activation (2026-04-15)** — 30 sources, tier-B depth (31 nominal; 1 skipped as duplicate):
 - [[source-elena-verna]] — 10 growth tactics that never work; earned channels; 18-month model rotation; stop experimenting on everything.
 - [[source-drew-houston]] — Dropbox; engineered virality; boa-constrictor platform competition; horizontal product curse.
@@ -237,8 +258,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **88 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 promoted; 1 B7 stub converted to duplicate redirect). Each stub captures title, guest, date, duration, description, and keywords.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B7 are now marked **done**; B8–B11 pending.
+- [[index-stubs]] — **67 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 promoted; 3 stubs converted to duplicate redirects). Each stub captures title, guest, date, duration, description, and keywords.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B8 are now marked **done**; B9–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -366,6 +387,15 @@ Existing entity pages updated through B7 cross-references:
 - [[y-combinator]] — Gustaf Alströmer's 600-startup pattern-match.
 - [[doordash]] — Marketplace/logistics references across multiple B7 sources.
 
+### Companies and products (B8 batch)
+New entities (central to B8 sources):
+- [[notion]] — Horizontal consumer-to-business product; sugar-coated broccoli; talent density; craft-as-religion.
+- [[nubank]] — Fanaticism culture; 50% Sean Ellis PMF threshold; fundamentally-different positioning.
+
+Existing entity pages updated through B8 cross-references:
+- [[amazon]] — Bill Carr's *Working Backwards* deep-dive adds PR/FAQ and single-threaded leader canonical.
+- [[meta]] — Ami Vora's metaphor-as-alignment-infrastructure + Nikhyl Singhal's Meta career frames.
+
 ## Concepts
 
 ### PMF batch
@@ -475,6 +505,12 @@ Existing entity pages updated through B7 cross-references:
 - [[adjacent-user-theory]] — Bangaly Kaba's user-cohort-evolution framework.
 - [[word-of-mouth-engineering]] — Peiris/Udezue thesis: WOM is downstream of 10x product, not referral mechanics.
 
+### B8 batch (Positioning, narrative & messaging)
+- [[positioning-canon]] — Landscape page: 10-altitude stack from market selection to press distribution.
+- [[smallest-viable-audience]] — Godin's targeting concept; convergence with Moore beachhead + Jackson named persona + Wilkinson niche.
+- [[category-creation]] — Gago's three-input validation (budget/language/competition) + dual-track strategy.
+- [[storytelling-craft]] — Dicks/Duarte/Tristan landscape: five-second moment, what-is/what-could-be, Bow and Arrow.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -485,6 +521,7 @@ Existing entity pages updated through B7 cross-references:
 - [[comparison-b5-leadership-schools]] — 25 B5 guests grouped into 7 schools: heat-injection, run-toward-fear, inner-work, script-work, talent-density, give-away-Legos, mission-architecture; plus 6 key disagreements (is-leader-nice, team-problem-root-cause, when-to-fire, is-management-founder-job, culture-origin, inner-work-necessary).
 - [[comparison-b6-leadership-approaches]] — 24 B6 guests adding 5 distinct poles (founder-mode, calm-company, feelings-first, AMPED, IC-bottom-up) + 6 disagreements sharpened (scale-via-mode-or-small, metrics-vs-feelings, real-work-hiring, first-PM-inside-or-outside, ops-as-growth-or-Band-Aid, career-leverage-source).
 - [[comparison-b7-growth-approaches]] — 30 B7 guests grouped into 8 schools (earned-channels, WOM engineering, paid+SEO education, craft+opinionated, performance marketing ops, data-led PLG, hierarchy of engagement, pre-PMF traction) + 6 disagreements (split-testing, paid-vs-organic, activation-rate, growth-team-before-PMF, marketplace-supply-vs-demand, canonical-activation-metric).
+- [[comparison-b8-positioning-approaches]] — 19 B8 guests grouped into 7 schools (market selection, hidden-vision positioning, category creation, lifecycle-aware positioning, brand-as-promise, structured brand methodology, narrative + storytelling craft) + 5 disagreements (category vs. fit, promise vs. methodology, who is the hero, how narrow, synthetic vs. earned virality).
 
 ## Syntheses
 
@@ -496,3 +533,4 @@ Existing entity pages updated through B7 cross-references:
 - [[synthesis-b5-scaling-people-patterns]] — 9 convergent patterns across the B5 batch (continuous retention decisions, rehearsable difficult conversations, culture-maintained-not-proclaimed, leader's-job-is-communication, teams-reenact-leader-patterns, structural-design-around-weaknesses, cliff-jumps-not-ladder-climbs, body-and-breath-as-tools, real-work-beats-interviews) + meta-pattern table mapping layers to tools to voices.
 - [[synthesis-b6-leadership-patterns]] — 8 convergent patterns across the B6 batch (interviewing-is-different-from-the-job, first-PM-from-inside, founder-mode-as-pattern, product-ops-as-discipline, bottom-up-career-leverage, coaching-as-script, non-traditional-org-structures, metrics-as-input-not-output) + meta-pattern on older-episodes-are-more-contrarian.
 - [[synthesis-b7-growth-patterns]] — 10 convergent patterns across the B7 batch (growth-can't-manufacture-PMF, activation-metric-must-be-derived, earned-channel-thesis, retention-compounds-harder, onboarding-highest-leverage, WOM-downstream-of-10x-product, experimentation-cuts-both-ways, data-led-foundation, non-obvious-channels-are-alpha, adjacent-users-explain-the-long-game) + four-lever meta-model (acquisition / activation / retention / monetization).
+- [[synthesis-b8-positioning-patterns]] — 8 convergent patterns across the B8 batch (positioning-is-a-stack, fundamentally-different-trumps-incrementally-better, narrow-audience-wide-empathy, brand-equals-promise, story-needs-one-memorable-thing, internal-narrative-equals-external-narrative, delivery-craft-matters, go-direct-earn-distribution).

@@ -9,6 +9,30 @@ updated: 2026-04-14
 
 Chronological record of all wiki operations.
 
+## [2026-04-16] ingest-batch | B8 — Positioning, narrative & messaging (19 unique sources)
+
+Deep-ingested the **B8** batch: 19 unique Lenny's Podcast transcripts on positioning, narrative, and messaging (2022-08 through 2025-07). Tier-B depth, per-page serial writes (same pipeline as B4/B5/B6/B7). 21 nominal sources minus 2 duplicate stubs (`interview-q-compilation.md` → Andrew Wilkinson; `archie-abrams.md` → Matt Abrahams).
+
+Pipeline: 4 parallel research subagents (5/5/5/4); all four completed successfully.
+
+**Source pages written** (19): andrew-wilkinson, ivan-zhao, seth-godin, tristan-de-montebello, ami-vora, jag-duggal, matt-abrahams, donna-lichaw, geoffrey-moore, matthew-dicks, bill-carr, jason-feifer, nikhyl-singhal, nancy-duarte, lulu-cheng-meservey, kevin-aluwi, barbra-gago, wes-kao, arielle-jackson.
+
+**Duplicate redirects (2)**: interview-q-compilation (shorter Andrew Wilkinson transcript), archie-abrams (same video_id as matt-abrahams — both versions of Matt Abrahams communication episode).
+
+**New entity pages (2)**: notion, nubank.
+
+**New concept pages (4)**: positioning-canon (landscape), smallest-viable-audience, category-creation, storytelling-craft.
+
+**Comparison + synthesis (2)**: comparison-b8-positioning-approaches (7 schools + 5 disagreements sharpened); synthesis-b8-positioning-patterns (8 convergent patterns).
+
+**Cross-source observations**:
+- Positioning is a *stack* at multiple altitudes (market → category → lifecycle → positioning sentence → brand → narrative → storytelling craft → delivery → internal narrative → distribution).
+- "Fundamentally different" consensus across Godin/Duggal/Udezue/Peiris/Omojola (3-10x product threshold for virality).
+- Narrow audience consensus: Godin smallest-viable, Moore beachhead, Jackson named persona, Wilkinson fish-where-the-fish-are, Meservey concentric circles.
+- Brand = promise, not logo — cross-source agreement from Godin/Jackson/Vora/Carr/Aluwi/Gago.
+
+[[index]] now lists 223 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8). [[index-stubs]] drops from 88 → 67. [[index-by-theme]] marks B8 as ✅ done. B9 (sales, GTM & pricing; 21 sources) is next.
+
 ## [2026-04-15] ingest-batch | B7 — Growth loops, acquisition, retention & activation (30 sources)
 
 Deep-ingested the **B7** batch: 30 Lenny's Podcast transcripts on growth loops, acquisition, retention, activation (2022-09 through 2025-01). Tier-B depth, per-page serial writes (same pipeline as B4/B5/B6). 31 nominal sources minus 1 mislabeled duplicate (`benjamin-mann.md` is shorter transcription of already-ingested Benjamin Lauzier episode; stub redirects to [[source-benjamin-lauzier-marketplaces]]).
