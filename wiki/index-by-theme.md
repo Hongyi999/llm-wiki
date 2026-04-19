@@ -26,7 +26,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B6** ✅ | Hiring, management & leadership — Part 2 (older) | 24 |
 | **B7** ✅ | Growth loops, acquisition, retention & activation | 31 |
 | **B8** ✅ | Positioning, narrative & messaging | 21 |
-| **B9** | Sales, GTM & pricing | 21 |
+| **B9** ✅ | Sales, GTM & pricing | 21 |
 | **B10** | Design, craft & founder-led 0→1 | 24 |
 | **B11** | Data & metrics + Career/ICs + misc | 21 |
 | | **Total** | **287** |
@@ -312,9 +312,9 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 ### B9 — Sales, GTM & pricing
 
-**Count**: 21  
+**Count**: 21 (19 unique deep-ingested + 2 duplicate redirects)
 **Themes**: sales-gtm, pricing-monetization  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-19 — see [[comparison-b9-sales-gtm-approaches]] and [[synthesis-b9-sales-gtm-patterns]]
 
 - [[source-jeanne-grosser|What world-class GTM looks like in 2026 \| Jeanne DeWitt Grosser (Vercel, Stripe, Google)]] — *Jeanne Grosser* (2025-11-30)
 - [[source-jen-abel-20|$1M to $10M: The enterprise sales playbook with Jen Abel]] — *Jen Abel 2.0* (2025-11-09)

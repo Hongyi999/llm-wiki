@@ -146,6 +146,27 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-rachel-lockett]] — Executive coach; [[grow-model|GROW]] + 3 levels of listening; gifts; enthusiastic-rehire filter.
 - [[source-melanie-perkins]] — Canva co-founder/CEO; mission pillars + Crazy Big Goals; staged celebrations; don't import playbooks.
 
+**B9: Sales, GTM & pricing (2026-04-19)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
+- [[source-jeanne-grosser]] — Vercel/Stripe/Google COO; GTM engineer role; agent-ified SDRs; deal-bot diagnostics; 80% buy to avoid pain.
+- [[source-jen-abel-20]] — JJELLYFISH; $1M→$10M enterprise playbook; tier-1 logos are early adopters; $75K–$150K anchor.
+- [[source-nan-yu]] — [[linear|Linear]] Head of Product; speed + quality; emotional valence; extreme variants; IC priority.
+- [[source-raaz-herzberg]] — [[wiz|Wiz]] CMO; fastest-growing startup; PLG + sales hybrid; design for wow.
+- [[source-jessica-hische]] — Typography/logo design; craft as pricing power; hidden power of design craft.
+- [[source-anneka-gupta]] — Rubrik CPO; strategic thinking; navigating difficult colleagues; founder mode.
+- [[source-matt-dixon]] — [[fomu-jolt-method|FOMU > FOMO]]; 2.5M sales calls; JOLT method; 87% of urgency closes backfire.
+- [[source-april-dunford]] — [[positioning-canon|Sales pitch architecture]]; Setup → Follow-through; teach the buyer how to buy; arm the champion.
+- [[source-christopher-lochhead]] — Category design maximalism; 76% market cap to category king; languaging; dam-the-demand.
+- [[source-claire-butler]] — Figma GTM; IC-first adoption; designer advocates; viewers-free pricing; Twitter social-graph scraper.
+- [[source-julia-schottenstein]] — dbt Labs; M&A archetypes; competing against copies; open-source-to-enterprise pricing.
+- [[source-andy-raskin]] — [[strategic-narrative|Strategic narrative]]; old game → new game → promised land; CEO alignment tool.
+- [[source-jonathan-becker]] — Thrive Digital; creative-as-lever post-privacy; Uber client origin; agency + in-house hybrid.
+- [[source-carilu-dietrich]] — Atlassian CMO; advertising amplifies, doesn't create; hypergrowth hiring; PLG at scale.
+- [[source-elena-verna-20]] — [[product-led-sales|Product-led sales]] definitive guide; monetization awareness; PQA; product owns pipeline.
+- [[source-april-dunford-20]] — Five-component positioning framework; market context before features; category creation skepticism.
+- [[source-pete-kazanjy]] — [[founder-led-sales|Founder-led sales]] mechanics; while-loop model; 15–25% win rate threshold; pioneer sellers.
+- [[source-madhavan-ramanujam-20]] — [[pricing-strategy|Pricing strategy]] definitive episode; dual-engine growth; gives-and-gets; good/better/best.
+- [[source-sahil-mansuri]] — Recession sales playbook; retention-first; comp redesign; milestone-based forecasting.
+
 **B8: Positioning, narrative & messaging (2026-04-16)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
 - [[source-andrew-wilkinson]] — Tiny holding company; fish where the fish are; AI-agent personal ops; lazy leadership.
 - [[source-ivan-zhao]] — Notion founder; sugar-coated broccoli; B2C2B horizontal; Lego-brick vs Lego-box; talent density.
@@ -258,8 +279,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **67 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 promoted; 3 stubs converted to duplicate redirects). Each stub captures title, guest, date, duration, description, and keywords.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B8 are now marked **done**; B9–B11 pending.
+- [[index-stubs]] — **46 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9 promoted; 5 stubs converted to duplicate redirects). Each stub captures title, guest, date, duration, description, and keywords.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B9 are now marked **done**; B10–B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -396,6 +417,16 @@ Existing entity pages updated through B8 cross-references:
 - [[amazon]] — Bill Carr's *Working Backwards* deep-dive adds PR/FAQ and single-threaded leader canonical.
 - [[meta]] — Ami Vora's metaphor-as-alignment-infrastructure + Nikhyl Singhal's Meta career frames.
 
+### Companies and products (B9 batch)
+New entities (central to B9 sources):
+- [[wiz]] — Cloud security; fastest SaaS to $100M ARR; PLG + sales hybrid; acquired by Google for $32B.
+
+Existing entity pages updated through B9 cross-references:
+- [[figma]] — Claire Butler's first-GTM-hire perspective; pricing pivot; designer advocates.
+- [[atlassian]] — Carilu Dietrich's CMO perspective; 2–3x R&D vs. sales spend; PLG at scale.
+- [[uber]] — Jonathan Becker's Thrive Digital client relationship.
+- [[reforge]] — Elena Verna's monetization and PLS course.
+
 ## Concepts
 
 ### PMF batch
@@ -511,6 +542,12 @@ Existing entity pages updated through B8 cross-references:
 - [[category-creation]] — Gago's three-input validation (budget/language/competition) + dual-track strategy.
 - [[storytelling-craft]] — Dicks/Duarte/Tristan landscape: five-second moment, what-is/what-could-be, Bow and Arrow.
 
+### B9 batch (Sales, GTM & pricing)
+- [[product-led-sales]] — Hybrid motion where product owns pipeline; PQA; monetization awareness hierarchy. Elena Verna + Claire Butler.
+- [[strategic-narrative]] — Old game → new game → promised land framework; CEO alignment tool. Andy Raskin + Dunford critique.
+- [[fomu-jolt-method]] — FOMU > FOMO; JOLT closing method (Judge-Offer-Limit-Take-risk-off). Matt Dixon.
+- [[pricing-strategy]] — Landscape page: pricing stack from philosophy to negotiation to downturn tactics. Ramanujam + Butler + Schottenstein.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -522,6 +559,7 @@ Existing entity pages updated through B8 cross-references:
 - [[comparison-b6-leadership-approaches]] — 24 B6 guests adding 5 distinct poles (founder-mode, calm-company, feelings-first, AMPED, IC-bottom-up) + 6 disagreements sharpened (scale-via-mode-or-small, metrics-vs-feelings, real-work-hiring, first-PM-inside-or-outside, ops-as-growth-or-Band-Aid, career-leverage-source).
 - [[comparison-b7-growth-approaches]] — 30 B7 guests grouped into 8 schools (earned-channels, WOM engineering, paid+SEO education, craft+opinionated, performance marketing ops, data-led PLG, hierarchy of engagement, pre-PMF traction) + 6 disagreements (split-testing, paid-vs-organic, activation-rate, growth-team-before-PMF, marketplace-supply-vs-demand, canonical-activation-metric).
 - [[comparison-b8-positioning-approaches]] — 19 B8 guests grouped into 7 schools (market selection, hidden-vision positioning, category creation, lifecycle-aware positioning, brand-as-promise, structured brand methodology, narrative + storytelling craft) + 5 disagreements (category vs. fit, promise vs. methodology, who is the hero, how narrow, synthetic vs. earned virality).
+- [[comparison-b9-sales-gtm-approaches]] — 19 B9 guests grouped into 8 schools (positioning & pitch, category design, founder-led sales, buyer psychology, product-led sales, pricing, GTM ops, specialist) + 6 disagreements (category vs. positioning, trend-first vs. value-first, when to hire sales, FOMO vs. FOMU, product's role in revenue, advertising's power).
 
 ## Syntheses
 
@@ -534,3 +572,4 @@ Existing entity pages updated through B8 cross-references:
 - [[synthesis-b6-leadership-patterns]] — 8 convergent patterns across the B6 batch (interviewing-is-different-from-the-job, first-PM-from-inside, founder-mode-as-pattern, product-ops-as-discipline, bottom-up-career-leverage, coaching-as-script, non-traditional-org-structures, metrics-as-input-not-output) + meta-pattern on older-episodes-are-more-contrarian.
 - [[synthesis-b7-growth-patterns]] — 10 convergent patterns across the B7 batch (growth-can't-manufacture-PMF, activation-metric-must-be-derived, earned-channel-thesis, retention-compounds-harder, onboarding-highest-leverage, WOM-downstream-of-10x-product, experimentation-cuts-both-ways, data-led-foundation, non-obvious-channels-are-alpha, adjacent-users-explain-the-long-game) + four-lever meta-model (acquisition / activation / retention / monetization).
 - [[synthesis-b8-positioning-patterns]] — 8 convergent patterns across the B8 batch (positioning-is-a-stack, fundamentally-different-trumps-incrementally-better, narrow-audience-wide-empathy, brand-equals-promise, story-needs-one-memorable-thing, internal-narrative-equals-external-narrative, delivery-craft-matters, go-direct-earn-distribution).
+- [[synthesis-b9-sales-gtm-patterns]] — 8 convergent patterns across the B9 batch (buyers-are-afraid, founders-must-sell-first, product-must-own-pipeline, pricing-is-product, teach-the-buyer, do-things-that-dont-scale, free-tier-determines-trajectory, positioning-is-upstream) + GTM maturity arc meta-model.

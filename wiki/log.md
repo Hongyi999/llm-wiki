@@ -9,6 +9,30 @@ updated: 2026-04-14
 
 Chronological record of all wiki operations.
 
+## [2026-04-19] ingest-batch | B9 — Sales, GTM & pricing (19 unique sources)
+
+Deep-ingested the **B9** batch: 19 unique Lenny's Podcast transcripts on sales, GTM, and pricing (2022-12 through 2025-11). Tier-B depth, per-page serial writes (same pipeline as B4–B8). 21 nominal sources minus 2 duplicate stubs (`manik-gupta.md` → Anneka Gupta same video_id; `elena-verna-30.md` → Elena Verna 2.0 same video_id).
+
+Pipeline: 4 parallel research subagents (5/5/5/4); all four completed successfully.
+
+**Source pages written** (19): jeanne-grosser, jen-abel-20, nan-yu, raaz-herzberg, jessica-hische, anneka-gupta, matt-dixon, april-dunford, christopher-lochhead, claire-butler, julia-schottenstein, andy-raskin, jonathan-becker, carilu-dietrich, elena-verna-20, april-dunford-20, pete-kazanjy, madhavan-ramanujam-20, sahil-mansuri.
+
+**Duplicate redirects (2)**: manik-gupta (same video_id as anneka-gupta), elena-verna-30 (same video_id as elena-verna-20).
+
+**New entity pages (1)**: wiz.
+
+**New concept pages (4)**: product-led-sales, strategic-narrative, fomu-jolt-method, pricing-strategy.
+
+**Comparison + synthesis (2)**: comparison-b9-sales-gtm-approaches (8 schools + 6 disagreements); synthesis-b9-sales-gtm-patterns (8 convergent patterns + GTM maturity arc meta-model).
+
+**Cross-source observations**:
+- Buyers are afraid, not uninterested: FOMU > FOMO is the deepest convergence (Dixon, Dunford, Grosser, Abel).
+- Positioning is upstream of everything — all B9 voices agree, though they disagree on whether it's positioning (Dunford), narrative (Raskin), or category design (Lochhead).
+- Founder-led sales → product-led sales → enterprise pitch architecture forms a coherent GTM maturity arc.
+- Pricing is a product decision: Figma's free-tier pivot, Ramanujam's dual-engine model, Verna's monetization-awareness hierarchy.
+
+[[index]] now lists 242 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9). [[index-stubs]] drops from 67 → 46. [[index-by-theme]] marks B9 as ✅ done. B10 (design, craft & founder-led 0→1; 24 sources) is next.
+
 ## [2026-04-16] ingest-batch | B8 — Positioning, narrative & messaging (19 unique sources)
 
 Deep-ingested the **B8** batch: 19 unique Lenny's Podcast transcripts on positioning, narrative, and messaging (2022-08 through 2025-07). Tier-B depth, per-page serial writes (same pipeline as B4/B5/B6/B7). 21 nominal sources minus 2 duplicate stubs (`interview-q-compilation.md` → Andrew Wilkinson; `archie-abrams.md` → Matt Abrahams).
