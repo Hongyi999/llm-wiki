@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 created: 2026-04-10
-updated: 2026-04-16
+updated: 2026-04-19
 ---
 
 # Wiki Index
@@ -167,6 +167,29 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-madhavan-ramanujam-20]] — [[pricing-strategy|Pricing strategy]] definitive episode; dual-engine growth; gives-and-gets; good/better/best.
 - [[source-sahil-mansuri]] — Recession sales playbook; retention-first; comp redesign; milestone-based forecasting.
 
+**B10: Design, craft & founder-led 0→1 (2026-04-19)** — 21 unique sources, tier-B depth (24 nominal; 3 skipped as duplicates):
+- [[source-stewart-butterfield]] — Slack/Flickr; utility curves; comprehension > friction; taste as competitive advantage; HRWLA; divine discontent.
+- [[source-bob-baxley]] — Apple/Pinterest/ThoughtSpot; design tenets > principles; software as medium; moral obligation; primal mark; small teams.
+- [[source-dmitry-zlokazov]] — Revolut; Local CEO model; 99% done ≈ 0%; founder screen review at scale; raw intellect > experience.
+- [[source-mike-maples-jr]] — Pattern Breakers; inflections + insights + founder-future fit; force a choice not a comparison; movements > marketing.
+- [[source-jessica-livingston]] — YC co-founder; social radar; defensiveness detection; earnestness > charisma; Airbnb cereal box story.
+- [[source-mihika-kapoor]] — Figma 0→1 PM; keeper of the flame; conviction calibration; hype as fuel; hackathons as launchpads.
+- [[source-jake-knapp-john-zeratsky]] — Make Time; Highlight principle; busy bandwagon + infinity pools; willpower never wins; design your day.
+- [[source-judd-antin]] — Airbnb UX research VP; macro/middle/micro; user-centered performance critique; NPS is broken; multimillion-dollar button.
+- [[source-tom-conrad]] — Pandora/Quibi; companies are math equations; failure as career accelerant; organic growth; not everyone should be a founder.
+- [[source-eric-ries]] — Lean Startup reflections; MVP = learning efficiency; zombie companies; pivot = change strategy; AI as management tech.
+- [[source-gina-gotthilf]] — Duolingo 3M→200M+ users; zero-budget organic growth; brand voice as moat; world = one market; A-side/B-side careers.
+- [[source-katie-dill]] — Stripe VP Design; quality IS growth; Walk the Store; Performance = Potential - Interference; beauty builds trust.
+- [[source-lane-shackleton]] — Coda CPO; systems not goals; flash tags; Catalyst review; cathedrals not bricks; seek discomfort; 10% planning rule.
+- [[source-maya-prohovnik]] — Anchor/Spotify; dogfooding as practice; kill your darlings; gut as data type; post-acquisition depression.
+- [[source-andy-johns]] — Facebook/Twitter/Wealthfront growth; achievement addiction; four-step transformation; 50-60% tech in distress.
+- [[source-austin-hay]] — Ramp growth marketing; MarTech guide; PPS framework; build AND buy; end of deterministic attribution.
+- [[source-jeremy-henrickson]] — Rippling/Coinbase; compound startup model; design for most complex case first; go and see; small teams founding products.
+- [[source-david-singleton]] — Stripe CTO; co-create with users; friction logging; engineer-cations; meticulous craft; 10.5% revenue uplift.
+- [[source-naomi-ionita]] — Menlo Ventures; pricing frameworks; three common pricing mistakes; single-player → multiplayer chasm; Modern Growth Stack.
+- [[source-sachin-monga]] — Substack VP Product; Recommendations as growth lever; writer control; build with writers; tool-to-network evolution.
+- [[source-emily-kramer]] — MKT1; fuel + engine framework; Π-shaped marketer; PLG is a misnomer; GACCS brief; impact vs. splatergy.
+
 **B8: Positioning, narrative & messaging (2026-04-16)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
 - [[source-andrew-wilkinson]] — Tiny holding company; fish where the fish are; AI-agent personal ops; lazy leadership.
 - [[source-ivan-zhao]] — Notion founder; sugar-coated broccoli; B2C2B horizontal; Lego-brick vs Lego-box; talent density.
@@ -279,8 +302,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **46 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9 promoted; 5 stubs converted to duplicate redirects). Each stub captures title, guest, date, duration, description, and keywords.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B9 are now marked **done**; B10–B11 pending.
+- [[index-stubs]] — **25 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9 + 21 B10 promoted; 8 stubs converted to duplicate redirects). Each stub captures title, guest, date, duration, description, and keywords.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B10 are now marked **done**; B11 pending.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -427,6 +450,23 @@ Existing entity pages updated through B9 cross-references:
 - [[uber]] — Jonathan Becker's Thrive Digital client relationship.
 - [[reforge]] — Elena Verna's monetization and PLS course.
 
+### Companies and products (B10 batch)
+New entities (central to B10 sources):
+- [[revolut]] — $60B fintech; Local CEO model; 150+ product owners; raw intellect hiring; founder screen review at 50+ countries scale.
+- [[pandora]] — 0 to 80M users with zero paid UA; support@→all@ radical authenticity; Tom Conrad's math-equation thesis.
+- [[duolingo]] — Mission-obsessed growth; 3M→200M+ zero-budget organic; brand voice as cultural moat; passive-aggressive Duo owl.
+- [[anchor]] — Podcast creation platform (→Spotify); do-things-that-don't-scale intern distribution; three pivots to PMF.
+- [[coda]] — Shackleton's systems-not-goals operating culture; flash tags; Catalyst review; two-way writeups.
+- [[substack]] — Writer-curated Recommendations; tool-to-network evolution; writer control as product principle.
+
+Existing entity pages updated through B10 cross-references:
+- [[apple]] — Baxley's 8-year design tenure; design tenets; small teams (20 Mac, 24 iPhone); design → engineering reporting.
+- [[stripe]] — Dill's quality-is-growth + Walk the Store; Singleton's friction logging + engineer-cations + 10.5% revenue uplift.
+- [[figma]] — Kapoor's 0→1 product development; hackathons as launchpads; dogfooding as investment engine.
+- [[airbnb]] — Dill's Performance = Potential - Interference; Antin's multimillion-dollar button; Livingston's cereal box funding story.
+- [[y-combinator]] — Livingston's social radar; 10-minute interviews; earnestness > charisma.
+- [[rippling]] — Henrickson's compound startup model; design for most complex case first; small teams founding products.
+
 ## Concepts
 
 ### PMF batch
@@ -548,6 +588,17 @@ Existing entity pages updated through B9 cross-references:
 - [[fomu-jolt-method]] — FOMU > FOMO; JOLT closing method (Judge-Offer-Limit-Take-risk-off). Matt Dixon.
 - [[pricing-strategy]] — Landscape page: pricing stack from philosophy to negotiation to downturn tactics. Ramanujam + Butler + Schottenstein.
 
+### B10 batch (Design, craft & founder-led 0→1)
+**Cross-source clusters**:
+- [[design-tenets]] — Opinionated decision-making tools vs. unopposable principles. Baxley (ThoughtSpot) + Butterfield (utility curves) + Dill (Walk the Store rubric).
+- [[dogfooding]] — Using your own product as a non-negotiable practice. Prohovnik + Gotthilf + Singleton + Kapoor + Zlokazov + Monga.
+- [[pattern-breakers]] — Inflections + insights + founder-future fit; force a choice, not a comparison. Mike Maples Jr.
+
+**Named single-source frameworks**:
+- [[flash-tags]] — FYI / Suggestion / Recommendation / Plea feedback calibration scale. Lane Shackleton (via Dharmesh Shah).
+- [[walk-the-store]] — 15 essential journeys friction-logged and scored quarterly. Katie Dill + David Singleton.
+- [[fuel-and-engine]] — Marketing framework: fuel (content/messaging) + engine (distribution/ops). Emily Kramer.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -560,6 +611,7 @@ Existing entity pages updated through B9 cross-references:
 - [[comparison-b7-growth-approaches]] — 30 B7 guests grouped into 8 schools (earned-channels, WOM engineering, paid+SEO education, craft+opinionated, performance marketing ops, data-led PLG, hierarchy of engagement, pre-PMF traction) + 6 disagreements (split-testing, paid-vs-organic, activation-rate, growth-team-before-PMF, marketplace-supply-vs-demand, canonical-activation-metric).
 - [[comparison-b8-positioning-approaches]] — 19 B8 guests grouped into 7 schools (market selection, hidden-vision positioning, category creation, lifecycle-aware positioning, brand-as-promise, structured brand methodology, narrative + storytelling craft) + 5 disagreements (category vs. fit, promise vs. methodology, who is the hero, how narrow, synthetic vs. earned virality).
 - [[comparison-b9-sales-gtm-approaches]] — 19 B9 guests grouped into 8 schools (positioning & pitch, category design, founder-led sales, buyer psychology, product-led sales, pricing, GTM ops, specialist) + 6 disagreements (category vs. positioning, trend-first vs. value-first, when to hire sales, FOMO vs. FOMU, product's role in revenue, advertising's power).
+- [[comparison-b10-design-craft-approaches]] — 21 B10 guests grouped into 6 schools (design philosophy, founder-led detail obsession, 0→1 creation, growth & GTM craft, process & rituals, personal resilience) + 6 disagreements (MVP quality bar, prototyping speed, scope vs. depth, metrics role, research velocity, founder glorification).
 
 ## Syntheses
 
@@ -573,3 +625,4 @@ Existing entity pages updated through B9 cross-references:
 - [[synthesis-b7-growth-patterns]] — 10 convergent patterns across the B7 batch (growth-can't-manufacture-PMF, activation-metric-must-be-derived, earned-channel-thesis, retention-compounds-harder, onboarding-highest-leverage, WOM-downstream-of-10x-product, experimentation-cuts-both-ways, data-led-foundation, non-obvious-channels-are-alpha, adjacent-users-explain-the-long-game) + four-lever meta-model (acquisition / activation / retention / monetization).
 - [[synthesis-b8-positioning-patterns]] — 8 convergent patterns across the B8 batch (positioning-is-a-stack, fundamentally-different-trumps-incrementally-better, narrow-audience-wide-empathy, brand-equals-promise, story-needs-one-memorable-thing, internal-narrative-equals-external-narrative, delivery-craft-matters, go-direct-earn-distribution).
 - [[synthesis-b9-sales-gtm-patterns]] — 8 convergent patterns across the B9 batch (buyers-are-afraid, founders-must-sell-first, product-must-own-pipeline, pricing-is-product, teach-the-buyer, do-things-that-dont-scale, free-tier-determines-trajectory, positioning-is-upstream) + GTM maturity arc meta-model.
+- [[synthesis-b10-design-craft-patterns]] — 7 convergent patterns across the B10 batch (quality-IS-growth, founder-detail-review-scales, small-teams-create-breakthroughs, dogfooding-non-negotiable, bet-on-people-not-ideas, systems-outperform-goals, single-player-to-multiplayer-chasm) + craft maturity arc meta-model.

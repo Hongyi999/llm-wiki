@@ -27,7 +27,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B7** ✅ | Growth loops, acquisition, retention & activation | 31 |
 | **B8** ✅ | Positioning, narrative & messaging | 21 |
 | **B9** ✅ | Sales, GTM & pricing | 21 |
-| **B10** | Design, craft & founder-led 0→1 | 24 |
+| **B10** ✅ | Design, craft & founder-led 0→1 | 24 |
 | **B11** | Data & metrics + Career/ICs + misc | 21 |
 | | **Total** | **287** |
 
@@ -342,7 +342,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 24  
 **Themes**: design-craft, founder-0to1  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-19
 
 - [[source-stewart-butterfield|Mental models for building products people love ft. Stewart Butterfield]] — *Stewart Butterfield* (2025-11-20)
 - [[source-bob-baxley|35 years of product design wisdom from Apple, Disney, Pinterest and beyond \| Bob Baxley]] — *Bob Baxley* (2025-06-12)

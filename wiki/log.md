@@ -9,6 +9,29 @@ updated: 2026-04-14
 
 Chronological record of all wiki operations.
 
+## [2026-04-19] ingest-batch | B10 — Design, craft & founder-led 0→1 (21 unique sources)
+
+Deep-ingested the **B10** batch: 21 unique Lenny's Podcast transcripts on design philosophy, product craft, founder evaluation, 0→1 creation, growth, and personal resilience (2023-05 through 2025-11). Tier-B depth, 4 parallel write-agents. 24 nominal sources minus 3 duplicate stubs (`gibson-biddle.md` → bob-baxley same video_id X-83gvgVaWc; `jake-knapp-john-zeratsky-20.md` → jake-knapp-john-zeratsky same video_id cuce7zvOFHY; `david-placek.md` → david-singleton same video_id F0_IKKY3HCk).
+
+**Source pages written** (21): stewart-butterfield, bob-baxley, dmitry-zlokazov, mike-maples-jr, jessica-livingston, mihika-kapoor, jake-knapp-john-zeratsky, judd-antin, tom-conrad, eric-ries, gina-gotthilf, katie-dill, lane-shackleton, maya-prohovnik, andy-johns, austin-hay, jeremy-henrickson, david-singleton, naomi-ionita, sachin-monga, emily-kramer.
+
+**Duplicate redirects** (3): gibson-biddle, jake-knapp-john-zeratsky-20, david-placek.
+
+**Entity pages** (6 new): revolut, pandora, duolingo, anchor, coda, substack. 6 existing updated (apple, stripe, figma, airbnb, y-combinator, rippling).
+
+**Concept pages** (6): design-tenets, dogfooding, pattern-breakers, flash-tags, walk-the-store, fuel-and-engine.
+
+**Comparison**: comparison-b10-design-craft-approaches — 6 schools + 6 disagreements.
+
+**Synthesis**: synthesis-b10-design-craft-patterns — 7 convergent patterns + craft maturity arc meta-model.
+
+**Cross-source observations**:
+- Quality-IS-growth is the deepest B10 convergence (5 voices independently: Dill, Singleton, Butterfield, Zlokazov, Baxley)
+- MVP quality bar is the sharpest disagreement (Ries's learning-efficiency thesis vs. Butterfield/Zlokazov's 99%≈0% vs. Henrickson's design-for-hardest-first)
+- B10's craft maturity arc complements B9's GTM maturity arc: B9 = how to sell, B10 = how to build what's worth selling
+
+---
+
 ## [2026-04-19] ingest-batch | B9 — Sales, GTM & pricing (19 unique sources)
 
 Deep-ingested the **B9** batch: 19 unique Lenny's Podcast transcripts on sales, GTM, and pricing (2022-12 through 2025-11). Tier-B depth, per-page serial writes (same pipeline as B4–B8). 21 nominal sources minus 2 duplicate stubs (`manik-gupta.md` → Anneka Gupta same video_id; `elena-verna-30.md` → Elena Verna 2.0 same video_id).
