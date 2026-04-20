@@ -2,12 +2,155 @@
 title: Wiki Log
 type: log
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 # Wiki Log
 
 Chronological record of all wiki operations.
+
+## [2026-04-20] ingest-batch | B11 — Data, metrics, career & personal growth (17 unique sources)
+
+Deep-ingested the **B11** batch: 17 unique Lenny's Podcast transcripts on experimentation, analytics org design, OKRs, career strategy, personal growth, relationships, community-led growth, and learning from failure (2022-11 through 2025-01). Tier-B depth, parallel write-agents. 21 nominal sources minus 1 duplicate stub (`laura-modi.md` → laura-schaffer same video_id UMAmj1bciww) minus 3 empty/promo stubs (`daniel-lereya.md`, `peter-deng.md`, `teaser_2021.md`).
+
+**Source pages written** (17): graham-weaver, phyl-terry, jess-lachs, jeff-weinstein, jeffrey-pfeffer, carole-robin, nir-eyal, failure, anuj-rathi, ronny-kohavi, ada-chen-rekhi, christina-wodtke, laura-schaffer, vijay, eoy-review, camille-ricketts, gergely.
+
+**Duplicate redirect** (1): laura-modi (same video_id as laura-schaffer).
+
+**Empty/promo stubs skipped** (3): daniel-lereya, peter-deng, teaser_2021.
+
+**Comparison**: comparison-b11-data-career-approaches — 6 schools (experimentation & data rigor, strategy & prioritization, career strategy & personal growth, relationships & inner work, growth & distribution, learning from failure) + 5 disagreements (statistical rigor, OKR applicability, power vs. vulnerability, career optimization, metrics philosophy).
+
+**Synthesis**: synthesis-b11-data-career-patterns — 7 convergent patterns (most-ideas-fail, metrics-must-be-causal, career-requires-discomfort, internal-scorecard-over-external, systems-outperform-willpower, relationships-compound, framework-literacy-as-meta-skill) + data-informed life arc meta-model.
+
+**Cross-source observations**:
+- "Most ideas fail" is the deepest B11 convergence (5 voices independently: Kohavi 66-92%, Schaffer 80%, Lachs analytics-kills-bad-ideas, Vijay cannibalization failure, Failure compilation)
+- Career growth requires intentional discomfort — Weaver, Chen Rekhi, Pfeffer, Terry, and the Failure compilation all diagnose avoidance as the primary career trap
+- B11's data-informed life arc complements B10's craft maturity arc: B10 = how to build what's worth building, B11 = how to build who's worth being
+- This completes all 11 batches. Total deep source pages: ~280 (287 nominal minus duplicates and empty stubs). Stub count: 4 remaining (3 empty/promo + 1 duplicate redirect).
+
+---
+
+## [2026-04-19] ingest-batch | B10 — Design, craft & founder-led 0→1 (21 unique sources)
+
+Deep-ingested the **B10** batch: 21 unique Lenny's Podcast transcripts on design philosophy, product craft, founder evaluation, 0→1 creation, growth, and personal resilience (2023-05 through 2025-11). Tier-B depth, 4 parallel write-agents. 24 nominal sources minus 3 duplicate stubs (`gibson-biddle.md` → bob-baxley same video_id X-83gvgVaWc; `jake-knapp-john-zeratsky-20.md` → jake-knapp-john-zeratsky same video_id cuce7zvOFHY; `david-placek.md` → david-singleton same video_id F0_IKKY3HCk).
+
+**Source pages written** (21): stewart-butterfield, bob-baxley, dmitry-zlokazov, mike-maples-jr, jessica-livingston, mihika-kapoor, jake-knapp-john-zeratsky, judd-antin, tom-conrad, eric-ries, gina-gotthilf, katie-dill, lane-shackleton, maya-prohovnik, andy-johns, austin-hay, jeremy-henrickson, david-singleton, naomi-ionita, sachin-monga, emily-kramer.
+
+**Duplicate redirects** (3): gibson-biddle, jake-knapp-john-zeratsky-20, david-placek.
+
+**Entity pages** (6 new): revolut, pandora, duolingo, anchor, coda, substack. 6 existing updated (apple, stripe, figma, airbnb, y-combinator, rippling).
+
+**Concept pages** (6): design-tenets, dogfooding, pattern-breakers, flash-tags, walk-the-store, fuel-and-engine.
+
+**Comparison**: comparison-b10-design-craft-approaches — 6 schools + 6 disagreements.
+
+**Synthesis**: synthesis-b10-design-craft-patterns — 7 convergent patterns + craft maturity arc meta-model.
+
+**Cross-source observations**:
+- Quality-IS-growth is the deepest B10 convergence (5 voices independently: Dill, Singleton, Butterfield, Zlokazov, Baxley)
+- MVP quality bar is the sharpest disagreement (Ries's learning-efficiency thesis vs. Butterfield/Zlokazov's 99%≈0% vs. Henrickson's design-for-hardest-first)
+- B10's craft maturity arc complements B9's GTM maturity arc: B9 = how to sell, B10 = how to build what's worth selling
+
+---
+
+## [2026-04-19] ingest-batch | B9 — Sales, GTM & pricing (19 unique sources)
+
+Deep-ingested the **B9** batch: 19 unique Lenny's Podcast transcripts on sales, GTM, and pricing (2022-12 through 2025-11). Tier-B depth, per-page serial writes (same pipeline as B4–B8). 21 nominal sources minus 2 duplicate stubs (`manik-gupta.md` → Anneka Gupta same video_id; `elena-verna-30.md` → Elena Verna 2.0 same video_id).
+
+Pipeline: 4 parallel research subagents (5/5/5/4); all four completed successfully.
+
+**Source pages written** (19): jeanne-grosser, jen-abel-20, nan-yu, raaz-herzberg, jessica-hische, anneka-gupta, matt-dixon, april-dunford, christopher-lochhead, claire-butler, julia-schottenstein, andy-raskin, jonathan-becker, carilu-dietrich, elena-verna-20, april-dunford-20, pete-kazanjy, madhavan-ramanujam-20, sahil-mansuri.
+
+**Duplicate redirects (2)**: manik-gupta (same video_id as anneka-gupta), elena-verna-30 (same video_id as elena-verna-20).
+
+**New entity pages (1)**: wiz.
+
+**New concept pages (4)**: product-led-sales, strategic-narrative, fomu-jolt-method, pricing-strategy.
+
+**Comparison + synthesis (2)**: comparison-b9-sales-gtm-approaches (8 schools + 6 disagreements); synthesis-b9-sales-gtm-patterns (8 convergent patterns + GTM maturity arc meta-model).
+
+**Cross-source observations**:
+- Buyers are afraid, not uninterested: FOMU > FOMO is the deepest convergence (Dixon, Dunford, Grosser, Abel).
+- Positioning is upstream of everything — all B9 voices agree, though they disagree on whether it's positioning (Dunford), narrative (Raskin), or category design (Lochhead).
+- Founder-led sales → product-led sales → enterprise pitch architecture forms a coherent GTM maturity arc.
+- Pricing is a product decision: Figma's free-tier pivot, Ramanujam's dual-engine model, Verna's monetization-awareness hierarchy.
+
+[[index]] now lists 242 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9). [[index-stubs]] drops from 67 → 46. [[index-by-theme]] marks B9 as ✅ done. B10 (design, craft & founder-led 0→1; 24 sources) is next.
+
+## [2026-04-16] ingest-batch | B8 — Positioning, narrative & messaging (19 unique sources)
+
+Deep-ingested the **B8** batch: 19 unique Lenny's Podcast transcripts on positioning, narrative, and messaging (2022-08 through 2025-07). Tier-B depth, per-page serial writes (same pipeline as B4/B5/B6/B7). 21 nominal sources minus 2 duplicate stubs (`interview-q-compilation.md` → Andrew Wilkinson; `archie-abrams.md` → Matt Abrahams).
+
+Pipeline: 4 parallel research subagents (5/5/5/4); all four completed successfully.
+
+**Source pages written** (19): andrew-wilkinson, ivan-zhao, seth-godin, tristan-de-montebello, ami-vora, jag-duggal, matt-abrahams, donna-lichaw, geoffrey-moore, matthew-dicks, bill-carr, jason-feifer, nikhyl-singhal, nancy-duarte, lulu-cheng-meservey, kevin-aluwi, barbra-gago, wes-kao, arielle-jackson.
+
+**Duplicate redirects (2)**: interview-q-compilation (shorter Andrew Wilkinson transcript), archie-abrams (same video_id as matt-abrahams — both versions of Matt Abrahams communication episode).
+
+**New entity pages (2)**: notion, nubank.
+
+**New concept pages (4)**: positioning-canon (landscape), smallest-viable-audience, category-creation, storytelling-craft.
+
+**Comparison + synthesis (2)**: comparison-b8-positioning-approaches (7 schools + 5 disagreements sharpened); synthesis-b8-positioning-patterns (8 convergent patterns).
+
+**Cross-source observations**:
+- Positioning is a *stack* at multiple altitudes (market → category → lifecycle → positioning sentence → brand → narrative → storytelling craft → delivery → internal narrative → distribution).
+- "Fundamentally different" consensus across Godin/Duggal/Udezue/Peiris/Omojola (3-10x product threshold for virality).
+- Narrow audience consensus: Godin smallest-viable, Moore beachhead, Jackson named persona, Wilkinson fish-where-the-fish-are, Meservey concentric circles.
+- Brand = promise, not logo — cross-source agreement from Godin/Jackson/Vora/Carr/Aluwi/Gago.
+
+[[index]] now lists 223 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8). [[index-stubs]] drops from 88 → 67. [[index-by-theme]] marks B8 as ✅ done. B9 (sales, GTM & pricing; 21 sources) is next.
+
+## [2026-04-15] ingest-batch | B7 — Growth loops, acquisition, retention & activation (30 sources)
+
+Deep-ingested the **B7** batch: 30 Lenny's Podcast transcripts on growth loops, acquisition, retention, activation (2022-09 through 2025-01). Tier-B depth, per-page serial writes (same pipeline as B4/B5/B6). 31 nominal sources minus 1 mislabeled duplicate (`benjamin-mann.md` is shorter transcription of already-ingested Benjamin Lauzier episode; stub redirects to [[source-benjamin-lauzier-marketplaces]]).
+
+Pipeline: 6 parallel research subagents (5/5/5/5/5/5); all six completed successfully; per-page serial writes.
+
+**Source pages written** (30): elena-verna, drew-houston, jackson-shuttleworth, naomi-gleit, deb-liu, timothy-davis, bangaly-kaba, sarah-tavel, ramesh-johari, karri-saarinen, alexander-embiricos, nilan-peiris, oji-udezue, tim-holley, meltem-kuran, camille-hearst, geoff-charles, sri-batchu, luc-levesque, ayo-omojola, hila-qu, gustaf-alstromer, gaurav-misra, lauryn-isford, ben-williams, adam-fishman, dan-hockenmaier, gia-laudi, adam-grenier, yuriy-timen.
+
+**New entity pages (3)**: ramp, wise, linear.
+
+**New concept pages (6)**: adjacent-user-theory, growth-loops, hierarchy-of-engagement, product-led-growth, growth-model, word-of-mouth-engineering.
+
+**Comparison + synthesis (2)**: comparison-b7-growth-approaches (8 schools + 6 disagreements sharpened); synthesis-b7-growth-patterns (10 convergent patterns + four-lever meta-model).
+
+**Data quality notes**:
+- `benjamin-mann.md`: YAML mislabeled guest; transcript body is duplicate of Benjamin Lauzier's canonical marketplace-liquidity episode. Stub converted to redirect.
+- `alexander-embiricos.md`: YAML metadata erroneously copied from nilan-peiris.md (same video_id); transcript body is a distinct interview with Alexander Embiricos about OpenAI Codex. Treated transcript as canonical.
+- `gaurav-misra.md`: YAML metadata erroneously copied from lauryn-isford.md; transcript body is a distinct interview with Gaurav Misra (Captions CEO, ex-Snap). Treated transcript as canonical.
+
+**Cross-source observations**:
+- Growth teams can't manufacture PMF — strongest consensus in the batch (10+ voices).
+- Earned-channel thesis (virality, UGC, sharing) dominant — rented channels make Google/Meta rich.
+- Four-lever taxonomy (acquisition loops / activation / retention / monetization) organizes the entire corpus.
+- Adjacent user theory (Kaba) is the most cited new concept.
+- Word-of-mouth engineering is downstream of 10x product, not referral mechanics (Peiris + Udezue + Omojola converge).
+
+[[index]] now lists 204 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7). [[index-stubs]] drops from 118 → 88. [[index-by-theme]] marks B7 as ✅ done. B8 (positioning, narrative & messaging; 21 sources) is next.
+
+## [2026-04-14] ingest-batch | B6 — Hiring, management & leadership, Part 2 (24 sources)
+
+Deep-ingested the full **B6** batch: 24 Lenny's Podcast transcripts on hiring, management, and leadership (older episodes, 2022-01 through 2024-01). Tier-B depth, per-page serial writes (same pipeline as B4/B5).
+
+Pipeline: 5 parallel research subagents (groups of 5/5/5/5/4); all five completed successfully; per-page serial writes.
+
+**Source pages written** (24): ethan-evans, sam-schillace, will-larson, jason-fried, brian-chesky, itamar-gilad, paige-costello, melissa-tan, varun-parmar, josh-miller, sriram-and-aarthi, patrick-campbell, christine-itwaru, keith-yandell, eeke-de-milliano, matt-mochary, jules-walter, alex-hardimen, merci-grace, kristen-berman, crystal-w, ken-norton, casey-winters_ (Casey's second appearance), gokul-rajaram.
+
+**New entity pages (3)**: doordash, 37signals, the-browser-company.
+
+**New concept pages (8)**: founder-mode, magic-loop, product-operations, mochary-method, creative-vs-reactive-leadership, zero-interest-rate-pm, value-metric-pricing, crazy-ideas-doc.
+
+**Comparison + synthesis (2)**: comparison-b6-leadership-approaches (5 B6-distinctive poles + 6 disagreements sharpened); synthesis-b6-leadership-patterns (8 convergent patterns + meta-pattern on older-episodes-are-more-contrarian).
+
+**Cross-source observations**:
+- Founder-mode is a pattern, not a slogan — Chesky/Lütke/Fried/Miller all articulate it in distinct ways.
+- Interviewing is a different skill from the job — 5 voices independently prescribe real-work filters (Grace, Tan, Winters, Evans, Yandell).
+- First PM hire from inside — Rajaram, de Milliano, Miller, Tan converge.
+- Older episodes are more contrarian than newer ones (Fried rejects scale, Miller rejects metrics, Mochary rejects intuition).
+
+[[index]] now lists 174 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6). [[index-stubs]] drops from 142 → 118. [[index-by-theme]] marks B6 as ✅ done. B7 (growth loops, acquisition, retention & activation; 31 sources) is next.
 
 ## [2026-04-10] init | Wiki initialized
 
@@ -114,3 +257,39 @@ Deep-ingested the full **B3** batch: 30 Lenny's Podcast transcripts on product s
 **Data issues found**: `matt-mullenweg.md` had YAML duplicated from `matt-lemay.md`; `ray-cao.md` had Marty Cagan's YAML frontmatter. Both handled at generation time with title overrides.
 
 **Index updates**: [[index]] now lists 96 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3). [[index-stubs]] drops from 226 → 196. [[index-by-theme]] marks B3 as ✅ done. B4 (product strategy & PM craft, older) is next.
+
+## [2026-04-13] ingest-batch | B4 — Product strategy & PM craft, Part 2 (29 sources)
+
+Deep-ingested the full **B4** batch: 29 Lenny's Podcast transcripts on product strategy and PM craft (older 2022–2023 episodes). Tier-B depth, but written incrementally one page at a time to avoid API stream-idle timeouts that hit on large parallel batches.
+
+**Pipeline change**: Switched away from the Python-generator batch approach used for B1/B2/B3. After two successive `API Error: Stream idle timeout` events on large parallel writes, split the work into per-page Read → Write cycles with no parallelism on page writing. 6 parallel subagents did the initial transcript-reading pass. Subsequent page generation was serial: 29 source pages plus supporting entity/concept/comparison/synthesis pages, each written as its own `Write` tool call.
+
+**Pages created/updated (40 total)**:
+- **29 source pages** replacing B4 stubs: [[source-chip-conley]], [[source-maggie-crowley]], [[source-bob-moesta-20]], [[source-hari-srinivasan]], [[source-casey-winters]], [[source-shweta-shriva]], [[source-nikita-bier]], [[source-nikita-miller]], [[source-claire-hughes-johnson]], [[source-annie-pearl]], [[source-upasna-gautam]], [[source-marty-cagan-20]], [[source-zoelle-egner]], [[source-ravi-mehta]], [[source-john-cutler]], [[source-yuhki-yamashata]], [[source-chris-hutchins]], [[source-petra-wille]], [[source-ian-mcallister]], [[source-lauren-ipsen]], [[source-fareed-mosavat]], [[source-adriel-frederick]], [[source-janna-bastow]], [[source-teresa-torres]], [[source-jason-shah]], [[source-shreyas-doshi]], [[source-shreyas-doshi-live]], [[source-shishir-mehrotra]], [[source-nickey-skarstad]].
+- **2 new entity pages**: [[amazon]] (cross-source; 3+ guests), [[reforge]] (Fareed Mosavat + Casey Winters + others).
+- **7 new concept pages**: [[working-backwards]] (Amazon PR/FAQ), [[lno-framework]] (Shreyas Doshi's L/N/O task taxonomy), [[opportunity-solution-tree]] (Teresa Torres), [[now-next-later-roadmap]] (Janna Bastow), [[continuous-discovery]] (Teresa Torres), [[product-strategy-stack]] (Ravi Mehta), [[rituals-of-great-teams]] (Shishir Mehrotra), [[product-leader-canyon]] (Fareed Mosavat), [[pre-mortem]] (Shreyas Doshi).
+- **1 comparison + 1 synthesis**: [[comparison-b4-product-strategy-approaches]] (7 schools of thought, 6 key disagreements) and [[synthesis-b4-product-strategy-patterns]] (8 convergent patterns).
+
+**Cross-source stats**: The strongest B4 theme is the **PM career as skill reset, not extension** — spanning Mosavat, McAllister, Doshi, Shah, and Ipsen. The modern-product-operating-system artifact trio (Product Strategy Stack + Now/Next/Later + Opportunity Solution Tree) converges cleanly across three independent guests (Mehta, Bastow, Torres). Shishir Mehrotra's rituals concept is the operating-rhythm anchor.
+
+**Data issues found**: `chip-conley.md` raw file YAML carried Maggie Crowley's title/description; `nikita-bier.md` raw file YAML carried Nikita Miller's title. Both corrected in the source pages with explanatory notes. `shreyas-doshi-live.md` and `shreyas-doshi.md` share an (incorrect) YouTube URL but have distinct transcript content — treated as two episodes.
+
+**Index updates**: [[index]] now lists 125 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4). [[index-stubs]] drops from 196 → 167. [[index-by-theme]] marks B4 as ✅ done. B5 (hiring, management & leadership, Part 1) is next.
+
+## [2026-04-13] ingest-batch | B5 — Hiring, management & leadership, Part 1 (25 sources)
+
+Deep-ingested the full **B5** batch: 25 Lenny's Podcast transcripts on founder psychology, scaling people, leadership, and coaching (2024-01 through 2026-01). Tier-B depth, per-page serial writes (same pipeline as B4 to avoid API stream-idle timeouts).
+
+**Pipeline**: 5 parallel subagents each researched 5 transcripts and returned structured markdown. One subagent (group 4: Joe Hudson, Kenneth Berger, Kayvon Beykpour, Dharmesh Shah, Kunal Shah) hit 429 rate limits on first pass; re-dispatched successfully on a second attempt. All 25 research analyses completed. Source pages written serially, one Read→Write cycle each.
+
+**Pages created/updated (38 total)**:
+- **25 source pages** replacing B5 stubs: [[source-molly-graham]], [[source-rachel-lockett]], [[source-melanie-perkins]], [[source-ben-horowitz]], [[source-sanchan-saxena]], [[source-jerry-colonna]], [[source-uri-levine]], [[source-tobi-lutke]], [[source-alisa-cohn]], [[source-marc-benioff]], [[source-farhan-thawar]], [[source-julie-zhuo-20]], [[source-jonathan-lowenhar]], [[source-alex-komoroske]], [[source-camille-fournier]], [[source-joe-hudson]], [[source-kenneth-berger]], [[source-kayvon-beykpour]], [[source-dharmesh-shah]], [[source-kunal-shah]], [[source-emilie-gerber]], [[source-boz]], [[source-elizabeth-stone]], [[source-jonny-miller]], [[source-heidi-helfand]].
+- **4 new entity pages**: [[netflix]] (talent density + keeper test; Elizabeth Stone), [[shopify]] (Tobi Lütke + Farhan Thawar; trust battery, Meetingageddon), [[a16z]] (Ben Horowitz; confidence-restoration machine), [[hubspot]] (Dharmesh Shah; Culture Code, radical transparency).
+- **8 new concept pages**: [[keeper-test]], [[grow-model]], [[dynamic-reteaming]], [[founder-prenup]], [[state-over-story]], [[culture-code]], [[delta-4]], [[give-away-your-legos]], plus a landscape page [[coaching]] that catalogs the batch's coach voices (Cohn, Lockett, Colonna, Hudson, Berger, Robin, Miller).
+- **1 comparison + 1 synthesis**: [[comparison-b5-leadership-schools]] (seven schools of leadership thought + six key disagreements) and [[synthesis-b5-scaling-people-patterns]] (nine convergent patterns + meta-pattern on people-as-bottleneck-at-scale).
+
+**Cross-source stats**: The single most convergent pattern in the batch is **continuous retention filtering** — five operators (Stone's keeper test, Levine's 30-day test, Lockett's enthusiastic-rehire, Cohn's 30-day deal-breaker, Horowitz's invest-in-strength) independently articulate variants of the same discipline. The second-most-convergent is **culture-is-maintained-not-proclaimed**, converging across HubSpot (Culture Code), Canva (mission pillars + celebrations), Coda (rituals; from B4), Netflix (hiring bar), and Twitter (repetitive storytelling). Coaching subcluster includes 5 distinct coach voices (Lockett, Cohn, Colonna, Hudson, Berger) plus somatic specialist (Miller); tacit Stanford T-group lineage (Carole Robin) links them.
+
+**Data issues found**: `sanchan-saxena.md` raw YAML was labelled "Sachin Kansal (Uber CPO)" but transcript content is Sanchan Saxena (Coinbase VP Product, ex-Airbnb/Instagram). Handled with an explanatory note on the source page; transcript content is canonical per ingest policy.
+
+**Index updates**: [[index]] now lists 150 deep source pages (5 PMF + 29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5). [[index-stubs]] drops from 167 → 142. [[index-by-theme]] marks B5 as ✅ done. B6 (hiring, management & leadership, Part 2; older episodes) is next.

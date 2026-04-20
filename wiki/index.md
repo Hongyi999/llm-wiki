@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-19
 ---
 
 # Wiki Index
@@ -119,10 +119,210 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-matt-lemay]] — Impact First; low-impact PM death spiral; "would you fund your own team?".
 - [[source-keith-coleman-jay-baxter]] — Community Notes origin; bridging-based algorithm; Thermal team model.
 
+**B5: Hiring, management & leadership, Part 1 (2026-04-13)** — 25 sources, tier-B depth:
+- [[source-ben-horowitz]] — a16z; run-toward-fear; hesitation as the worst sin; managerial leverage; invest-in-strength.
+- [[source-sanchan-saxena]] — Coinbase/ex-Airbnb/Instagram; intentionality over A/B; 15-out-of-10 design; rapid recovery.
+- [[source-jerry-colonna]] — Reboot; complicity question; leadership equation; family-of-origin patterns; unsorted baggage.
+- [[source-uri-levine]] — Waze; fall in love with the problem; 30-day hire-or-fire test; PMF = retention; 100 nos.
+- [[source-tobi-lutke]] — Shopify CEO; Tobi tornado; human potential throughline; anti-OKR; infinite games; exothermic leadership.
+- [[source-alisa-cohn]] — Executive coach; scripted difficult conversations; "hope for the future" framing; [[founder-prenup]].
+- [[source-marc-benioff]] — Salesforce; beginner's mind (Shoshin); Kaizen; orchestra-leader CEO model; no-linear-success.
+- [[source-farhan-thawar]] — Shopify VP Eng; hard path vs. easy path; Meetingageddon; pair programming default; [[source-tobi-lutke|trust battery]].
+- [[source-julie-zhuo-20]] — Sundial; managing AI = managing people; builder archetype; diagnose-data/treat-design; feedback-as-gift.
+- [[source-jonathan-lowenhar]] — Enjoy the Work; founder-to-CEO transition; nine CEO failure archetypes; three CEO jobs; Who-method.
+- [[source-alex-komoroske]] — Ex-Google/Stripe; LLMs as magical duct tape; taste as moat; gardener vs. builder; slime mold orgs.
+- [[source-camille-fournier]] — Author "The Manager's Path"; four PM anti-patterns; management-as-service; 10-year IC mastery rule.
+- [[source-joe-hudson]] — Executive coach; critical voice is always wrong; emotional fluidity; what-you-resist-persists; VIEW + 7-min gratitude.
+- [[source-kenneth-berger]] — Executive coach; ask-for-what-you-want 3-step loop; dream-behind-complaint; hell-yes-or-no; archetypes.
+- [[source-kayvon-beykpour]] — Ex-Twitter Head of Product; sacred cows as roadmap; acquihire-to-drive-culture; refine-the-core + portfolio.
+- [[source-dharmesh-shah]] — HubSpot co-founder/CTO; lean-into-strengths; [[culture-code|Culture Code]]; LPM; SoloWare; entropy as enemy.
+- [[source-kunal-shah]] — CRED founder; [[delta-4|Delta 4]]; founder dharma / Krishna-Rama 2x2; DAU-vs-ARPU mismatch; long-term-societies.
+- [[source-emilie-gerber]] — Six Eastern; press as recruiting/sales collateral; pattern-match not category-create; cold outreach > Rolodex.
+- [[source-boz]] — Meta CTO; leverage your leaders more; communication-is-the-job; transparency tax; Eye of Sauron career strategy.
+- [[source-elizabeth-stone]] — Netflix CTO; three-layer stack (talent density → candor → freedom); [[keeper-test|keeper test]]; 3-step manager loop.
+- [[source-jonny-miller]] — Nervous System Mastery; [[state-over-story|state over story]]; if-this-then-breathe toolkit; APE; emotional debt.
+- [[source-heidi-helfand]] — Author "Dynamic Reteaming"; [[dynamic-reteaming|five patterns of reteaming]]; whiteboard reteaming; RIDE framework.
+- [[source-molly-graham]] — Ex-Facebook/Quip/Oculus; [[give-away-your-legos|give away your Legos]]; J-curve vs. stairs; Waterline Model.
+- [[source-rachel-lockett]] — Executive coach; [[grow-model|GROW]] + 3 levels of listening; gifts; enthusiastic-rehire filter.
+- [[source-melanie-perkins]] — Canva co-founder/CEO; mission pillars + Crazy Big Goals; staged celebrations; don't import playbooks.
+
+**B9: Sales, GTM & pricing (2026-04-19)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
+- [[source-jeanne-grosser]] — Vercel/Stripe/Google COO; GTM engineer role; agent-ified SDRs; deal-bot diagnostics; 80% buy to avoid pain.
+- [[source-jen-abel-20]] — JJELLYFISH; $1M→$10M enterprise playbook; tier-1 logos are early adopters; $75K–$150K anchor.
+- [[source-nan-yu]] — [[linear|Linear]] Head of Product; speed + quality; emotional valence; extreme variants; IC priority.
+- [[source-raaz-herzberg]] — [[wiz|Wiz]] CMO; fastest-growing startup; PLG + sales hybrid; design for wow.
+- [[source-jessica-hische]] — Typography/logo design; craft as pricing power; hidden power of design craft.
+- [[source-anneka-gupta]] — Rubrik CPO; strategic thinking; navigating difficult colleagues; founder mode.
+- [[source-matt-dixon]] — [[fomu-jolt-method|FOMU > FOMO]]; 2.5M sales calls; JOLT method; 87% of urgency closes backfire.
+- [[source-april-dunford]] — [[positioning-canon|Sales pitch architecture]]; Setup → Follow-through; teach the buyer how to buy; arm the champion.
+- [[source-christopher-lochhead]] — Category design maximalism; 76% market cap to category king; languaging; dam-the-demand.
+- [[source-claire-butler]] — Figma GTM; IC-first adoption; designer advocates; viewers-free pricing; Twitter social-graph scraper.
+- [[source-julia-schottenstein]] — dbt Labs; M&A archetypes; competing against copies; open-source-to-enterprise pricing.
+- [[source-andy-raskin]] — [[strategic-narrative|Strategic narrative]]; old game → new game → promised land; CEO alignment tool.
+- [[source-jonathan-becker]] — Thrive Digital; creative-as-lever post-privacy; Uber client origin; agency + in-house hybrid.
+- [[source-carilu-dietrich]] — Atlassian CMO; advertising amplifies, doesn't create; hypergrowth hiring; PLG at scale.
+- [[source-elena-verna-20]] — [[product-led-sales|Product-led sales]] definitive guide; monetization awareness; PQA; product owns pipeline.
+- [[source-april-dunford-20]] — Five-component positioning framework; market context before features; category creation skepticism.
+- [[source-pete-kazanjy]] — [[founder-led-sales|Founder-led sales]] mechanics; while-loop model; 15–25% win rate threshold; pioneer sellers.
+- [[source-madhavan-ramanujam-20]] — [[pricing-strategy|Pricing strategy]] definitive episode; dual-engine growth; gives-and-gets; good/better/best.
+- [[source-sahil-mansuri]] — Recession sales playbook; retention-first; comp redesign; milestone-based forecasting.
+
+**B10: Design, craft & founder-led 0→1 (2026-04-19)** — 21 unique sources, tier-B depth (24 nominal; 3 skipped as duplicates):
+- [[source-stewart-butterfield]] — Slack/Flickr; utility curves; comprehension > friction; taste as competitive advantage; HRWLA; divine discontent.
+- [[source-bob-baxley]] — Apple/Pinterest/ThoughtSpot; design tenets > principles; software as medium; moral obligation; primal mark; small teams.
+- [[source-dmitry-zlokazov]] — Revolut; Local CEO model; 99% done ≈ 0%; founder screen review at scale; raw intellect > experience.
+- [[source-mike-maples-jr]] — Pattern Breakers; inflections + insights + founder-future fit; force a choice not a comparison; movements > marketing.
+- [[source-jessica-livingston]] — YC co-founder; social radar; defensiveness detection; earnestness > charisma; Airbnb cereal box story.
+- [[source-mihika-kapoor]] — Figma 0→1 PM; keeper of the flame; conviction calibration; hype as fuel; hackathons as launchpads.
+- [[source-jake-knapp-john-zeratsky]] — Make Time; Highlight principle; busy bandwagon + infinity pools; willpower never wins; design your day.
+- [[source-judd-antin]] — Airbnb UX research VP; macro/middle/micro; user-centered performance critique; NPS is broken; multimillion-dollar button.
+- [[source-tom-conrad]] — Pandora/Quibi; companies are math equations; failure as career accelerant; organic growth; not everyone should be a founder.
+- [[source-eric-ries]] — Lean Startup reflections; MVP = learning efficiency; zombie companies; pivot = change strategy; AI as management tech.
+- [[source-gina-gotthilf]] — Duolingo 3M→200M+ users; zero-budget organic growth; brand voice as moat; world = one market; A-side/B-side careers.
+- [[source-katie-dill]] — Stripe VP Design; quality IS growth; Walk the Store; Performance = Potential - Interference; beauty builds trust.
+- [[source-lane-shackleton]] — Coda CPO; systems not goals; flash tags; Catalyst review; cathedrals not bricks; seek discomfort; 10% planning rule.
+- [[source-maya-prohovnik]] — Anchor/Spotify; dogfooding as practice; kill your darlings; gut as data type; post-acquisition depression.
+- [[source-andy-johns]] — Facebook/Twitter/Wealthfront growth; achievement addiction; four-step transformation; 50-60% tech in distress.
+- [[source-austin-hay]] — Ramp growth marketing; MarTech guide; PPS framework; build AND buy; end of deterministic attribution.
+- [[source-jeremy-henrickson]] — Rippling/Coinbase; compound startup model; design for most complex case first; go and see; small teams founding products.
+- [[source-david-singleton]] — Stripe CTO; co-create with users; friction logging; engineer-cations; meticulous craft; 10.5% revenue uplift.
+- [[source-naomi-ionita]] — Menlo Ventures; pricing frameworks; three common pricing mistakes; single-player → multiplayer chasm; Modern Growth Stack.
+- [[source-sachin-monga]] — Substack VP Product; Recommendations as growth lever; writer control; build with writers; tool-to-network evolution.
+- [[source-emily-kramer]] — MKT1; fuel + engine framework; Π-shaped marketer; PLG is a misnomer; GACCS brief; impact vs. splatergy.
+
+**B11: Data, metrics, career & personal growth (2026-04-20)** — 17 unique sources, tier-B depth (21 nominal; 1 duplicate redirect, 3 empty/promo stubs skipped):
+- [[source-graham-weaver]] — Stanford GSB; Genie Framework; Nine Lives; "worse first"; internal vs. external scorecard; limiting beliefs lose power on paper.
+- [[source-phyl-terry]] — Job Search Councils; candidate market fit; job mission with OKRs; negotiation tactics; do it together.
+- [[source-jess-lachs]] — DoorDash VP Analytics; centralized analytics with embedded pods; proxy metrics; fail-state metrics; analytics = business impact.
+- [[source-jeff-weinstein]] — Stripe product; go-go-go + long-term compounding; "users having a bad day" metric; zero-ticket goal; Study Groups.
+- [[source-jeffrey-pfeffer]] — Stanford power course; Seven Rules of Power; networking as generosity; success excuses everything; power is learnable.
+- [[source-carole-robin]] — Stanford Touchy Feely; 15% rule; three realities; anger as secondary emotion; inquiry > advice; progressive disclosure.
+- [[source-nir-eyal]] — Indistractable; traction vs. distraction; 10-minute rule; time-boxing > to-do lists; effort pacts; identity-based change.
+- [[source-failure]] — Compilation episode; trust-before-change (Dill); broken math equations (Conrad); fail conclusively (Batchu); B-side careers.
+- [[source-anuj-rathi]] — Full-stack PM; 4BB framework; three divergent PR FAQs; users are lazy/vain/selfish; OKRs fail in 3-sided marketplaces.
+- [[source-ronny-kohavi]] — A/B testing definitive guide; 66-92% experiment failure rate; OEC; Twyman's Law; SRM; P-value corrections.
+- [[source-ada-chen-rekhi]] — Career decisions; Curiosity Loops; values exercise; explore-exploit strategy; boiling frog; eating your vegetables.
+- [[source-christina-wodtke]] — OKRs as vitamin not medicine; mission → strategy → OKR → weekly status; Friday celebrations; pilot with best team.
+- [[source-laura-schaffer]] — Experimentation at Amplitude; good vs. bad friction; 80% hypotheses wrong; lower confidence thresholds; painted-door tests.
+- [[source-vijay]] — Mixpanel journey; don't cannibalize core; speed-first then design-led; RICE with delayed C&E; NPS 16→50 turnaround.
+- [[source-eoy-review]] — Year-end top 10 compilation; canonical frameworks (Dunford positioning, Verna retention-first, Doshi LNO, Mochary small teams).
+- [[source-camille-ricketts]] — Notion community-led growth; atomic unit of sharing; ambassador program; don't measure ROI too early.
+- [[source-gergely]] — The Pragmatic Engineer; leaving Uber; six years blogging; newsletter-as-book; Substack recommendations flywheel.
+
+**B8: Positioning, narrative & messaging (2026-04-16)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
+- [[source-andrew-wilkinson]] — Tiny holding company; fish where the fish are; AI-agent personal ops; lazy leadership.
+- [[source-ivan-zhao]] — Notion founder; sugar-coated broccoli; B2C2B horizontal; Lego-brick vs Lego-box; talent density.
+- [[source-seth-godin]] — Brand-as-promise; [[smallest-viable-audience|smallest viable audience]]; four strategic choices; tension ≠ stress; Purple Cow.
+- [[source-tristan-de-montebello]] — Ultraspeaking; Accordion Method; Bow and Arrow; speaking as meta-skill; games-as-practice.
+- [[source-ami-vora]] — Faire CPO; curiosity-as-ego-override; metaphor-as-alignment; execution eats strategy; principles-not-answers reviews.
+- [[source-jag-duggal]] — Nubank; fundamentally different > incrementally better; 50% Sean Ellis threshold; bullseye cohort.
+- [[source-matt-abrahams]] — Stanford; dare to be dull; anxiety-as-excitement; visualization; double-exhale breath.
+- [[source-donna-lichaw]] — Leader as hero of own story; superpowers via peak-moment stories; kryptonite reframe.
+- [[source-geoffrey-moore]] — Crossing the Chasm; beachhead formula; four GTM playbooks; compelling reason to buy.
+- [[source-matthew-dicks]] — Storyworthy; five-second moment; stakes devices; dinner test; start close to the end.
+- [[source-bill-carr]] — Amazon's PR/FAQ; single-threaded leaders; input vs. output metrics; disagree and commit.
+- [[source-jason-feifer]] — Entrepreneur editor; editors serve readers; prep→target→pitch; freelancer targeting.
+- [[source-nikhyl-singhal]] — The Skip; ex-growth companies; product ambiguity types; sidecar management.
+- [[source-nancy-duarte]] — What is / what could be / new bliss; audience-as-hero; star moment; Inconvenient Truth.
+- [[source-lulu-cheng-meservey]] — Cultural erogenous zones; concentric circles; pressure = force/area; go direct.
+- [[source-kevin-aluwi]] — Gojek; super app skepticism; brand-as-moat; scrappy ops; hard-things-as-moat.
+- [[source-barbra-gago]] — [[category-creation|Category creation]] (budget/language/competition); dual-track strategy; rebrand-as-product-dev.
+- [[source-wes-kao]] — Sales then logistics; MOO; signposting; CEDAF delegation; strategy-not-self-expression feedback.
+- [[source-arielle-jackson]] — 3-P brand framework; seven naming criteria; classic positioning template; bar test.
+
+**B7: Growth loops, acquisition, retention & activation (2026-04-15)** — 30 sources, tier-B depth (31 nominal; 1 skipped as duplicate):
+- [[source-elena-verna]] — 10 growth tactics that never work; earned channels; 18-month model rotation; stop experimenting on everything.
+- [[source-drew-houston]] — Dropbox; engineered virality; boa-constrictor platform competition; horizontal product curse.
+- [[source-jackson-shuttleworth]] — Duolingo streaks; 600 experiments; zero-to-seven-day loss aversion; keeper of sanctity.
+- [[source-naomi-gleit]] — Meta's head of product; 7-friends-in-10-days; growth accounting; PM-as-conductor.
+- [[source-deb-liu]] — Ancestry CEO; PM your career like a product; zero-to-one-in-shadows; game of inches.
+- [[source-timothy-davis]] — Shopify paid growth; signs of life tests; lookalike laddering; ops cadence matrix.
+- [[source-bangaly-kaba]] — Instagram/YouTube/Instacart; [[adjacent-user-theory|adjacent user theory]]; understand work; impact = environment × skills.
+- [[source-sarah-tavel]] — Benchmark/Pinterest; [[hierarchy-of-engagement|Hierarchy of Engagement]]; happy GMV; currents not bodies of water.
+- [[source-ramesh-johari]] — Stanford; marketplaces sell transaction-cost removal; prediction vs. decision; rating inflation; learning is costly.
+- [[source-karri-saarinen]] — [[linear|Linear]]; craft + taste; no A/B tests; main quest; paid work trials; pricing slider.
+- [[source-alexander-embiricos]] — OpenAI Codex; coding agent as universal primitive; compressing talent stack; IDE pivot.
+- [[source-nilan-peiris]] — [[wise|Wise]]; [[word-of-mouth-engineering|WOM engineering]]; invites double per NPS bucket; 10x product threshold.
+- [[source-oji-udezue]] — Typeform/Calendly/Twitter; sharp problems; Zone of Benefit (3x rule); forest time.
+- [[source-tim-holley]] — Etsy; GMS as drumbeat KPI; COVID face-mask pivot; marketplace graduation problem.
+- [[source-meltem-kuran]] — Deel; skeleton-before-makeup; Reddit/Quora answering; revenue-KPI growth hiring; little hands.
+- [[source-camille-hearst]] — Spotify/Patreon; supply-side marketplace primacy; hamster wheel of creators; curator-as-creator.
+- [[source-geoff-charles]] — [[ramp|Ramp]] VP Product; velocity as cultural OS; single-threaded teams; support-into-product.
+- [[source-sri-batchu]] — [[ramp|Ramp]] head of growth; cap-table-as-growth; growth engineering; north-star translation factors.
+- [[source-luc-levesque]] — Shopify CGO; growth advisor playbook; signs of excellence; AI-search disruption of SEO.
+- [[source-ayo-omojola]] — Cash App co-creator; "different AND better AND in a way that matters"; 10 things not 1; hire founders.
+- [[source-hila-qu]] — Reforge/GitLab; [[product-led-growth|PLG is fundamentally DLG]]; funnel audit; aha moment derivation.
+- [[source-gustaf-alstromer]] — Y Combinator; 600+ startups; can't growth-team your way to PMF; 10% cold-outreach rule.
+- [[source-gaurav-misra]] — Captions (ex-Snap); marketable feature weekly; public vs. secret roadmap; strategic technical debt.
+- [[source-lauryn-isford]] — Airtable; lower activation rates are better; reverse trial; Join-Evaluate-Upgrade-Expand.
+- [[source-ben-williams]] — Snyk; community-led growth; GitHub PR loop; programmatic SEO; PLG → PLS evolution.
+- [[source-adam-fishman]] — Patreon/Lyft; Growth Competency Model; onboarding as retention; PMF for candidates.
+- [[source-dan-hockenmaier]] — Thumbtack/Faire; [[growth-model|growth model]]; marketplaces are gardens; demand aggregation supremacy.
+- [[source-gia-laudi]] — Forget The Funnel; customer-led growth; JTBD-driven value journey; win-back sequences.
+- [[source-adam-grenier]] — Uber/MasterClass; three-ingredient channel framework; Growth CMO; adaptability as burnout signal.
+- [[source-yuriy-timen]] — Grammarly/Canva/Airtable; three subscription archetypes; conversion benchmarks; MMM revival.
+
+**B6: Hiring, management & leadership, Part 2 (2026-04-14)** — 24 sources, tier-B depth:
+- [[source-ethan-evans]] — Ex-Amazon VP; [[magic-loop|The Magic Loop]]; career ownership; systematic invention; failure recovery (Bezos Appstore).
+- [[source-sam-schillace]] — Microsoft deputy CTO, creator of Google Docs; what-if vs. why-not; virtue from error; AI as platform.
+- [[source-will-larson]] — Carta CTO; systems thinking; boring strategy; EM/PM shared perf ratings; honest/applicable/reversible values.
+- [[source-jason-fried]] — 37signals; appetites not estimates; stay-up vs. startup; gut-driven culture; work isn't war.
+- [[source-brian-chesky]] — Airbnb; [[founder-mode]]; functional org; one shared roadmap; 2 launches/year; PM-as-product-marketing.
+- [[source-itamar-gilad]] — Ex-Gmail PM; GIST framework; confidence meter; evidence-guided vs. opinion-based development.
+- [[source-paige-costello]] — Asana Head of Core Product; trust equation; Three Es; "answer the question they should have asked"; SBI feedback.
+- [[source-melissa-tan]] — Ex-Dropbox growth; four ingredients of high-performing teams; first growth hire as portfolio manager; flying formation.
+- [[source-varun-parmar]] — Miro CPO; AMPED org; rolling 6-month roadmap (80/50); quality-as-classification; "first to the brick wall."
+- [[source-josh-miller]] — The Browser Company; optimize for feelings; D5/D7; company-as-product; membership/storytelling teams; no PMs.
+- [[source-sriram-and-aarthi]] — a16z + founder; techno-optimism; personal brand for IC/PM; community-as-party; JTBD critique.
+- [[source-patrick-campbell]] — ProfitWell/Paddle; [[value-metric-pricing|value-metric pricing]]; tactical vs. strategic retention; tempo framework; competitive intel.
+- [[source-christine-itwaru]] — Pendo; [[product-operations|product operations]] (role + discipline); voice-of-customer synthesis; launch readiness.
+- [[source-keith-yandell]] — DoorDash generalist; "How to work with Keith" doc; helping reports find their next job; T3/B3; WeDash.
+- [[source-eeke-de-milliano]] — Retool Head of Product; [[crazy-ideas-doc|Crazy Ideas doc]]; trapdoor vs. two-way-door; process as variance-reducer.
+- [[source-matt-mochary]] — CEO coach; [[mochary-method]]; fear gives bad advice; firing-as-agent; humane layoff protocol; top goal.
+- [[source-jules-walter]] — Ex-Slack growth PM; IQ vs. EQ; mentor-ask ladder; strength-shadow pairing; reverse-engineering artifacts.
+- [[source-alex-hardimen]] — NYT CPO; functions × missions org; wartime PM; subscription bundle; Wordle integration; editorial firewall.
+- [[source-merci-grace]] — Ex-Slack head of growth; PLG day-zero value; 3-people/50-messages activation; real-work interview projects; diversity-as-flywheel.
+- [[source-kristen-berman]] — Irrational Labs; [[coaching|three-B framework]] (Behavior/Barriers/Benefits); friction as feature; right for wrong; incentive design.
+- [[source-crystal-w]] — Gojek/Kumu; Wizard-of-Oz at scale; growth physics; retention benchmarks; instrumentation taxonomy.
+- [[source-ken-norton]] — Ex-Google; [[creative-vs-reactive-leadership|creative vs. reactive leadership]]; three reactive postures; advice is cotton candy.
+- [[source-casey-winters_]] — Ex-Eventbrite CPO (2nd episode); [[zero-interest-rate-pm|zero-interest-rate PMs]]; three network-effect types; consumer subscription math.
+- [[source-gokul-rajaram]] — DoorDash/boards/angel; hire first PM from inside; lieutenant-of-lieutenants hiring; title discipline; feature factory.
+
+**B4: Product strategy & PM craft, Part 2 (2026-04-13)** — 29 sources, tier-B depth:
+- [[source-chip-conley]] — Peak Model; Modern Elder Academy; intergenerational mentorship at scale.
+- [[source-maggie-crowley]] — Strategy doc template; simplification as strategy; Toast/Drift/TripAdvisor.
+- [[source-bob-moesta-20]] — JTBD for careers: Four Quests (win, freedom, calm, purpose).
+- [[source-hari-srinivasan]] — LinkedIn RAPID; PM skills triangle: product sense, execution, leadership.
+- [[source-casey-winters]] — Perceived simplicity; Kindle/Fire framing; Pinterest/Grubhub growth.
+- [[source-shweta-shriva]] — Waymo safety-first MVP; autonomy maturity gates.
+- [[source-nikita-bier]] — Gas/tbh; latent demand; sequential validation.
+- [[source-nikita-miller]] — Roles & Responsibilities Contract; the Quad for cross-functional teams.
+- [[source-claire-hughes-johnson]] — Scaling Stripe; house metaphor; SPADE decision framework.
+- [[source-annie-pearl]] — Calendly PLG→SLG transition; Playing to Win applied.
+- [[source-upasna-gautam]] — CNN; equanimity under deadline pressure; live-event product work.
+- [[source-marty-cagan-20]] — "The disease of process people"; angrier precursor to the B3 episode.
+- [[source-zoelle-egner]] — Airtable; champions-led growth; profession elevation.
+- [[source-ravi-mehta]] — [[product-strategy-stack|Product Strategy Stack]]; velocity vs latency.
+- [[source-john-cutler]] — Reverse Anna Karenina; dysfunctional teams differ, healthy teams rhyme.
+- [[source-yuhki-yamashata]] — Figma's CPO: PMs own the why; memification; community-led growth.
+- [[source-chris-hutchins]] — All the Hacks + Wealthfront; vision repetition; slugging average; podcast PMF.
+- [[source-petra-wille]] — PMwheel + 5 ingredients of PM coaching; Strong Product People.
+- [[source-ian-mcallister]] — Top 1% PM; Amazon's [[working-backwards|PR/FAQ]]; Bezos's three investment tests; WBR.
+- [[source-lauren-ipsen]] — Executive recruiter; three product-leader archetypes; back-channel references.
+- [[source-fareed-mosavat]] — Reforge's Fareed; [[product-leader-canyon|Product Leader Canyon]]; sponsorship vs mentorship.
+- [[source-adriel-frederick]] — Humanize product; marginal user; cannonballs vs lead bullets.
+- [[source-janna-bastow]] — Mind the Product/ProdPad; [[now-next-later-roadmap|Now/Next/Later]] roadmap.
+- [[source-teresa-torres]] — [[continuous-discovery|Continuous discovery]]; [[opportunity-solution-tree|Opportunity Solution Tree]]; story-based interviewing.
+- [[source-jason-shah]] — Airbnb/Amazon/Alchemy; ladder vs map careers; taste is trainable.
+- [[source-shreyas-doshi]] — Five big ideas: [[lno-framework|LNO]]; [[pre-mortem]]; high agency; operate up-level.
+- [[source-shreyas-doshi-live]] — Live reflection; questions Shreyas wishes he'd asked himself sooner.
+- [[source-shishir-mehrotra]] — Coda CEO; [[rituals-of-great-teams|Rituals of great teams]]; DRI; math-spotters.
+- [[source-nickey-skarstad]] — Airbnb/Etsy/Shopify/Duolingo; vision→goals cascade; second-order decisions.
+
 ### Stub source pages
 
-- [[index-stubs]] — **196 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 promoted). Each stub captures title, guest, date, duration, description, and keywords. Promote a stub to a deep source page by requesting an ingest by topic or by guest.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1, B2, and B3 are now marked **done**; B4–B11 pending.
+- [[index-stubs]] — **4 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9 + 21 B10 + 17 B11 promoted; 9 stubs converted to duplicate redirects; 3 empty/promo stubs skipped). Each stub captures title, guest, date, duration, description, and keywords.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). All 11 batches marked **done**.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -203,6 +403,99 @@ Single-source hubs (guest's primary company, central to narrative):
 Existing entity pages updated:
 - [[figma]] — added B3 appearances (Dylan Field's second episode on post-Adobe pivot).
 
+### Companies and products (B4 batch)
+Cross-source entities (appear in ≥2 B4 sources):
+- [[amazon]] — Writing culture, Leadership Principles, Working Backwards. Referenced across Ian McAllister, Jason Shah, and indirectly via many B4 alumni.
+- [[reforge]] — Growth education platform. Fareed Mosavat + Casey Winters + Elena Verna as faculty.
+
+Existing entity pages updated through B4 cross-references:
+- [[figma]] — Yuhki Yamashita CPO episode adds operating-rituals and community-led-growth context.
+- [[uber]] — Ian McAllister's Vehicles product role adds one more B4 reference.
+- [[slack]] — Fareed Mosavat's growth-lead tenure referenced.
+
+### Companies and products (B5 batch)
+Cross-source entities (central to multiple B5 sources):
+- [[netflix]] — Three-layer culture stack (talent density → candor → freedom/responsibility); [[keeper-test|keeper test]]; context-not-control. Canonical voice: Elizabeth Stone.
+- [[shopify]] — First-principles re-derivation; anti-OKR; trust battery; Meetingageddon; pair programming default. Tobi Lütke + Farhan Thawar.
+- [[a16z]] — Confidence-restoration machine thesis; Ben Horowitz's five leadership principles; hard-thing-about-hard-things.
+- [[hubspot]] — [[culture-code|Culture Code]] as living product; radical transparency; zig vs. zag; no direct reports; LPM (laughs per minute). Dharmesh Shah.
+
+Existing entity pages updated through B5 cross-references:
+- [[canva]] — Melanie Perkins's mission pillars + Crazy Big Goals + staged celebrations.
+- [[meta]] — Boz's communication-is-the-job + Molly Graham's give-away-your-Legos (Facebook tenure).
+- [[salesforce]] — Marc Benioff's beginner's mind / Kaizen / orchestra-leader CEO.
+
+### Companies and products (B6 batch)
+New entities (appear centrally in B6 sources):
+- [[doordash]] — WeDash; no-politics / no-asshole; generalists over specialists; Tony Xu humility at scale.
+- [[37signals]] — Bootstrapped stay-up; appetites not estimates; no OKRs/KPIs; independence as root value.
+- [[the-browser-company]] — Optimize for feelings; D5/D7; company-is-product; membership/storytelling teams.
+
+Existing entity pages updated through B6 cross-references:
+- [[uber]] — Keith Yandell's early role; T3/B3 from Travis Kalanick.
+- [[slack]] — Merci Grace as first growth PM; canonical 3-people/50-messages activation.
+- [[amazon]] — Ethan Evans's career origin; Bezos Appstore recovery story.
+
+### Companies and products (B7 batch)
+New entities (central to B7 sources):
+- [[ramp]] — Velocity-as-cultural-OS; single-threaded teams; growth engineering; cap-table-as-growth.
+- [[wise]] — 70% word-of-mouth; three pillars (price, speed, ease); NPS as growth leverage; mission-led growth.
+- [[linear]] — Craft + taste; no A/B tests; main quest; paid work trials; pricing slider.
+
+Existing entity pages updated through B7 cross-references:
+- [[dropbox]] — Drew Houston's "behind the founder" adds boa-constrictor platform-competition narrative + engineered virality canonical.
+- [[meta]] — Naomi Gleit's 7-friends-in-10-days + growth accounting + PM-as-conductor toolkit.
+- [[shopify]] — Timothy Davis's paid-growth playbook + Luc Levesque's SEO/advisor framework.
+- [[canva]] — Yuriy Timen references; Luc Levesque advisor relationship.
+- [[y-combinator]] — Gustaf Alströmer's 600-startup pattern-match.
+- [[doordash]] — Marketplace/logistics references across multiple B7 sources.
+
+### Companies and products (B8 batch)
+New entities (central to B8 sources):
+- [[notion]] — Horizontal consumer-to-business product; sugar-coated broccoli; talent density; craft-as-religion.
+- [[nubank]] — Fanaticism culture; 50% Sean Ellis PMF threshold; fundamentally-different positioning.
+
+Existing entity pages updated through B8 cross-references:
+- [[amazon]] — Bill Carr's *Working Backwards* deep-dive adds PR/FAQ and single-threaded leader canonical.
+- [[meta]] — Ami Vora's metaphor-as-alignment-infrastructure + Nikhyl Singhal's Meta career frames.
+
+### Companies and products (B9 batch)
+New entities (central to B9 sources):
+- [[wiz]] — Cloud security; fastest SaaS to $100M ARR; PLG + sales hybrid; acquired by Google for $32B.
+
+Existing entity pages updated through B9 cross-references:
+- [[figma]] — Claire Butler's first-GTM-hire perspective; pricing pivot; designer advocates.
+- [[atlassian]] — Carilu Dietrich's CMO perspective; 2–3x R&D vs. sales spend; PLG at scale.
+- [[uber]] — Jonathan Becker's Thrive Digital client relationship.
+- [[reforge]] — Elena Verna's monetization and PLS course.
+
+### Companies and products (B10 batch)
+New entities (central to B10 sources):
+- [[revolut]] — $60B fintech; Local CEO model; 150+ product owners; raw intellect hiring; founder screen review at 50+ countries scale.
+- [[pandora]] — 0 to 80M users with zero paid UA; support@→all@ radical authenticity; Tom Conrad's math-equation thesis.
+- [[duolingo]] — Mission-obsessed growth; 3M→200M+ zero-budget organic; brand voice as cultural moat; passive-aggressive Duo owl.
+- [[anchor]] — Podcast creation platform (→Spotify); do-things-that-don't-scale intern distribution; three pivots to PMF.
+- [[coda]] — Shackleton's systems-not-goals operating culture; flash tags; Catalyst review; two-way writeups.
+- [[substack]] — Writer-curated Recommendations; tool-to-network evolution; writer control as product principle.
+
+Existing entity pages updated through B10 cross-references:
+- [[apple]] — Baxley's 8-year design tenure; design tenets; small teams (20 Mac, 24 iPhone); design → engineering reporting.
+- [[stripe]] — Dill's quality-is-growth + Walk the Store; Singleton's friction logging + engineer-cations + 10.5% revenue uplift.
+- [[figma]] — Kapoor's 0→1 product development; hackathons as launchpads; dogfooding as investment engine.
+- [[airbnb]] — Dill's Performance = Potential - Interference; Antin's multimillion-dollar button; Livingston's cereal box funding story.
+- [[y-combinator]] — Livingston's social radar; 10-minute interviews; earnestness > charisma.
+- [[rippling]] — Henrickson's compound startup model; design for most complex case first; small teams founding products.
+
+### Companies and products (B11 batch)
+B11 is the "miscellaneous drawer" — no new standalone entity pages. Primary companies referenced:
+- [[doordash]] — Jess Lachs's analytics org; centralized + embedded pods.
+- [[stripe]] — Jeff Weinstein's product craft; Study Groups; zero-ticket metric.
+- [[notion]] — Camille Ricketts's community-led growth; ambassador program.
+
+Existing entity pages updated through B11 cross-references:
+- [[doordash]] — Lachs adds analytics-org-design perspective (centralized with embedded pods, proxy metrics, fail-state metrics).
+- [[stripe]] — Weinstein adds product-craft lens (customer-perspective metrics, Study Groups).
+
 ## Concepts
 
 ### PMF batch
@@ -250,12 +543,110 @@ Existing entity pages updated:
 - [[strategy-choice-cascade]] — Roger Martin's Playing to Win: where to play, how to win. Also covers Rumelt's Good Strategy / Bad Strategy.
 - [[shape-up]] — Ryan Singer's Basecamp methodology: appetites not estimates, shaping, circuit breakers.
 
+### B4 batch (Product strategy & PM craft, Part 2)
+**Cross-source / operating-system artifacts**:
+- [[working-backwards]] — Amazon's PR/FAQ as mechanism for problem-first thinking (Ian McAllister + Jason Shah).
+- [[product-strategy-stack]] — Ravi Mehta's mission → vision → strategy → themes → initiatives cascade.
+- [[now-next-later-roadmap]] — Janna Bastow's alternative to timeline roadmaps.
+- [[opportunity-solution-tree]] — Teresa Torres's discovery artifact.
+- [[continuous-discovery]] — Weekly interview cadence; story-based interviewing (Teresa Torres).
+- [[rituals-of-great-teams]] — Shishir Mehrotra's intentional ritual design (DRIs, math-spotters, grid company).
+
+**Career & PM craft**:
+- [[product-leader-canyon]] — Fareed Mosavat's mid-career transition gap.
+- [[lno-framework]] — Shreyas Doshi's Leverage / Neutral / Overhead task taxonomy.
+- [[pre-mortem]] — Shreyas Doshi's decision-hygiene ritual.
+
+### B5 batch (Hiring, management & leadership, Part 1)
+**Retention & hiring filters**:
+- [[keeper-test]] — Netflix's continuous "would I fight to keep them?" retention filter; comparison with Levine 30-day, Lockett enthusiastic-rehire, Horowitz invest-in-strength.
+
+**Coaching & difficult-conversation frameworks**:
+- [[grow-model]] — Goal / Reality / Options / Way-forward; Rachel Lockett's canonical coaching structure.
+- [[coaching]] — Landscape page cataloging seven coach voices + shared toolkit + when-to-bring-in + script-work vs. inner-work split.
+
+**Team & org mechanics**:
+- [[dynamic-reteaming]] — Heidi Helfand's five patterns (one-by-one / grow-split / merging / isolation / switching) + RIDE + whiteboard practice.
+- [[founder-prenup]] — Alisa Cohn's five alignment questions for co-founders; 65% co-founder conflict stat.
+- [[give-away-your-legos]] — Molly Graham's scaling-career mechanic; J-curve companion.
+
+**Culture as product**:
+- [[culture-code]] — HubSpot's versioned 128-page artifact; culture-as-product thesis; Dharmesh Shah.
+- [[delta-4]] — Kunal Shah's 4-point efficiency-jump threshold; irreversibility + high failure tolerance + UBP.
+
+**Body, breath, inner work**:
+- [[state-over-story]] — Jonny Miller's bottom-up regulation; physiology toolkit; APE check; emotional debt.
+
+### B6 batch (Hiring, management & leadership, Part 2)
+**Founder-mode & operating models**:
+- [[founder-mode]] — Chesky/Lütke/Fried/Miller variants; CEO-as-CPO operating manual; anti "delegate and empower."
+
+**Career & IC leverage**:
+- [[magic-loop]] — Ethan Evans's five-step career-growth algorithm for ICs and middle managers.
+- [[zero-interest-rate-pm]] — Casey Winters's diagnostic for ZIRP-trained PMs who freeze under uncertainty.
+
+**Coaching (script-work lineage)**:
+- [[mochary-method]] — Scripted CEO coaching; fear-gives-bad-advice; humane layoffs; top goal + accountability.
+- [[creative-vs-reactive-leadership]] — Ken Norton's three reactive postures + creative counterpart.
+
+**Operating infrastructure**:
+- [[product-operations]] — Christine Itwaru's canonical treatment of product ops (role + discipline).
+
+**Innovation rituals & pricing**:
+- [[crazy-ideas-doc]] — Retool's annual innovation ritual; permission to think.
+- [[value-metric-pricing]] — Patrick Campbell's highest-leverage pricing move; 20-25% churn drop.
+
+### B7 batch (Growth loops, acquisition, retention & activation)
+**Core growth concepts**:
+- [[growth-loops]] — Compounding acquisition mechanism; replaces the linear funnel.
+- [[product-led-growth]] — Canonical PLG overview; Hila Qu's DLG reframe + PLS evolution.
+- [[growth-model]] — Spreadsheet-based analytical representation of the business; Hockenmaier's canonical.
+- [[hierarchy-of-engagement]] — Sarah Tavel's three-level framework: core action → accruing benefits → self-perpetuating.
+- [[adjacent-user-theory]] — Bangaly Kaba's user-cohort-evolution framework.
+- [[word-of-mouth-engineering]] — Peiris/Udezue thesis: WOM is downstream of 10x product, not referral mechanics.
+
+### B8 batch (Positioning, narrative & messaging)
+- [[positioning-canon]] — Landscape page: 10-altitude stack from market selection to press distribution.
+- [[smallest-viable-audience]] — Godin's targeting concept; convergence with Moore beachhead + Jackson named persona + Wilkinson niche.
+- [[category-creation]] — Gago's three-input validation (budget/language/competition) + dual-track strategy.
+- [[storytelling-craft]] — Dicks/Duarte/Tristan landscape: five-second moment, what-is/what-could-be, Bow and Arrow.
+
+### B9 batch (Sales, GTM & pricing)
+- [[product-led-sales]] — Hybrid motion where product owns pipeline; PQA; monetization awareness hierarchy. Elena Verna + Claire Butler.
+- [[strategic-narrative]] — Old game → new game → promised land framework; CEO alignment tool. Andy Raskin + Dunford critique.
+- [[fomu-jolt-method]] — FOMU > FOMO; JOLT closing method (Judge-Offer-Limit-Take-risk-off). Matt Dixon.
+- [[pricing-strategy]] — Landscape page: pricing stack from philosophy to negotiation to downturn tactics. Ramanujam + Butler + Schottenstein.
+
+### B10 batch (Design, craft & founder-led 0→1)
+**Cross-source clusters**:
+- [[design-tenets]] — Opinionated decision-making tools vs. unopposable principles. Baxley (ThoughtSpot) + Butterfield (utility curves) + Dill (Walk the Store rubric).
+- [[dogfooding]] — Using your own product as a non-negotiable practice. Prohovnik + Gotthilf + Singleton + Kapoor + Zlokazov + Monga.
+- [[pattern-breakers]] — Inflections + insights + founder-future fit; force a choice, not a comparison. Mike Maples Jr.
+
+**Named single-source frameworks**:
+- [[flash-tags]] — FYI / Suggestion / Recommendation / Plea feedback calibration scale. Lane Shackleton (via Dharmesh Shah).
+- [[walk-the-store]] — 15 essential journeys friction-logged and scored quarterly. Katie Dill + David Singleton.
+- [[fuel-and-engine]] — Marketing framework: fuel (content/messaging) + engine (distribution/ops). Emily Kramer.
+
+### B11 batch (Data, metrics, career & personal growth)
+B11 concepts are largely cross-referenced to existing concept pages rather than spawning new ones. The batch's concepts are deeply personal (career strategy, inner work, relationships) rather than domain-specific tools:
+- [[coaching]] — Updated: Robin's progressive disclosure and Weaver's internal scorecard extend the coaching landscape from B5.
+- [[product-led-growth]] — Updated: Ricketts's community-led growth is a PLG subvariant; Orosz's newsletter flywheel is creator-led growth.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
 - [[comparison-b1-ai-product-approaches]] — 29 B1 guests grouped into 10 schools: evals-first, agents-as-new-app, AI-native orgs, post-training data, velocity, pricing, security, research, growth, design.
 - [[comparison-b2-ai-product-approaches]] — 32 B2 guests grouped by AI product approach: code editors, app builders, autonomous agents, big tech, enterprise, growth, craft.
 - [[comparison-b3-product-strategy-approaches]] — 30 B3 guests grouped into 8 schools: strategy theory, PM reform, customer research, growth/scaling, design/craft, decision-making, career paths, platform culture.
+- [[comparison-b4-product-strategy-approaches]] — 29 B4 guests grouped into 7 schools: career mechanics, roadmap/strategy/operating system, discovery, coaching, product culture, 0→1, feature craft.
+- [[comparison-b5-leadership-schools]] — 25 B5 guests grouped into 7 schools: heat-injection, run-toward-fear, inner-work, script-work, talent-density, give-away-Legos, mission-architecture; plus 6 key disagreements (is-leader-nice, team-problem-root-cause, when-to-fire, is-management-founder-job, culture-origin, inner-work-necessary).
+- [[comparison-b6-leadership-approaches]] — 24 B6 guests adding 5 distinct poles (founder-mode, calm-company, feelings-first, AMPED, IC-bottom-up) + 6 disagreements sharpened (scale-via-mode-or-small, metrics-vs-feelings, real-work-hiring, first-PM-inside-or-outside, ops-as-growth-or-Band-Aid, career-leverage-source).
+- [[comparison-b7-growth-approaches]] — 30 B7 guests grouped into 8 schools (earned-channels, WOM engineering, paid+SEO education, craft+opinionated, performance marketing ops, data-led PLG, hierarchy of engagement, pre-PMF traction) + 6 disagreements (split-testing, paid-vs-organic, activation-rate, growth-team-before-PMF, marketplace-supply-vs-demand, canonical-activation-metric).
+- [[comparison-b8-positioning-approaches]] — 19 B8 guests grouped into 7 schools (market selection, hidden-vision positioning, category creation, lifecycle-aware positioning, brand-as-promise, structured brand methodology, narrative + storytelling craft) + 5 disagreements (category vs. fit, promise vs. methodology, who is the hero, how narrow, synthetic vs. earned virality).
+- [[comparison-b9-sales-gtm-approaches]] — 19 B9 guests grouped into 8 schools (positioning & pitch, category design, founder-led sales, buyer psychology, product-led sales, pricing, GTM ops, specialist) + 6 disagreements (category vs. positioning, trend-first vs. value-first, when to hire sales, FOMO vs. FOMU, product's role in revenue, advertising's power).
+- [[comparison-b10-design-craft-approaches]] — 21 B10 guests grouped into 6 schools (design philosophy, founder-led detail obsession, 0→1 creation, growth & GTM craft, process & rituals, personal resilience) + 6 disagreements (MVP quality bar, prototyping speed, scope vs. depth, metrics role, research velocity, founder glorification).
+- [[comparison-b11-data-career-approaches]] — 17 B11 guests grouped into 6 schools (experimentation & data rigor, strategy & prioritization, career strategy & personal growth, relationships & inner work, growth & distribution, learning from failure) + 5 disagreements (statistical rigor, OKR applicability, power vs. vulnerability, career optimization, metrics philosophy).
 
 ## Syntheses
 
@@ -263,3 +654,11 @@ Existing entity pages updated:
 - [[synthesis-b1-ai-product-patterns]] — 9 convergent patterns across the B1 batch (evals-as-PRD, outcomes-replace-seats, agents-with-oversight, post-training-moat, top-down org change, daily shipping, non-engineers benefit most, craft-as-moat, violent disruption).
 - [[synthesis-b2-ai-product-patterns]] — 9 convergent patterns across the B2 batch (AI coding explosion, Claude Sonnet step-function, bottleneck→taste, Jevons Paradox, rip-up-strategy, non-determinism, custom models, AI marketing, human management).
 - [[synthesis-b3-product-strategy-patterns]] — 9 convergent patterns across the B3 batch (strategy-is-choice, PM-theater-reckoning, talk-to-customers, appetite-not-estimate, product-ops-emergence, career-from-discomfort, counter-positioning, psychological-safety, AI-changes-what-not-whether).
+- [[synthesis-b4-product-strategy-patterns]] — 8 convergent patterns across the B4 batch (PM career as skill reset, rituals produce culture, PMs own the why, modern-operating-system artifact trio, back-channel references, story-based methods, structured coaching, taste as meta-skill).
+- [[synthesis-b5-scaling-people-patterns]] — 9 convergent patterns across the B5 batch (continuous retention decisions, rehearsable difficult conversations, culture-maintained-not-proclaimed, leader's-job-is-communication, teams-reenact-leader-patterns, structural-design-around-weaknesses, cliff-jumps-not-ladder-climbs, body-and-breath-as-tools, real-work-beats-interviews) + meta-pattern table mapping layers to tools to voices.
+- [[synthesis-b6-leadership-patterns]] — 8 convergent patterns across the B6 batch (interviewing-is-different-from-the-job, first-PM-from-inside, founder-mode-as-pattern, product-ops-as-discipline, bottom-up-career-leverage, coaching-as-script, non-traditional-org-structures, metrics-as-input-not-output) + meta-pattern on older-episodes-are-more-contrarian.
+- [[synthesis-b7-growth-patterns]] — 10 convergent patterns across the B7 batch (growth-can't-manufacture-PMF, activation-metric-must-be-derived, earned-channel-thesis, retention-compounds-harder, onboarding-highest-leverage, WOM-downstream-of-10x-product, experimentation-cuts-both-ways, data-led-foundation, non-obvious-channels-are-alpha, adjacent-users-explain-the-long-game) + four-lever meta-model (acquisition / activation / retention / monetization).
+- [[synthesis-b8-positioning-patterns]] — 8 convergent patterns across the B8 batch (positioning-is-a-stack, fundamentally-different-trumps-incrementally-better, narrow-audience-wide-empathy, brand-equals-promise, story-needs-one-memorable-thing, internal-narrative-equals-external-narrative, delivery-craft-matters, go-direct-earn-distribution).
+- [[synthesis-b9-sales-gtm-patterns]] — 8 convergent patterns across the B9 batch (buyers-are-afraid, founders-must-sell-first, product-must-own-pipeline, pricing-is-product, teach-the-buyer, do-things-that-dont-scale, free-tier-determines-trajectory, positioning-is-upstream) + GTM maturity arc meta-model.
+- [[synthesis-b10-design-craft-patterns]] — 7 convergent patterns across the B10 batch (quality-IS-growth, founder-detail-review-scales, small-teams-create-breakthroughs, dogfooding-non-negotiable, bet-on-people-not-ideas, systems-outperform-goals, single-player-to-multiplayer-chasm) + craft maturity arc meta-model.
+- [[synthesis-b11-data-career-patterns]] — 7 convergent patterns across the B11 batch (most-ideas-fail, metrics-must-be-causal, career-requires-discomfort, internal-scorecard-over-external, systems-outperform-willpower, relationships-compound, framework-literacy-as-meta-skill) + data-informed life arc meta-model.

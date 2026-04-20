@@ -1,36 +1,19 @@
 ---
-title: "Source: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta"
+title: "Source: [DUPLICATE] Anneka Gupta episode — redirect"
 type: source
+status: duplicate
 created: 2026-04-10
-updated: 2026-04-10
-tags: [stub, lenny-podcast, growth, acquisition, churn, metrics, okrs, roadmap, prioritization, experimentation]
-guest: "Manik Gupta"
-publish_date: 2024-10-17
-duration: "1:08:37"
+updated: 2026-04-17
+tags: [duplicate, redirect]
 sources: [lenny-podcast/manik-gupta.md]
-status: stub
 ---
 
-# Source: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
+# Source: [DUPLICATE] redirect to [[source-anneka-gupta]]
 
-**Guest**: Manik Gupta  
-**Published**: 2024-10-17  
-**Duration**: 1:08:37  
-**YouTube**: https://www.youtube.com/watch?v=E3dUveqt9Bw  
+The raw file `lenny-podcast/manik-gupta.md` has the **same video_id** (`E3dUveqt9Bw`) and title as `anneka-gupta.md`. The YAML frontmatter lists guest as "Manik Gupta" but the title and transcript body are the Anneka Gupta episode.
 
-## Description
+**See**: [[source-anneka-gupta]]
 
-Anneka Gupta is the Chief Product Officer at Rubrik, a leading B2B cybersecurity company. She previously spent 11 years at LiveRamp, where she was the President and Head of Product and Platforms...
+## Why this stub exists
 
-## Keywords
-
-growth, acquisition, churn, metrics, okrs, roadmap, prioritization, experimentation, analytics, pricing, revenue, team building, culture, leadership, management
-
-## Status
-
-This is a **stub** — auto-generated from the transcript's YAML frontmatter. The full transcript at `raw/lenny-podcast/manik-gupta.md` has not yet been deeply ingested. To promote this stub to a full source page with entity/concept cross-references and synthesis, ask for a deep ingest by topic or by guest.
-
-## See also
-
-- [[index]] — full wiki catalog
-- [[log]] — operation log
+The B9 theme batch surfaced both files. On inspection, this is a duplicate transcript (434 lines vs. 485 — different transcription of the same recording). Treated as duplicate per ingest policy.

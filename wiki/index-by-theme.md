@@ -21,14 +21,14 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B1** | AI products & LLMs — Part 1 (newer: 2025+) | 29 |
 | **B2** | AI products & LLMs — Part 2 (2024 and earlier) | 32 |
 | **B3** ✅ | Product strategy & PM craft — Part 1 (newer) | 30 |
-| **B4** | Product strategy & PM craft — Part 2 (older) | 29 |
-| **B5** | Hiring, management & leadership — Part 1 (newer) | 25 |
-| **B6** | Hiring, management & leadership — Part 2 (older) | 24 |
-| **B7** | Growth loops, acquisition, retention & activation | 31 |
-| **B8** | Positioning, narrative & messaging | 21 |
-| **B9** | Sales, GTM & pricing | 21 |
-| **B10** | Design, craft & founder-led 0→1 | 24 |
-| **B11** | Data & metrics + Career/ICs + misc | 21 |
+| **B4** ✅ | Product strategy & PM craft — Part 2 (older) | 29 |
+| **B5** ✅ | Hiring, management & leadership — Part 1 (newer) | 25 |
+| **B6** ✅ | Hiring, management & leadership — Part 2 (older) | 24 |
+| **B7** ✅ | Growth loops, acquisition, retention & activation | 31 |
+| **B8** ✅ | Positioning, narrative & messaging | 21 |
+| **B9** ✅ | Sales, GTM & pricing | 21 |
+| **B10** ✅ | Design, craft & founder-led 0→1 | 24 |
+| **B11** ✅ | Data & metrics + Career/ICs + misc | 21 |
 | | **Total** | **287** |
 
 ## Batches
@@ -149,7 +149,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 29  
 **Themes**: product-discovery  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ **Deep-ingested 2026-04-13** — see [[comparison-b4-product-strategy-approaches]] and [[synthesis-b4-product-strategy-patterns]].
 
 - [[source-chip-conley|Mastering product strategy and growing as a PM \| Maggie Crowley (Toast, Drift, TripAdviso]] — *Chip Conley* (2023-11-05)
 - [[source-maggie-crowley|Mastering product strategy and growing as a PM \| Maggie Crowley (Toast, Drift, TripAdviso]] — *Maggie Crowley* (2023-11-05)
@@ -185,7 +185,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 25  
 **Themes**: hiring-management  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-13 — see [[comparison-b5-leadership-schools]] and [[synthesis-b5-scaling-people-patterns]]
 
 - [[source-molly-graham|“I like being scared”: Molly Graham’s frameworks for rapid career growth \| Molly Graham]] — *Molly Graham* (2026-01-04)
 - [[source-rachel-lockett|A guide to difficult conversations, building high-trust teams, and designing a life you lo]] — *Rachel Lockett* (2025-11-23)
@@ -217,7 +217,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 24  
 **Themes**: hiring-management  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-14 — see [[comparison-b6-leadership-approaches]] and [[synthesis-b6-leadership-patterns]]
 
 - [[source-ethan-evans|Taking control of your career \| Ethan Evans (Amazon)]] — *Ethan Evans* (2024-01-14)
 - [[source-sam-schillace|How to be more innovative \| Sam Schillace (Microsoft deputy CTO, creator of Google Docs)]] — *Sam Schillace* (2024-01-11)
@@ -246,9 +246,9 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 ### B7 — Growth loops, acquisition, retention & activation
 
-**Count**: 31  
+**Count**: 31 (30 deep-ingested + 1 skipped as mislabeled duplicate of [[source-benjamin-lauzier-marketplaces]])
 **Themes**: growth  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-15 — see [[comparison-b7-growth-approaches]] and [[synthesis-b7-growth-patterns]]
 
 - [[source-elena-verna|10 growth tactics that never work \| Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)]] — *Elena Verna* (2025-01-19)
 - [[source-drew-houston|Behind the founder \| Drew Houston (Dropbox)]] — *Drew Houston* (2025-01-09)
@@ -284,9 +284,9 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 ### B8 — Positioning, narrative & messaging
 
-**Count**: 21  
+**Count**: 21 (19 unique deep-ingested + 2 duplicate redirects)
 **Themes**: positioning-narrative  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-16 — see [[comparison-b8-positioning-approaches]] and [[synthesis-b8-positioning-patterns]]
 
 - [[source-andrew-wilkinson|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. \| Andrew Wilk]] — *Andrew Wilkinson* (2025-07-03)
 - [[source-interview-q-compilation|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. \| Andrew Wilk]] — *Interview Q Compilation* (2025-07-03)
@@ -312,9 +312,9 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 ### B9 — Sales, GTM & pricing
 
-**Count**: 21  
+**Count**: 21 (19 unique deep-ingested + 2 duplicate redirects)
 **Themes**: sales-gtm, pricing-monetization  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-19 — see [[comparison-b9-sales-gtm-approaches]] and [[synthesis-b9-sales-gtm-patterns]]
 
 - [[source-jeanne-grosser|What world-class GTM looks like in 2026 \| Jeanne DeWitt Grosser (Vercel, Stripe, Google)]] — *Jeanne Grosser* (2025-11-30)
 - [[source-jen-abel-20|$1M to $10M: The enterprise sales playbook with Jen Abel]] — *Jen Abel 2.0* (2025-11-09)
@@ -342,7 +342,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 24  
 **Themes**: design-craft, founder-0to1  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ Deep-ingested 2026-04-19
 
 - [[source-stewart-butterfield|Mental models for building products people love ft. Stewart Butterfield]] — *Stewart Butterfield* (2025-11-20)
 - [[source-bob-baxley|35 years of product design wisdom from Apple, Disney, Pinterest and beyond \| Bob Baxley]] — *Bob Baxley* (2025-06-12)
@@ -373,7 +373,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 21  
 **Themes**: data-metrics, career-ic, misc  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ **Deep-ingested 2026-04-20** — see [[comparison-b11-data-career-approaches]] and [[synthesis-b11-data-career-patterns]].
 
 - [[source-graham-weaver|How to break out of autopilot and create the life you want \| Graham Weaver (Stanford GSB ]] — *Graham Weaver* (2025-01-16)
 - [[source-phyl-terry|Land your dream job in today’s market: negotiation tactics, job search councils, more \| P]] — *Phyl Terry* (2024-09-12)
