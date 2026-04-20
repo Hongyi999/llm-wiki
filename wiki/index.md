@@ -190,6 +190,25 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 - [[source-sachin-monga]] — Substack VP Product; Recommendations as growth lever; writer control; build with writers; tool-to-network evolution.
 - [[source-emily-kramer]] — MKT1; fuel + engine framework; Π-shaped marketer; PLG is a misnomer; GACCS brief; impact vs. splatergy.
 
+**B11: Data, metrics, career & personal growth (2026-04-20)** — 17 unique sources, tier-B depth (21 nominal; 1 duplicate redirect, 3 empty/promo stubs skipped):
+- [[source-graham-weaver]] — Stanford GSB; Genie Framework; Nine Lives; "worse first"; internal vs. external scorecard; limiting beliefs lose power on paper.
+- [[source-phyl-terry]] — Job Search Councils; candidate market fit; job mission with OKRs; negotiation tactics; do it together.
+- [[source-jess-lachs]] — DoorDash VP Analytics; centralized analytics with embedded pods; proxy metrics; fail-state metrics; analytics = business impact.
+- [[source-jeff-weinstein]] — Stripe product; go-go-go + long-term compounding; "users having a bad day" metric; zero-ticket goal; Study Groups.
+- [[source-jeffrey-pfeffer]] — Stanford power course; Seven Rules of Power; networking as generosity; success excuses everything; power is learnable.
+- [[source-carole-robin]] — Stanford Touchy Feely; 15% rule; three realities; anger as secondary emotion; inquiry > advice; progressive disclosure.
+- [[source-nir-eyal]] — Indistractable; traction vs. distraction; 10-minute rule; time-boxing > to-do lists; effort pacts; identity-based change.
+- [[source-failure]] — Compilation episode; trust-before-change (Dill); broken math equations (Conrad); fail conclusively (Batchu); B-side careers.
+- [[source-anuj-rathi]] — Full-stack PM; 4BB framework; three divergent PR FAQs; users are lazy/vain/selfish; OKRs fail in 3-sided marketplaces.
+- [[source-ronny-kohavi]] — A/B testing definitive guide; 66-92% experiment failure rate; OEC; Twyman's Law; SRM; P-value corrections.
+- [[source-ada-chen-rekhi]] — Career decisions; Curiosity Loops; values exercise; explore-exploit strategy; boiling frog; eating your vegetables.
+- [[source-christina-wodtke]] — OKRs as vitamin not medicine; mission → strategy → OKR → weekly status; Friday celebrations; pilot with best team.
+- [[source-laura-schaffer]] — Experimentation at Amplitude; good vs. bad friction; 80% hypotheses wrong; lower confidence thresholds; painted-door tests.
+- [[source-vijay]] — Mixpanel journey; don't cannibalize core; speed-first then design-led; RICE with delayed C&E; NPS 16→50 turnaround.
+- [[source-eoy-review]] — Year-end top 10 compilation; canonical frameworks (Dunford positioning, Verna retention-first, Doshi LNO, Mochary small teams).
+- [[source-camille-ricketts]] — Notion community-led growth; atomic unit of sharing; ambassador program; don't measure ROI too early.
+- [[source-gergely]] — The Pragmatic Engineer; leaving Uber; six years blogging; newsletter-as-book; Substack recommendations flywheel.
+
 **B8: Positioning, narrative & messaging (2026-04-16)** — 19 unique sources, tier-B depth (21 nominal; 2 skipped as duplicates):
 - [[source-andrew-wilkinson]] — Tiny holding company; fish where the fish are; AI-agent personal ops; lazy leadership.
 - [[source-ivan-zhao]] — Notion founder; sugar-coated broccoli; B2C2B horizontal; Lego-brick vs Lego-box; talent density.
@@ -302,8 +321,8 @@ Fully ingested with cross-linked entity/concept/comparison/synthesis pages.
 
 ### Stub source pages
 
-- [[index-stubs]] — **25 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9 + 21 B10 promoted; 8 stubs converted to duplicate redirects). Each stub captures title, guest, date, duration, description, and keywords.
-- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). B1–B10 are now marked **done**; B11 pending.
+- [[index-stubs]] — **4 auto-generated stubs** remaining (29 B1 + 32 B2 + 30 B3 + 29 B4 + 25 B5 + 24 B6 + 30 B7 + 19 B8 + 19 B9 + 21 B10 + 17 B11 promoted; 9 stubs converted to duplicate redirects; 3 empty/promo stubs skipped). Each stub captures title, guest, date, duration, description, and keywords.
+- [[index-by-theme]] — the full 287 sources **clustered into 11 thematic batches** (AI products, product discovery, hiring, growth, positioning, sales/pricing, design+founder, data+career+misc). All 11 batches marked **done**.
 - [[lint-dedup]] — 2026-04-11 pre-B1 dedup report: 11 duplicate raw transcripts removed.
 
 ## Entities
@@ -467,6 +486,16 @@ Existing entity pages updated through B10 cross-references:
 - [[y-combinator]] — Livingston's social radar; 10-minute interviews; earnestness > charisma.
 - [[rippling]] — Henrickson's compound startup model; design for most complex case first; small teams founding products.
 
+### Companies and products (B11 batch)
+B11 is the "miscellaneous drawer" — no new standalone entity pages. Primary companies referenced:
+- [[doordash]] — Jess Lachs's analytics org; centralized + embedded pods.
+- [[stripe]] — Jeff Weinstein's product craft; Study Groups; zero-ticket metric.
+- [[notion]] — Camille Ricketts's community-led growth; ambassador program.
+
+Existing entity pages updated through B11 cross-references:
+- [[doordash]] — Lachs adds analytics-org-design perspective (centralized with embedded pods, proxy metrics, fail-state metrics).
+- [[stripe]] — Weinstein adds product-craft lens (customer-perspective metrics, Study Groups).
+
 ## Concepts
 
 ### PMF batch
@@ -599,6 +628,11 @@ Existing entity pages updated through B10 cross-references:
 - [[walk-the-store]] — 15 essential journeys friction-logged and scored quarterly. Katie Dill + David Singleton.
 - [[fuel-and-engine]] — Marketing framework: fuel (content/messaging) + engine (distribution/ops). Emily Kramer.
 
+### B11 batch (Data, metrics, career & personal growth)
+B11 concepts are largely cross-referenced to existing concept pages rather than spawning new ones. The batch's concepts are deeply personal (career strategy, inner work, relationships) rather than domain-specific tools:
+- [[coaching]] — Updated: Robin's progressive disclosure and Weaver's internal scorecard extend the coaching landscape from B5.
+- [[product-led-growth]] — Updated: Ricketts's community-led growth is a PLG subvariant; Orosz's newsletter flywheel is creator-led growth.
+
 ## Comparisons
 
 - [[comparison-pmf-measurement-approaches]] — Sean Ellis Test vs. Superhuman PMF Engine vs. Four Levels of PMF vs. Marketplace Liquidity.
@@ -612,6 +646,7 @@ Existing entity pages updated through B10 cross-references:
 - [[comparison-b8-positioning-approaches]] — 19 B8 guests grouped into 7 schools (market selection, hidden-vision positioning, category creation, lifecycle-aware positioning, brand-as-promise, structured brand methodology, narrative + storytelling craft) + 5 disagreements (category vs. fit, promise vs. methodology, who is the hero, how narrow, synthetic vs. earned virality).
 - [[comparison-b9-sales-gtm-approaches]] — 19 B9 guests grouped into 8 schools (positioning & pitch, category design, founder-led sales, buyer psychology, product-led sales, pricing, GTM ops, specialist) + 6 disagreements (category vs. positioning, trend-first vs. value-first, when to hire sales, FOMO vs. FOMU, product's role in revenue, advertising's power).
 - [[comparison-b10-design-craft-approaches]] — 21 B10 guests grouped into 6 schools (design philosophy, founder-led detail obsession, 0→1 creation, growth & GTM craft, process & rituals, personal resilience) + 6 disagreements (MVP quality bar, prototyping speed, scope vs. depth, metrics role, research velocity, founder glorification).
+- [[comparison-b11-data-career-approaches]] — 17 B11 guests grouped into 6 schools (experimentation & data rigor, strategy & prioritization, career strategy & personal growth, relationships & inner work, growth & distribution, learning from failure) + 5 disagreements (statistical rigor, OKR applicability, power vs. vulnerability, career optimization, metrics philosophy).
 
 ## Syntheses
 
@@ -626,3 +661,4 @@ Existing entity pages updated through B10 cross-references:
 - [[synthesis-b8-positioning-patterns]] — 8 convergent patterns across the B8 batch (positioning-is-a-stack, fundamentally-different-trumps-incrementally-better, narrow-audience-wide-empathy, brand-equals-promise, story-needs-one-memorable-thing, internal-narrative-equals-external-narrative, delivery-craft-matters, go-direct-earn-distribution).
 - [[synthesis-b9-sales-gtm-patterns]] — 8 convergent patterns across the B9 batch (buyers-are-afraid, founders-must-sell-first, product-must-own-pipeline, pricing-is-product, teach-the-buyer, do-things-that-dont-scale, free-tier-determines-trajectory, positioning-is-upstream) + GTM maturity arc meta-model.
 - [[synthesis-b10-design-craft-patterns]] — 7 convergent patterns across the B10 batch (quality-IS-growth, founder-detail-review-scales, small-teams-create-breakthroughs, dogfooding-non-negotiable, bet-on-people-not-ideas, systems-outperform-goals, single-player-to-multiplayer-chasm) + craft maturity arc meta-model.
+- [[synthesis-b11-data-career-patterns]] — 7 convergent patterns across the B11 batch (most-ideas-fail, metrics-must-be-causal, career-requires-discomfort, internal-scorecard-over-external, systems-outperform-willpower, relationships-compound, framework-literacy-as-meta-skill) + data-informed life arc meta-model.

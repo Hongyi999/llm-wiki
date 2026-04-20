@@ -9,6 +9,28 @@ updated: 2026-04-14
 
 Chronological record of all wiki operations.
 
+## [2026-04-20] ingest-batch | B11 — Data, metrics, career & personal growth (17 unique sources)
+
+Deep-ingested the **B11** batch: 17 unique Lenny's Podcast transcripts on experimentation, analytics org design, OKRs, career strategy, personal growth, relationships, community-led growth, and learning from failure (2022-11 through 2025-01). Tier-B depth, parallel write-agents. 21 nominal sources minus 1 duplicate stub (`laura-modi.md` → laura-schaffer same video_id UMAmj1bciww) minus 3 empty/promo stubs (`daniel-lereya.md`, `peter-deng.md`, `teaser_2021.md`).
+
+**Source pages written** (17): graham-weaver, phyl-terry, jess-lachs, jeff-weinstein, jeffrey-pfeffer, carole-robin, nir-eyal, failure, anuj-rathi, ronny-kohavi, ada-chen-rekhi, christina-wodtke, laura-schaffer, vijay, eoy-review, camille-ricketts, gergely.
+
+**Duplicate redirect** (1): laura-modi (same video_id as laura-schaffer).
+
+**Empty/promo stubs skipped** (3): daniel-lereya, peter-deng, teaser_2021.
+
+**Comparison**: comparison-b11-data-career-approaches — 6 schools (experimentation & data rigor, strategy & prioritization, career strategy & personal growth, relationships & inner work, growth & distribution, learning from failure) + 5 disagreements (statistical rigor, OKR applicability, power vs. vulnerability, career optimization, metrics philosophy).
+
+**Synthesis**: synthesis-b11-data-career-patterns — 7 convergent patterns (most-ideas-fail, metrics-must-be-causal, career-requires-discomfort, internal-scorecard-over-external, systems-outperform-willpower, relationships-compound, framework-literacy-as-meta-skill) + data-informed life arc meta-model.
+
+**Cross-source observations**:
+- "Most ideas fail" is the deepest B11 convergence (5 voices independently: Kohavi 66-92%, Schaffer 80%, Lachs analytics-kills-bad-ideas, Vijay cannibalization failure, Failure compilation)
+- Career growth requires intentional discomfort — Weaver, Chen Rekhi, Pfeffer, Terry, and the Failure compilation all diagnose avoidance as the primary career trap
+- B11's data-informed life arc complements B10's craft maturity arc: B10 = how to build what's worth building, B11 = how to build who's worth being
+- This completes all 11 batches. Total deep source pages: ~280 (287 nominal minus duplicates and empty stubs). Stub count: 4 remaining (3 empty/promo + 1 duplicate redirect).
+
+---
+
 ## [2026-04-19] ingest-batch | B10 — Design, craft & founder-led 0→1 (21 unique sources)
 
 Deep-ingested the **B10** batch: 21 unique Lenny's Podcast transcripts on design philosophy, product craft, founder evaluation, 0→1 creation, growth, and personal resilience (2023-05 through 2025-11). Tier-B depth, 4 parallel write-agents. 24 nominal sources minus 3 duplicate stubs (`gibson-biddle.md` → bob-baxley same video_id X-83gvgVaWc; `jake-knapp-john-zeratsky-20.md` → jake-knapp-john-zeratsky same video_id cuce7zvOFHY; `david-placek.md` → david-singleton same video_id F0_IKKY3HCk).

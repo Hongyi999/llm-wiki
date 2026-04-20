@@ -28,7 +28,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 | **B8** ✅ | Positioning, narrative & messaging | 21 |
 | **B9** ✅ | Sales, GTM & pricing | 21 |
 | **B10** ✅ | Design, craft & founder-led 0→1 | 24 |
-| **B11** | Data & metrics + Career/ICs + misc | 21 |
+| **B11** ✅ | Data & metrics + Career/ICs + misc | 21 |
 | | **Total** | **287** |
 
 ## Batches
@@ -373,7 +373,7 @@ This page is the **deep-ingest batch plan** for the 287 stub Lenny's Podcast tra
 
 **Count**: 21  
 **Themes**: data-metrics, career-ic, misc  
-**Status**: ⏳ pending deep ingest
+**Status**: ✅ **Deep-ingested 2026-04-20** — see [[comparison-b11-data-career-approaches]] and [[synthesis-b11-data-career-patterns]].
 
 - [[source-graham-weaver|How to break out of autopilot and create the life you want \| Graham Weaver (Stanford GSB ]] — *Graham Weaver* (2025-01-16)
 - [[source-phyl-terry|Land your dream job in today’s market: negotiation tactics, job search councils, more \| P]] — *Phyl Terry* (2024-09-12)
